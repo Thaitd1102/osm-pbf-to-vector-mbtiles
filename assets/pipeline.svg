@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="250" viewBox="0 0 1280 250" role="img" aria-labelledby="title desc">
+  <title id="title">OSM PBF to Vector MBTiles pipeline</title>
+  <desc id="desc">Vietnam OSM PBF is clipped with osmium, converted to Hanoi Center MBTiles with tilemaker, inspected or exported with sqlite3 and mb-util, then displayed by MapLibre.</desc>
+  <rect width="1280" height="250" fill="#f8f5ee"/>
+  <style>
+    .box { fill: #fffdf8; stroke: #d1ae91; stroke-width: 2; rx: 10; }
+    .file { font: bold 16px Arial, sans-serif; fill: #3c362d; }
+    .detail { font: 13px Arial, sans-serif; fill: #766650; }
+    .tool { font: bold 13px Arial, sans-serif; fill: #a77830; }
+    .arrow { stroke: #b78c55; stroke-width: 3; fill: none; marker-end: url(#head); }
+  </style>
+  <defs>
+    <marker id="head" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto">
+      <path d="M0,0 L10,4 L0,8 Z" fill="#b78c55"/>
+    </marker>
+  </defs>
+  <rect class="box" x="25" y="72" width="200" height="92"/>
+  <text class="file" x="125" y="105" text-anchor="middle">vietnam-latest</text>
+  <text class="file" x="125" y="128" text-anchor="middle">.osm.pbf</text>
+  <text class="detail" x="125" y="151" text-anchor="middle">OSM raw vector data</text>
+  <path class="arrow" d="M225 118 H280"/>
+  <text class="tool" x="252" y="98" text-anchor="middle">osmium</text>
+  <rect class="box" x="281" y="72" width="200" height="92"/>
+  <text class="file" x="381" y="105" text-anchor="middle">hanoi-center</text>
+  <text class="file" x="381" y="128" text-anchor="middle">.osm.pbf</text>
+  <text class="detail" x="381" y="151" text-anchor="middle">clipped region</text>
+  <path class="arrow" d="M481 118 H536"/>
+  <text class="tool" x="508" y="98" text-anchor="middle">tilemaker</text>
+  <rect class="box" x="537" y="72" width="200" height="92"/>
+  <text class="file" x="637" y="105" text-anchor="middle">hanoi-center</text>
+  <text class="file" x="637" y="128" text-anchor="middle">.mbtiles</text>
+  <text class="detail" x="637" y="151" text-anchor="middle">vector tile database</text>
+  <path class="arrow" d="M737 118 H792"/>
+  <text class="tool" x="764" y="88" text-anchor="middle">sqlite3</text>
+  <text class="tool" x="764" y="104" text-anchor="middle">mb-util</text>
+  <rect class="box" x="793" y="72" width="200" height="92"/>
+  <text class="file" x="893" y="105" text-anchor="middle">tiles/z/x/y</text>
+  <text class="file" x="893" y="128" text-anchor="middle">.pbf</text>
+  <text class="detail" x="893" y="151" text-anchor="middle">exported vector tiles</text>
+  <path class="arrow" d="M993 118 H1048"/>
+  <text class="tool" x="1020" y="88" text-anchor="middle">MapLibre</text>
+  <rect class="box" x="1049" y="72" width="205" height="92"/>
+  <text class="file" x="1151" y="112" text-anchor="middle">Web map demo</text>
+  <text class="detail" x="1151" y="140" text-anchor="middle">styled vector layers</text>
+  <text class="detail" x="640" y="218" text-anchor="middle">Vector MBTiles contains data tiles (.pbf), not pre-rendered PNG images.</text>
+</svg>

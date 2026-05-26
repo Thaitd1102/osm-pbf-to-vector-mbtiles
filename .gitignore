@@ -1,0 +1,4 @@
+__pycache__/
+tiles/
+vietnam-latest.osm.pbf
+*.log

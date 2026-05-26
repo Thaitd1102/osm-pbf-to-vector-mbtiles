@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Hanoi Center Vector Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.16.0/dist/maplibre-gl.css"/>
+  <script src="https://unpkg.com/maplibre-gl@5.16.0/dist/maplibre-gl.js"></script>
+  <style>
+    *{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:'Courier New',monospace;background:#f7f4ee;color:#3c362d;height:100vh;overflow:hidden}
+    #map{position:absolute;inset:0}
+
+    /* Panel chung */
+    .panel{
+      position:absolute;z-index:10;
+      background:rgba(255,253,248,0.9);
+      border:1px solid rgba(92,76,51,0.16);
+      border-radius:4px;
+      backdrop-filter:blur(8px);
+    }
+
+    /* Header */
+    #header{
+      top:12px;left:12px;
+      padding:10px 14px;
+      min-width:200px;
+    }
+    #header h1{font-size:11px;letter-spacing:0.15em;color:#a77830;text-transform:uppercase;font-weight:normal}
+    #header p{font-size:10px;color:rgba(60,54,45,0.55);margin-top:3px;letter-spacing:0.05em}
+
+    /* Zoom panel */
+    #zoom-panel{
+      top:12px;right:12px;
+      padding:10px 12px;
+      text-align:right;
+    }
+    #zoom-label{font-size:10px;color:rgba(60,54,45,0.55);letter-spacing:0.1em;text-transform:uppercase;margin-bottom:6px}
+    #zoom-value{font-size:28px;color:#a77830;line-height:1;letter-spacing:-0.02em}
+    .zoom-btns{display:flex;gap:4px;margin-top:8px;justify-content:flex-end}
+    .zoom-btns button{
+      font-family:'Courier New',monospace;
+      font-size:10px;letter-spacing:0.08em;
+      background:transparent;color:rgba(60,54,45,0.7);
+      border:1px solid rgba(92,76,51,0.2);
+      border-radius:2px;padding:3px 7px;cursor:pointer;
+      transition:all 0.15s;
+    }
+    .zoom-btns button:hover{background:rgba(204,165,94,0.16);color:#a77830;border-color:rgba(167,120,48,0.45)}
+    .zoom-btns button.active{background:rgba(204,165,94,0.22);color:#a77830;border-color:#a77830}
+
+    /* Layer panel */
+    #layer-panel{
+      bottom:12px;left:12px;
+      padding:10px 14px;
+      min-width:180px;
+    }
+    #layer-panel h2{font-size:10px;letter-spacing:0.12em;color:rgba(60,54,45,0.55);text-transform:uppercase;margin-bottom:8px;font-weight:normal}
+    .layer-row{display:flex;align-items:center;gap:8px;padding:3px 0;cursor:pointer}
+    .layer-row:hover .layer-name{color:#3c362d}
+    .layer-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0;transition:opacity 0.2s}
+    .layer-name{font-size:11px;color:rgba(60,54,45,0.72);transition:color 0.2s;letter-spacing:0.03em;user-select:none}
+    .layer-row.off .layer-dot{opacity:0.2}
+    .layer-row.off .layer-name{color:rgba(60,54,45,0.3)}
+
+    /* Inspect panel */
+    #inspect-panel{
+      bottom:12px;right:12px;
+      padding:10px 14px;
+      width:220px;
+      display:none;
+    }
+    #inspect-panel h2{font-size:10px;letter-spacing:0.12em;color:rgba(60,54,45,0.55);text-transform:uppercase;margin-bottom:8px;font-weight:normal;display:flex;justify-content:space-between;align-items:center}
+    #inspect-close{background:none;border:none;color:rgba(60,54,45,0.42);cursor:pointer;font-size:14px;line-height:1;padding:0}
+    #inspect-close:hover{color:#3c362d}
+    #inspect-layer{font-size:10px;color:#a77830;letter-spacing:0.1em;text-transform:uppercase;margin-bottom:6px}
+    .inspect-row{display:flex;justify-content:space-between;gap:8px;padding:2px 0;border-bottom:1px solid rgba(92,76,51,0.1)}
+    .inspect-row:last-child{border-bottom:none}
+    .inspect-key{font-size:10px;color:rgba(60,54,45,0.55);flex-shrink:0}
+    .inspect-val{font-size:10px;color:#3c362d;text-align:right;word-break:break-all}
+
+    /* Status */
+    #status{
+      position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);
+      z-index:20;font-size:11px;letter-spacing:0.1em;color:rgba(60,54,45,0.65);
+      text-transform:uppercase;pointer-events:none;
+    }
+    #status.hidden{display:none}
+
+    /* Cursor crosshair khi hover map */
+    .maplibregl-canvas{cursor:crosshair!important}
+  </style>
+</head>
+<body>
+<div id="map"></div>
+<div id="status">Đang tải...</div>
+
+<div class="panel" id="header">
+  <h1>Hanoi Center · OSM Tiles</h1>
+  <p>hanoi-center.mbtiles · vector pbf</p>
+</div>
+
+<div class="panel" id="zoom-panel">
+  <div id="zoom-label">zoom</div>
+  <div id="zoom-value">14</div>
+  <div class="zoom-btns">
+    <button onclick="flyTo(6)">z6</button>
+    <button onclick="flyTo(10)">z10</button>
+    <button class="active" onclick="flyTo(14)">z14</button>
+  </div>
+</div>
+
+<div class="panel" id="layer-panel">
+  <h2>Layers</h2>
+  <div class="layer-row" data-layer="water" onclick="toggleLayer(this)">
+    <div class="layer-dot" style="background:#7ecbef"></div>
+    <span class="layer-name">water</span>
+  </div>
+  <div class="layer-row" data-layer="parks" onclick="toggleLayer(this)">
+    <div class="layer-dot" style="background:#a8d998"></div>
+    <span class="layer-name">park</span>
+  </div>
+  <div class="layer-row" data-layer="landuse" onclick="toggleLayer(this)">
+    <div class="layer-dot" style="background:#eadfc9"></div>
+    <span class="layer-name">landuse</span>
+  </div>
+  <div class="layer-row" data-layer="landcover" onclick="toggleLayer(this)">
+    <div class="layer-dot" style="background:#d9ebc8"></div>
+    <span class="layer-name">landcover</span>
+  </div>
+  <div class="layer-row" data-layer="waterways" onclick="toggleLayer(this)">
+    <div class="layer-dot" style="background:#67b8dc"></div>
+    <span class="layer-name">waterway</span>
+  </div>
+  <div class="layer-row" data-layer="roads" onclick="toggleLayer(this)">
+    <div class="layer-dot" style="background:#efc08f"></div>
+    <span class="layer-name">transportation</span>
+  </div>
+  <div class="layer-row" data-layer="boundaries" onclick="toggleLayer(this)">
+    <div class="layer-dot" style="background:#c19db2"></div>
+    <span class="layer-name">boundary</span>
+  </div>
+  <div class="layer-row" data-layer="aeroways" onclick="toggleLayer(this)">
+    <div class="layer-dot" style="background:#cbb8cd"></div>
+    <span class="layer-name">aeroway</span>
+  </div>
+  <div class="layer-row" data-layer="buildings" onclick="toggleLayer(this)">
+    <div class="layer-dot" style="background:#ead2ba"></div>
+    <span class="layer-name">building</span>
+  </div>
+  <div class="layer-row" data-layer="places" onclick="toggleLayer(this)">
+    <div class="layer-dot" style="background:#735b3c"></div>
+    <span class="layer-name">place label</span>
+  </div>
+  <div class="layer-row" data-layer="pois" onclick="toggleLayer(this)">
+    <div class="layer-dot" style="background:#b56745"></div>
+    <span class="layer-name">poi label</span>
+  </div>
+</div>
+
+<div class="panel" id="inspect-panel">
+  <h2>
+    <span>inspect</span>
+    <button id="inspect-close" onclick="closeInspect()">✕</button>
+  </h2>
+  <div id="inspect-layer"></div>
+  <div id="inspect-props"></div>
+</div>
+
+<script>
+const map = new maplibregl.Map({
+  container: 'map',
+  style: {
+    version: 8,
+    glyphs: 'https://demotiles.maplibre.org/font/{fontstack}/{range}.pbf',
+    sources: {
+      'hk': {
+        type: 'vector',
+        tiles: [`${location.origin}/tiles/{z}/{x}/{y}.pbf`],
+        bounds: [105.700000, 20.950000, 106.000000, 21.150000],
+        minzoom: 0, maxzoom: 14
+      }
+    },
+    layers: [
+      { id: 'background', type: 'background', paint: {'background-color': '#f8f5ee'} },
+      { id: 'landcover', type: 'fill', source: 'hk', 'source-layer': 'landcover',
+        paint: { 'fill-color': '#e5f0d7', 'fill-opacity': 0.7 } },
+      { id: 'landuse', type: 'fill', source: 'hk', 'source-layer': 'landuse',
+        paint: { 'fill-color': '#eee7d8', 'fill-opacity': 0.9 } },
+      { id: 'parks', type: 'fill', source: 'hk', 'source-layer': 'park',
+        paint: { 'fill-color': '#bfe3b1', 'fill-opacity': 1 } },
+      { id: 'water', type: 'fill', source: 'hk', 'source-layer': 'water',
+        paint: { 'fill-color': '#92d7ef', 'fill-outline-color': '#58abd3' } },
+      { id: 'waterways', type: 'line', source: 'hk', 'source-layer': 'waterway',
+        paint: { 'line-color': '#67b8dc', 'line-width': ['interpolate',['linear'],['zoom'],8,0.5,14,2] } },
+      { id: 'boundaries', type: 'line', source: 'hk', 'source-layer': 'boundary',
+        paint: { 'line-color': '#c19db2', 'line-width': 1, 'line-dasharray': [4,3] } },
+      { id: 'aeroways', type: 'line', source: 'hk', 'source-layer': 'aeroway',
+        paint: { 'line-color': '#bba4bf', 'line-width': ['interpolate',['linear'],['zoom'],10,1,14,3] } },
+      { id: 'roads', type: 'line', source: 'hk', 'source-layer': 'transportation',
+        paint: { 'line-color': '#e6bf97', 'line-width': ['interpolate',['linear'],['zoom'],8,0.5,14,2.5] } },
+      { id: 'roads-label', type: 'line', source: 'hk', 'source-layer': 'transportation',
+        filter: ['in', ['get','class'], ['literal',['primary','secondary','tertiary','trunk','motorway']]],
+        paint: { 'line-color': '#d49a63', 'line-width': ['interpolate',['linear'],['zoom'],10,1,14,4] } },
+      { id: 'buildings', type: 'fill', source: 'hk', 'source-layer': 'building',
+        paint: { 'fill-color': '#ead6c3', 'fill-outline-color': '#d1ae91', 'fill-opacity': 0.95 } },
+      { id: 'road-names', type: 'symbol', source: 'hk', 'source-layer': 'transportation_name',
+        minzoom: 12,
+        layout: { 'symbol-placement': 'line', 'text-field': ['coalesce', ['get','name:latin'], ''], 'text-font': ['Open Sans Regular'], 'text-size': 11 },
+        paint: { 'text-color': '#7b6348', 'text-halo-color': '#fffdf8', 'text-halo-width': 1.5 } },
+      { id: 'water-names', type: 'symbol', source: 'hk', 'source-layer': 'water_name',
+        layout: { 'text-field': ['coalesce', ['get','name:latin'], ''], 'text-font': ['Open Sans Italic'], 'text-size': 12 },
+        paint: { 'text-color': '#3486ad', 'text-halo-color': '#eefaff', 'text-halo-width': 1 } },
+      { id: 'places', type: 'symbol', source: 'hk', 'source-layer': 'place',
+        layout: { 'text-field': ['coalesce', ['get','name:latin'], ''], 'text-font': ['Open Sans Semibold'], 'text-size': 13 },
+        paint: { 'text-color': '#57452f', 'text-halo-color': '#fffdf8', 'text-halo-width': 1.5 } },
+      { id: 'pois', type: 'symbol', source: 'hk', 'source-layer': 'poi',
+        minzoom: 14,
+        layout: { 'text-field': ['coalesce', ['get','name:latin'], ''], 'text-font': ['Open Sans Regular'], 'text-size': 10 },
+        paint: { 'text-color': '#9c573a', 'text-halo-color': '#fffdf8', 'text-halo-width': 1 } },
+      { id: 'house-numbers', type: 'symbol', source: 'hk', 'source-layer': 'housenumber',
+        minzoom: 14,
+        layout: { 'text-field': ['get','housenumber'], 'text-font': ['Open Sans Regular'], 'text-size': 9 },
+        paint: { 'text-color': '#927c65', 'text-halo-color': '#fffdf8', 'text-halo-width': 1 } },
+      { id: 'aerodrome-labels', type: 'symbol', source: 'hk', 'source-layer': 'aerodrome_label',
+        layout: { 'text-field': ['coalesce', ['get','name:latin'], ''], 'text-font': ['Open Sans Semibold'], 'text-size': 12 },
+        paint: { 'text-color': '#76627a', 'text-halo-color': '#fffdf8', 'text-halo-width': 1 } },
+      { id: 'mountain-peaks', type: 'symbol', source: 'hk', 'source-layer': 'mountain_peak',
+        layout: { 'text-field': ['coalesce', ['get','name:latin'], ''], 'text-font': ['Open Sans Regular'], 'text-size': 11 },
+        paint: { 'text-color': '#7d6551', 'text-halo-color': '#fffdf8', 'text-halo-width': 1 } }
+    ]
+  },
+  center: [105.850000, 21.050000],
+  zoom: 14
+});
+
+map.addControl(new maplibregl.NavigationControl(), 'top-right');
+
+map.on('load', () => {
+  document.getElementById('status').classList.add('hidden');
+});
+
+// Zoom display
+map.on('zoom', () => {
+  const z = map.getZoom();
+  document.getElementById('zoom-value').textContent = z.toFixed(1);
+  document.querySelectorAll('.zoom-btns button').forEach(b => b.classList.remove('active'));
+  if (z <= 7) document.querySelector('[onclick="flyTo(6)"]').classList.add('active');
+  else if (z <= 11) document.querySelector('[onclick="flyTo(10)"]').classList.add('active');
+  else document.querySelector('[onclick="flyTo(14)"]').classList.add('active');
+});
+
+function flyTo(z) {
+  map.flyTo({ zoom: z, center: [105.850000, 21.050000], duration: 800 });
+}
+
+// Toggle layers
+function toggleLayer(row) {
+  const id = row.dataset.layer;
+  const vis = map.getLayoutProperty(id, 'visibility');
+  const isOff = vis === 'none';
+  map.setLayoutProperty(id, 'visibility', isOff ? 'visible' : 'none');
+  row.classList.toggle('off', !isOff);
+}
+
+// Inspect on click
+const CLICKABLE = ['buildings','water','parks','landuse','landcover','waterways','boundaries','aeroways','roads','places','pois','mountain-peaks'];
+map.on('click', (e) => {
+  const features = map.queryRenderedFeatures(e.point, { layers: CLICKABLE });
+  if (!features.length) { closeInspect(); return; }
+  const f = features[0];
+  const panel = document.getElementById('inspect-panel');
+  document.getElementById('inspect-layer').textContent = f.layer['source-layer'] || f.layer.id;
+  const props = f.properties || {};
+  const keys = Object.keys(props).filter(k => props[k] !== null && props[k] !== '');
+  if (!keys.length) {
+    document.getElementById('inspect-props').innerHTML = '<div class="inspect-row"><span class="inspect-key">—</span><span class="inspect-val">no properties</span></div>';
+  } else {
+    document.getElementById('inspect-props').innerHTML = keys.slice(0,10).map(k =>
+      `<div class="inspect-row"><span class="inspect-key">${k}</span><span class="inspect-val">${String(props[k]).slice(0,40)}</span></div>`
+    ).join('');
+  }
+  panel.style.display = 'block';
+});
+
+function closeInspect() {
+  document.getElementById('inspect-panel').style.display = 'none';
+}
+
+map.on('error', () => {
+  document.getElementById('status').classList.remove('hidden');
+  document.getElementById('status').textContent = 'Không tải được tile';
+});
+</script>
+</body>
+</html>
