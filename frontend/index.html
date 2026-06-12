@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Maps Vietnam Pipeline</title>
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.6.0/dist/maplibre-gl.css">
+  <link rel="stylesheet" href="./style.css?v=20260604-zoom-ui">
+</head>
+<body>
+  <main id="app-shell">
+    <section id="map"></section>
+    <button id="btn-toggle-basemap" class="map-toggle" type="button">Nền MBTiles</button>
+    <button id="btn-toggle-diff" class="map-toggle map-toggle-secondary" type="button">Ẩn chấm</button>
+    <div id="toll-count-badge" class="map-stat-badge">Trạm thu phí: ...</div>
+
+    <aside id="panel">
+      <header class="panel panel-header">
+        <h1>Maps Vietnam</h1>
+        <p>Khoanh bbox, chọn hai phiên bản OSM PBF, tạo patch PBF và xem lớp thay đổi.</p>
+      </header>
+
+      <section class="panel control-panel">
+        <h2>Đầu vào pipeline</h2>
+
+        <section class="zoom-readout">
+          <span>Zoom level</span>
+          <strong id="zoom-level">10.00</strong>
+        </section>
+
+        <div class="control-group">
+          <label for="version-src">Phiên bản nguồn</label>
+          <select id="version-src"></select>
+        </div>
+
+        <div class="control-group">
+          <label for="version-target">Phiên bản đích</label>
+          <select id="version-target"></select>
+        </div>
+
+        <div class="inline-grid">
+          <div class="control-group">
+            <label for="minzoom">Min zoom</label>
+            <input id="minzoom" type="number" min="0" max="14" value="12">
+          </div>
+          <div class="control-group">
+            <label for="maxzoom">Max zoom</label>
+            <input id="maxzoom" type="number" min="0" max="14" value="14">
+          </div>
+        </div>
+
+        <label class="check-row">
+          <input id="render-mbtiles" type="checkbox">
+          <span>Render MBTiles</span>
+        </label>
+
+        <label class="check-row">
+          <input id="export-png" type="checkbox">
+          <span>Export PNG preview</span>
+        </label>
+
+        <section class="bbox-box">
+          <span>BBox</span>
+          <strong id="bbox-value">Chưa chọn vùng</strong>
+        </section>
+
+        <div class="draw-actions">
+          <button id="btn-draw-bbox" type="button">Khoanh vùng</button>
+          <button id="btn-clear-bbox" type="button">Xóa vùng</button>
+        </div>
+
+        <section class="flow-summary">
+          <div class="flow-title">Flow hiện tại</div>
+          <div class="flow-grid">
+            <div class="flow-item" id="flow-area-card">
+              <div class="k">Vùng</div>
+              <div class="v" id="flow-area">Chưa chọn</div>
+            </div>
+            <div class="flow-item">
+              <div class="k">Kích thước</div>
+              <div class="v" id="flow-size">0 m x 0 m</div>
+            </div>
+            <div class="flow-item">
+              <div class="k">Ước tính tile</div>
+              <div class="v" id="flow-tiles">0</div>
+            </div>
+            <div class="flow-item">
+              <div class="k">Nền hiển thị</div>
+              <div class="v" id="flow-basemap">Đang tải</div>
+            </div>
+            <div class="flow-item">
+              <div class="k">Zoom</div>
+              <div class="v" id="flow-zoom">10.00</div>
+            </div>
+            <div class="flow-item wide">
+              <div class="k">Output</div>
+              <div class="v" id="flow-output">patched.osm.pbf + diff.geojson</div>
+            </div>
+          </div>
+        </section>
+
+        <button id="submit-job" disabled>Chạy pipeline</button>
+      </section>
+
+      <section class="panel job-card">
+        <div class="job-row">
+          <span>Trạng thái</span>
+          <strong id="job-state">Idle</strong>
+        </div>
+        <div class="progress-track">
+          <div id="progress-bar"></div>
+        </div>
+        <p id="job-message">Sẵn sàng nhận job mới.</p>
+      </section>
+
+      <section class="panel output-card">
+        <div class="job-row">
+          <span>Kết quả</span>
+          <a id="output-link" href="#" target="_blank" rel="noreferrer">Chưa có file</a>
+        </div>
+      </section>
+
+      <section class="panel log-panel">
+        <div class="log-head">
+          <h2>Pipeline log</h2>
+          <button id="btn-clear-log" type="button">Xóa</button>
+        </div>
+        <div id="log-body"></div>
+      </section>
+    </aside>
+  </main>
+
+  <script src="https://unpkg.com/maplibre-gl@5.6.0/dist/maplibre-gl.js"></script>
+  <script src="./app.js?v=20260608-internal-patches-only"></script>
+</body>
+</html>

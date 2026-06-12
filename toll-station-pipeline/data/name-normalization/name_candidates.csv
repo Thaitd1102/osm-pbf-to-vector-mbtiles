@@ -1,0 +1,923 @@
+﻿object_id,object_type,candidate_source,candidate_name,candidate_name_normalized,candidate_confidence,current_name,lat,lon
+vn-toll-gmaps-chiju33vcouzdterplbzmsffqdo,toll_station,current_name,Trạm thu phí 319 HLD,tram thu phi 319 hld,0.90,Trạm thu phí 319 HLD,10.768771,106.92285
+vn-toll-gmaps-chiju33vcouzdterplbzmsffqdo,toll_station,osm_name,OSM toll 1223191092,osm toll 1223191092,0.65,Trạm thu phí 319 HLD,10.768771,106.92285
+vn-toll-gmaps-chiju33vcouzdterplbzmsffqdo,toll_station,reviewed_osm_name,Trạm Thu phí 319 HLD,tram thu phi 319 hld,0.95,Trạm thu phí 319 HLD,10.768771,106.92285
+vn-toll-gmaps-chiju33vcouzdterplbzmsffqdo,toll_station,review_google_name,Trạm Thu phí 319 HLD,tram thu phi 319 hld,0.85,Trạm thu phí 319 HLD,10.768771,106.92285
+vn-toll-gmaps-chiju33vcouzdterplbzmsffqdo,toll_station,colleague_name,TRẠM THU PHÍ BOT 319,tram thu phi bot 319,0.75,Trạm thu phí 319 HLD,10.768771,106.92285
+vn-toll-gmaps-chiju33vcouzdterplbzmsffqdo,toll_station,colleague_google_name,Trạm Thu phí 319 HLD,tram thu phi 319 hld,0.85,Trạm thu phí 319 HLD,10.768771,106.92285
+vn-toll-gmaps-chiju33vcouzdterplbzmsffqdo,toll_station,google_name,Trạm thu phí 319 HLD,tram thu phi 319 hld,0.8,Trạm thu phí 319 HLD,10.768771,106.92285
+vn-toll-gmaps-chij29z21fwxbzersldvctwexyc,toll_station,current_name,Trạm thu phí An Dân,tram thu phi an dan,0.90,Trạm thu phí An Dân,13.3493,109.208309
+vn-toll-gmaps-chij29z21fwxbzersldvctwexyc,toll_station,osm_name,Trạm Thu Phí An Dân (Thạch Bàn),tram thu phi an dan thach ban,0.65,Trạm thu phí An Dân,13.3493,109.208309
+vn-toll-gmaps-chij29z21fwxbzersldvctwexyc,toll_station,road,QL1A,quoc lo 1a,0.35,Trạm thu phí An Dân,13.3493,109.208309
+vn-toll-gmaps-chij29z21fwxbzersldvctwexyc,toll_station,google_name,Trạm thu phí An Dân,tram thu phi an dan,0.8,Trạm thu phí An Dân,13.3493,109.208309
+vn-toll-clean-089,toll_station,current_name,Trạm thu phí An Hiệp,tram thu phi an hiep,0.90,Trạm thu phí An Hiệp,9.6596264,105.9312819
+vn-toll-clean-089,toll_station,colleague_name,Trạm Thu phí An Hiệp,tram thu phi an hiep,0.75,Trạm thu phí An Hiệp,9.6596264,105.9312819
+vn-toll-clean-089,toll_station,colleague_google_name,Trạm Thu phí An Hiệp,tram thu phi an hiep,0.85,Trạm thu phí An Hiệp,9.6596264,105.9312819
+vn-toll-clean-089,toll_station,google_name,Trạm thu phí An Hiệp,tram thu phi an hiep,0.80,Trạm thu phí An Hiệp,9.6596264,105.9312819
+vn-toll-gmaps-chijzau1-ogfcjer9vtfj6wdmti,toll_station,current_name,Trạm thu phí An Hữu - cao tốc Mỹ Thuận - Cần Thơ,tram thu phi an huu cao toc my thuan can tho,0.90,Trạm thu phí An Hữu - cao tốc Mỹ Thuận - Cần Thơ,10.317215,105.885382
+vn-toll-gmaps-chijzau1-ogfcjer9vtfj6wdmti,toll_station,osm_name,Trạm Thu phí An Thái Trung,tram thu phi an thai trung,0.65,Trạm thu phí An Hữu - cao tốc Mỹ Thuận - Cần Thơ,10.317215,105.885382
+vn-toll-gmaps-chijzau1-ogfcjer9vtfj6wdmti,toll_station,road,Cao Tốc 8V8P,cao toc 8v8p,0.35,Trạm thu phí An Hữu - cao tốc Mỹ Thuận - Cần Thơ,10.317215,105.885382
+vn-toll-gmaps-chijzau1-ogfcjer9vtfj6wdmti,toll_station,reviewed_osm_name,Trạm thu phí An Hữu - cao tốc Mỹ Thuận - Cần Thơ,tram thu phi an huu cao toc my thuan can tho,0.95,Trạm thu phí An Hữu - cao tốc Mỹ Thuận - Cần Thơ,10.317215,105.885382
+vn-toll-gmaps-chijzau1-ogfcjer9vtfj6wdmti,toll_station,review_google_name,Trạm thu phí lối vào cao tốc,tram thu phi loi vao cao toc,0.85,Trạm thu phí An Hữu - cao tốc Mỹ Thuận - Cần Thơ,10.317215,105.885382
+vn-toll-gmaps-chijzau1-ogfcjer9vtfj6wdmti,toll_station,colleague_name,Trạm Thu phí An Thái Trung ( cục vàng đứng 24/24),tram thu phi an thai trung cuc vang dung 24 24,0.75,Trạm thu phí An Hữu - cao tốc Mỹ Thuận - Cần Thơ,10.317215,105.885382
+vn-toll-gmaps-chijzau1-ogfcjer9vtfj6wdmti,toll_station,colleague_google_name,Trạm Thu phí An Thái Trung ( cục vàng đứng 24/24),tram thu phi an thai trung cuc vang dung 24 24,0.85,Trạm thu phí An Hữu - cao tốc Mỹ Thuận - Cần Thơ,10.317215,105.885382
+vn-toll-gmaps-chijzau1-ogfcjer9vtfj6wdmti,toll_station,google_name,Trạm thu phí An Hữu - cao tốc Mỹ Thuận - Cần Thơ,tram thu phi an huu cao toc my thuan can tho,0.8,Trạm thu phí An Hữu - cao tốc Mỹ Thuận - Cần Thơ,10.317215,105.885382
+vn-toll-gmaps-chijuy91ddkjnterofqatacxwy8,toll_station,current_name,Trạm thu phí An Lão,tram thu phi an lao,0.90,Trạm thu phí An Lão,20.799313,106.523135
+vn-toll-gmaps-chijuy91ddkjnterofqatacxwy8,toll_station,osm_name,Trạm Thu phí Quốc lộ 10,tram thu phi quoc lo 10,0.65,Trạm thu phí An Lão,20.799313,106.523135
+vn-toll-gmaps-chijuy91ddkjnterofqatacxwy8,toll_station,reviewed_osm_name,Trạm Thu phí An Lão,tram thu phi an lao,0.95,Trạm thu phí An Lão,20.799313,106.523135
+vn-toll-gmaps-chijuy91ddkjnterofqatacxwy8,toll_station,review_google_name,Trạm Thu phí An Lão,tram thu phi an lao,0.85,Trạm thu phí An Lão,20.799313,106.523135
+vn-toll-gmaps-chijuy91ddkjnterofqatacxwy8,toll_station,google_name,Trạm thu phí An Lão,tram thu phi an lao,0.8,Trạm thu phí An Lão,20.799313,106.523135
+vn-toll-clean-077,toll_station,current_name,Trạm thu phí An Sương - An Lạc,tram thu phi an suong an lac,0.90,Trạm thu phí An Sương - An Lạc,10.7949827,106.5966321
+vn-toll-clean-077,toll_station,road,QL1A,quoc lo 1a,0.35,Trạm thu phí An Sương - An Lạc,10.7949827,106.5966321
+vn-toll-clean-077,toll_station,colleague_name,TRẠM THU PHÍ AN SƯƠNG AN LẠC,tram thu phi an suong an lac,0.75,Trạm thu phí An Sương - An Lạc,10.7949827,106.5966321
+vn-toll-clean-077,toll_station,colleague_google_name,Trạm thu phí An Sương - An Lạc,tram thu phi an suong an lac,0.85,Trạm thu phí An Sương - An Lạc,10.7949827,106.5966321
+vn-toll-clean-077,toll_station,google_name,Trạm thu phí An Sương - An Lạc,tram thu phi an suong an lac,0.80,Trạm thu phí An Sương - An Lạc,10.7949827,106.5966321
+vn-toll-gmaps-chijx-yktrabszerdy-sngzpn-c,toll_station,current_name,Trạm thu phí BOT Biên Cương,tram thu phi bot bien cuong,0.90,Trạm thu phí BOT Biên Cương,21.009102,107.354951
+vn-toll-gmaps-chijx-yktrabszerdy-sngzpn-c,toll_station,osm_name,Trạm thu phí Biên Cương,tram thu phi bien cuong,0.65,Trạm thu phí BOT Biên Cương,21.009102,107.354951
+vn-toll-gmaps-chijx-yktrabszerdy-sngzpn-c,toll_station,google_name,Trạm thu phí BOT Biên Cương,tram thu phi bot bien cuong,0.8,Trạm thu phí BOT Biên Cương,21.009102,107.354951
+vn-toll-gmaps-chijs7u-3i-jcternihgdqa3bji,toll_station,current_name,Trạm thu phí BOT Quang Đức Quốc lộ 14,tram thu phi bot quang duc quoc lo 14,0.90,Trạm thu phí BOT Quang Đức Quốc lộ 14,12.830902,108.248057
+vn-toll-gmaps-chijs7u-3i-jcternihgdqa3bji,toll_station,osm_name,OSM toll 13077408419,osm toll 13077408419,0.65,Trạm thu phí BOT Quang Đức Quốc lộ 14,12.830902,108.248057
+vn-toll-gmaps-chijs7u-3i-jcternihgdqa3bji,toll_station,road,QL14,quoc lo 14,0.35,Trạm thu phí BOT Quang Đức Quốc lộ 14,12.830902,108.248057
+vn-toll-gmaps-chijs7u-3i-jcternihgdqa3bji,toll_station,reviewed_osm_name,Trạm Thu Phí BOT Quang Đức QL14,tram thu phi bot quang duc quoc lo 14,0.95,Trạm thu phí BOT Quang Đức Quốc lộ 14,12.830902,108.248057
+vn-toll-gmaps-chijs7u-3i-jcternihgdqa3bji,toll_station,review_google_name,Trạm Thu Phí BOT Quang Đức QL14,tram thu phi bot quang duc quoc lo 14,0.85,Trạm thu phí BOT Quang Đức Quốc lộ 14,12.830902,108.248057
+vn-toll-gmaps-chijs7u-3i-jcternihgdqa3bji,toll_station,google_name,Trạm thu phí BOT Quang Đức Quốc lộ 14,tram thu phi bot quang duc quoc lo 14,0.8,Trạm thu phí BOT Quang Đức Quốc lộ 14,12.830902,108.248057
+vn-toll-clean-046,toll_station,current_name,Trạm thu phí BOT Thanh Nê,tram thu phi bot thanh ne,0.90,Trạm thu phí BOT Thanh Nê,20.3915191,106.4301286
+vn-toll-clean-046,toll_station,colleague_name,Trạm thu phí BOT Thanh Nê,tram thu phi bot thanh ne,0.75,Trạm thu phí BOT Thanh Nê,20.3915191,106.4301286
+vn-toll-clean-046,toll_station,colleague_google_name,Trạm thu phí BOT Thanh Nê,tram thu phi bot thanh ne,0.85,Trạm thu phí BOT Thanh Nê,20.3915191,106.4301286
+vn-toll-clean-046,toll_station,google_name,Trạm thu phí BOT Thanh Nê,tram thu phi bot thanh ne,0.80,Trạm thu phí BOT Thanh Nê,20.3915191,106.4301286
+vn-toll-gmaps-chijcvemggcxnterpqgmbpxjwbc,toll_station,current_name,Trạm thu phí Bình Giang,tram thu phi binh giang,0.90,Trạm thu phí Bình Giang,20.850998,106.202547
+vn-toll-gmaps-chijcvemggcxnterpqgmbpxjwbc,toll_station,osm_name,OSM toll 11946078822,osm toll 11946078822,0.65,Trạm thu phí Bình Giang,20.850998,106.202547
+vn-toll-gmaps-chijcvemggcxnterpqgmbpxjwbc,toll_station,reviewed_osm_name,Trạm Thu phí Bình Giang,tram thu phi binh giang,0.95,Trạm thu phí Bình Giang,20.850998,106.202547
+vn-toll-gmaps-chijcvemggcxnterpqgmbpxjwbc,toll_station,review_google_name,Trạm Thu phí Bình Giang,tram thu phi binh giang,0.85,Trạm thu phí Bình Giang,20.850998,106.202547
+vn-toll-gmaps-chijcvemggcxnterpqgmbpxjwbc,toll_station,colleague_name,Trạm Thu phí Bình Giang,tram thu phi binh giang,0.75,Trạm thu phí Bình Giang,20.850998,106.202547
+vn-toll-gmaps-chijcvemggcxnterpqgmbpxjwbc,toll_station,colleague_google_name,Trạm Thu phí Bình Giang,tram thu phi binh giang,0.85,Trạm thu phí Bình Giang,20.850998,106.202547
+vn-toll-gmaps-chijcvemggcxnterpqgmbpxjwbc,toll_station,google_name,Trạm thu phí Bình Giang,tram thu phi binh giang,0.8,Trạm thu phí Bình Giang,20.850998,106.202547
+vn-toll-gmaps-chijg7oddgr7nderqntflucdusi,toll_station,current_name,Trạm thu phí Bình Xuyên (IC3),tram thu phi binh xuyen ic3,0.90,Trạm thu phí Bình Xuyên (IC3),21.279366,105.669267
+vn-toll-gmaps-chijg7oddgr7nderqntflucdusi,toll_station,osm_name,Trạm thu phí Bình Xuyên,tram thu phi binh xuyen,0.65,Trạm thu phí Bình Xuyên (IC3),21.279366,105.669267
+vn-toll-gmaps-chijg7oddgr7nderqntflucdusi,toll_station,google_name,Trạm thu phí Bình Xuyên (IC3),tram thu phi binh xuyen ic3,0.7,Trạm thu phí Bình Xuyên (IC3),21.279366,105.669267
+vn-toll-clean-082,toll_station,current_name,Trạm thu phí Bù Nho,tram thu phi bu nho,0.90,Trạm thu phí Bù Nho,11.7275712,106.8751126
+vn-toll-clean-082,toll_station,road,ĐT741,dt741,0.35,Trạm thu phí Bù Nho,11.7275712,106.8751126
+vn-toll-clean-082,toll_station,colleague_name,Trạm thu phí Bù Nho,tram thu phi bu nho,0.75,Trạm thu phí Bù Nho,11.7275712,106.8751126
+vn-toll-clean-082,toll_station,colleague_google_name,Trạm Thu phí Bù Nho,tram thu phi bu nho,0.85,Trạm thu phí Bù Nho,11.7275712,106.8751126
+vn-toll-clean-082,toll_station,google_name,Trạm thu phí Bù Nho,tram thu phi bu nho,0.80,Trạm thu phí Bù Nho,11.7275712,106.8751126
+vn-toll-gmaps-chijz0jdhhggoteru0rs7axzots,toll_station,current_name,Trạm thu phí Bạc Liêu,tram thu phi bac lieu,0.90,Trạm thu phí Bạc Liêu,9.374352,105.712277
+vn-toll-gmaps-chijz0jdhhggoteru0rs7axzots,toll_station,osm_name,Trạm Thu Phí Bạc Liêu,tram thu phi bac lieu,0.65,Trạm thu phí Bạc Liêu,9.374352,105.712277
+vn-toll-gmaps-chijz0jdhhggoteru0rs7axzots,toll_station,colleague_name,TRẠM THU PHÍ BẠC LIÊU,tram thu phi bac lieu,0.75,Trạm thu phí Bạc Liêu,9.374352,105.712277
+vn-toll-gmaps-chijz0jdhhggoteru0rs7axzots,toll_station,colleague_google_name,Trạm Thu phí Bạc Liêu,tram thu phi bac lieu,0.85,Trạm thu phí Bạc Liêu,9.374352,105.712277
+vn-toll-gmaps-chijz0jdhhggoteru0rs7axzots,toll_station,google_name,Trạm thu phí Bạc Liêu,tram thu phi bac lieu,0.7,Trạm thu phí Bạc Liêu,9.374352,105.712277
+vn-toll-gmaps-chijiredpchpaderzawuyfy43mo,toll_station,current_name,Trạm thu phí Bắc Bình Định,tram thu phi bac binh dinh,0.90,Trạm thu phí Bắc Bình Định,14.397124,109.017843
+vn-toll-gmaps-chijiredpchpaderzawuyfy43mo,toll_station,osm_name,Trạm Thu Phí Bắc Bình Định,tram thu phi bac binh dinh,0.65,Trạm thu phí Bắc Bình Định,14.397124,109.017843
+vn-toll-gmaps-chijiredpchpaderzawuyfy43mo,toll_station,colleague_name,TRẠM THU PHÍ BẮC BÌNH ĐỊNH,tram thu phi bac binh dinh,0.75,Trạm thu phí Bắc Bình Định,14.397124,109.017843
+vn-toll-gmaps-chijiredpchpaderzawuyfy43mo,toll_station,colleague_google_name,Trạm Thu phí Bắc Bình Định,tram thu phi bac binh dinh,0.85,Trạm thu phí Bắc Bình Định,14.397124,109.017843
+vn-toll-gmaps-chijiredpchpaderzawuyfy43mo,toll_station,google_name,Trạm thu phí Bắc Bình Định,tram thu phi bac binh dinh,0.8,Trạm thu phí Bắc Bình Định,14.397124,109.017843
+vn-toll-gmaps-chijjz33lwwtaterpqndaejlzy4,toll_station,current_name,Trạm thu phí Bắc Quảng Ngãi,tram thu phi bac quang ngai,0.90,Trạm thu phí Bắc Quảng Ngãi,15.15787,108.751739
+vn-toll-gmaps-chijjz33lwwtaterpqndaejlzy4,toll_station,osm_name,Trạm Thu Phí Bắc Quảng Ngãi,tram thu phi bac quang ngai,0.65,Trạm thu phí Bắc Quảng Ngãi,15.15787,108.751739
+vn-toll-gmaps-chijjz33lwwtaterpqndaejlzy4,toll_station,google_name,Trạm thu phí Bắc Quảng Ngãi,tram thu phi bac quang ngai,0.8,Trạm thu phí Bắc Quảng Ngãi,15.15787,108.751739
+vn-toll-gmaps-chijbqk091h9nder80iyuxu9ckq,toll_station,current_name,Trạm thu phí Bắc Thăng Long - Nội Bài,tram thu phi bac thang long noi bai,0.90,Trạm thu phí Bắc Thăng Long - Nội Bài,21.203178,105.77953
+vn-toll-gmaps-chijbqk091h9nder80iyuxu9ckq,toll_station,osm_name,Đường Võ Văn Kiệt,duong vo van kiet,0.65,Trạm thu phí Bắc Thăng Long - Nội Bài,21.203178,105.77953
+vn-toll-gmaps-chijbqk091h9nder80iyuxu9ckq,toll_station,colleague_name,Trạm Thu phí Bắc Thăng Long - Nội Bài,tram thu phi bac thang long noi bai,0.75,Trạm thu phí Bắc Thăng Long - Nội Bài,21.203178,105.77953
+vn-toll-gmaps-chijbqk091h9nder80iyuxu9ckq,toll_station,colleague_google_name,Trạm Thu phí Bắc Thăng Long - Nội Bài,tram thu phi bac thang long noi bai,0.85,Trạm thu phí Bắc Thăng Long - Nội Bài,21.203178,105.77953
+vn-toll-gmaps-chijbqk091h9nder80iyuxu9ckq,toll_station,google_name,Trạm thu phí Bắc Thăng Long - Nội Bài,tram thu phi bac thang long noi bai,0.8,Trạm thu phí Bắc Thăng Long - Nội Bài,21.203178,105.77953
+vn-toll-gmaps-chijn4fa8utmcjerr8zi6wu9oiu,toll_station,current_name,Trạm thu phí Bến Lức,tram thu phi ben luc,0.90,Trạm thu phí Bến Lức,10.656005,106.473537
+vn-toll-gmaps-chijn4fa8utmcjerr8zi6wu9oiu,toll_station,osm_name,Đi Cao tốc Thành phố Hồ Chí Minh - Trung Lương,di cao toc thanh pho ho chi minh trung luong,0.65,Trạm thu phí Bến Lức,10.656005,106.473537
+vn-toll-gmaps-chijn4fa8utmcjerr8zi6wu9oiu,toll_station,colleague_name,Trạm Thu phí Bến Lức,tram thu phi ben luc,0.75,Trạm thu phí Bến Lức,10.656005,106.473537
+vn-toll-gmaps-chijn4fa8utmcjerr8zi6wu9oiu,toll_station,colleague_google_name,Trạm Thu phí Bến Lức,tram thu phi ben luc,0.85,Trạm thu phí Bến Lức,10.656005,106.473537
+vn-toll-gmaps-chijn4fa8utmcjerr8zi6wu9oiu,toll_station,google_name,Trạm thu phí Bến Lức,tram thu phi ben luc,0.7,Trạm thu phí Bến Lức,10.656005,106.473537
+vn-toll-gmaps-chijny0tnjdmoterqgz5mdb3vqu,toll_station,current_name,Trạm thu phí Bến Thủy,tram thu phi ben thuy,0.90,Trạm thu phí Bến Thủy,18.648611,105.704591
+vn-toll-gmaps-chijny0tnjdmoterqgz5mdb3vqu,toll_station,osm_name,Trạm Thu Phí Bến Thủy 1,tram thu phi ben thuy 1,0.65,Trạm thu phí Bến Thủy,18.648611,105.704591
+vn-toll-gmaps-chijny0tnjdmoterqgz5mdb3vqu,toll_station,colleague_name,Trạm Thu Phí Bến Thủy,tram thu phi ben thuy,0.75,Trạm thu phí Bến Thủy,18.648611,105.704591
+vn-toll-gmaps-chijny0tnjdmoterqgz5mdb3vqu,toll_station,colleague_google_name,Trạm Thu Phí Bến Thủy,tram thu phi ben thuy,0.85,Trạm thu phí Bến Thủy,18.648611,105.704591
+vn-toll-gmaps-chijny0tnjdmoterqgz5mdb3vqu,toll_station,google_name,Trạm thu phí Bến Thủy,tram thu phi ben thuy,0.8,Trạm thu phí Bến Thủy,18.648611,105.704591
+vn-toll-clean-080,toll_station,current_name,Trạm thu phí Cai Chanh,tram thu phi cai chanh,0.90,Trạm thu phí Cai Chanh,11.9121874,107.3905139
+vn-toll-clean-080,toll_station,colleague_name,Trạm thu phí Cai Chanh,tram thu phi cai chanh,0.75,Trạm thu phí Cai Chanh,11.9121874,107.3905139
+vn-toll-clean-080,toll_station,colleague_google_name,Trạm Thu phí Cai Chanh,tram thu phi cai chanh,0.85,Trạm thu phí Cai Chanh,11.9121874,107.3905139
+vn-toll-clean-080,toll_station,google_name,Trạm thu phí Cai Chanh,tram thu phi cai chanh,0.80,Trạm thu phí Cai Chanh,11.9121874,107.3905139
+vn-toll-gmaps-chij2q5hfmqqcjervjb8vivxgqm,toll_station,current_name,Trạm thu phí Cai Lậy,tram thu phi cai lay,0.90,Trạm thu phí Cai Lậy,10.410112,106.060544
+vn-toll-gmaps-chij2q5hfmqqcjervjb8vivxgqm,toll_station,osm_name,Trạm thu phí Cai Lậy,tram thu phi cai lay,0.65,Trạm thu phí Cai Lậy,10.410112,106.060544
+vn-toll-gmaps-chij2q5hfmqqcjervjb8vivxgqm,toll_station,colleague_name,TRẠM THU PHÍ CAI LẬY ( QUỐC LỘ 1A),tram thu phi cai lay quoc lo 1a,0.75,Trạm thu phí Cai Lậy,10.410112,106.060544
+vn-toll-gmaps-chij2q5hfmqqcjervjb8vivxgqm,toll_station,colleague_google_name,Trạm Thu phí Cai Lậy,tram thu phi cai lay,0.85,Trạm thu phí Cai Lậy,10.410112,106.060544
+vn-toll-gmaps-chij2q5hfmqqcjervjb8vivxgqm,toll_station,google_name,Trạm thu phí Cai Lậy,tram thu phi cai lay,0.7,Trạm thu phí Cai Lậy,10.410112,106.060544
+vn-toll-clean-071,toll_station,current_name,Trạm thu phí Cam Lâm,tram thu phi cam lam,0.90,Trạm thu phí Cam Lâm,12.057288,109.1246321
+vn-toll-clean-071,toll_station,colleague_name,TRẠM THU PHÍ CAM LÂM Km 30,tram thu phi cam lam km 30,0.75,Trạm thu phí Cam Lâm,12.057288,109.1246321
+vn-toll-clean-071,toll_station,colleague_google_name,Trạm Thu phí Cam Lâm,tram thu phi cam lam,0.85,Trạm thu phí Cam Lâm,12.057288,109.1246321
+vn-toll-clean-071,toll_station,google_name,Trạm thu phí Cam Lâm,tram thu phi cam lam,0.80,Trạm thu phí Cam Lâm,12.057288,109.1246321
+vn-toll-clean-007,toll_station,current_name,Trạm thu phí Cam Thịnh,tram thu phi cam thinh,0.90,Trạm thu phí Cam Thịnh,11.8724221,109.1085221
+vn-toll-clean-007,toll_station,colleague_name,TRẠM THU PHÍ CAM RANH Km 52,tram thu phi cam ranh km 52,0.75,Trạm thu phí Cam Thịnh,11.8724221,109.1085221
+vn-toll-clean-007,toll_station,colleague_google_name,Trạm Thu phí Cam Thịnh,tram thu phi cam thinh,0.85,Trạm thu phí Cam Thịnh,11.8724221,109.1085221
+vn-toll-clean-007,toll_station,google_name,Trạm thu phí Cam Thịnh,tram thu phi cam thinh,0.80,Trạm thu phí Cam Thịnh,11.8724221,109.1085221
+final-ChIJ-cUWDQN3NjERssQ2fMiAUBw,toll_station,current_name,Trạm thu phí Cao Bồ,tram thu phi cao bo,0.90,Trạm thu phí Cao Bồ,20.1664286,105.8628399
+final-ChIJ-cUWDQN3NjERssQ2fMiAUBw,toll_station,osm_name,Đường cao tốc Mai Sơn - Quốc lộ 45,duong cao toc mai son quoc lo 45,0.65,Trạm thu phí Cao Bồ,20.1664286,105.8628399
+final-ChIJ-cUWDQN3NjERssQ2fMiAUBw,toll_station,google_name,Trạm thu phí Cao Bồ,tram thu phi cao bo,0.8,Trạm thu phí Cao Bồ,20.1664286,105.8628399
+vn-toll-clean-095,toll_station,current_name,Trạm thu phí cao tốc bến lức - Long Thành (quốc lộ 51),tram thu phi cao toc ben luc long thanh quoc lo 51,0.90,Trạm thu phí cao tốc bến lức - Long Thành (quốc lộ 51),10.6755667,107.0197492
+vn-toll-clean-095,toll_station,road,quốc lộ 51,quoc lo 51,0.35,Trạm thu phí cao tốc bến lức - Long Thành (quốc lộ 51),10.6755667,107.0197492
+vn-toll-clean-095,toll_station,colleague_name,Trạm thu phí cao tốc bến lức - Long Thành (quốc lộ 51),tram thu phi cao toc ben luc long thanh quoc lo 51,0.75,Trạm thu phí cao tốc bến lức - Long Thành (quốc lộ 51),10.6755667,107.0197492
+vn-toll-clean-095,toll_station,colleague_google_name,Trạm thu phí cao tốc bến lức - Long Thành (quốc lộ 51),tram thu phi cao toc ben luc long thanh quoc lo 51,0.85,Trạm thu phí cao tốc bến lức - Long Thành (quốc lộ 51),10.6755667,107.0197492
+vn-toll-clean-095,toll_station,google_name,Trạm thu phí cao tốc bến lức - Long Thành (quốc lộ 51),tram thu phi cao toc ben luc long thanh quoc lo 51,0.80,Trạm thu phí cao tốc bến lức - Long Thành (quốc lộ 51),10.6755667,107.0197492
+vn-toll-gmaps-chijsdfrx9pxsjershfnq83hhau,toll_station,current_name,Trạm thu phí cao tốc Hà Nội - Hải Phòng - Dương Kính,tram thu phi cao toc ha noi hai phong duong kinh,0.90,Trạm thu phí cao tốc Hà Nội - Hải Phòng - Dương Kính,20.770163,106.712798
+vn-toll-gmaps-chijsdfrx9pxsjershfnq83hhau,toll_station,osm_name,OSM toll 8544582973,osm toll 8544582973,0.65,Trạm thu phí cao tốc Hà Nội - Hải Phòng - Dương Kính,20.770163,106.712798
+vn-toll-gmaps-chijsdfrx9pxsjershfnq83hhau,toll_station,road,Cao Tốc Hà Nội - Hải Phòng Qpc7,cao toc ha noi hai phong qpc7,0.35,Trạm thu phí cao tốc Hà Nội - Hải Phòng - Dương Kính,20.770163,106.712798
+vn-toll-gmaps-chijsdfrx9pxsjershfnq83hhau,toll_station,reviewed_osm_name,Trạm thu phí cao tốc Hà Nội - Hải Phòng - Dương Kính,tram thu phi cao toc ha noi hai phong duong kinh,0.95,Trạm thu phí cao tốc Hà Nội - Hải Phòng - Dương Kính,20.770163,106.712798
+vn-toll-gmaps-chijsdfrx9pxsjershfnq83hhau,toll_station,review_google_name,Trạm thu phí cao tốc Hà Nội - Hải Phòng,tram thu phi cao toc ha noi hai phong,0.85,Trạm thu phí cao tốc Hà Nội - Hải Phòng - Dương Kính,20.770163,106.712798
+vn-toll-gmaps-chijsdfrx9pxsjershfnq83hhau,toll_station,colleague_name,Trạm thu phí cao tốc Hà Nội - Hải Phòng,tram thu phi cao toc ha noi hai phong,0.75,Trạm thu phí cao tốc Hà Nội - Hải Phòng - Dương Kính,20.770163,106.712798
+vn-toll-gmaps-chijsdfrx9pxsjershfnq83hhau,toll_station,colleague_google_name,Trạm thu phí cao tốc Hà Nội - Hải Phòng,tram thu phi cao toc ha noi hai phong,0.85,Trạm thu phí cao tốc Hà Nội - Hải Phòng - Dương Kính,20.770163,106.712798
+vn-toll-gmaps-chijsdfrx9pxsjershfnq83hhau,toll_station,google_name,Trạm thu phí cao tốc Hà Nội - Hải Phòng - Dương Kính,tram thu phi cao toc ha noi hai phong duong kinh,0.9,Trạm thu phí cao tốc Hà Nội - Hải Phòng - Dương Kính,20.770163,106.712798
+vn-toll-gmaps-chijcwi7ozglnterebneqrz056u,toll_station,current_name,Trạm thu phí cao tốc Hà Nội - Hải Phòng - Văn Giang,tram thu phi cao toc ha noi hai phong van giang,0.90,Trạm thu phí cao tốc Hà Nội - Hải Phòng - Văn Giang,20.931708,105.971447
+vn-toll-gmaps-chijcwi7ozglnterebneqrz056u,toll_station,osm_name,OSM toll 1324667567,osm toll 1324667567,0.65,Trạm thu phí cao tốc Hà Nội - Hải Phòng - Văn Giang,20.931708,105.971447
+vn-toll-gmaps-chijcwi7ozglnterebneqrz056u,toll_station,road,Cao Tốc Hà Nội - Hải Phòng Wxjc,cao toc ha noi hai phong wxjc,0.35,Trạm thu phí cao tốc Hà Nội - Hải Phòng - Văn Giang,20.931708,105.971447
+vn-toll-gmaps-chijcwi7ozglnterebneqrz056u,toll_station,reviewed_osm_name,Trạm thu phí cao tốc Hà Nội - Hải Phòng - Văn Giang,tram thu phi cao toc ha noi hai phong van giang,0.95,Trạm thu phí cao tốc Hà Nội - Hải Phòng - Văn Giang,20.931708,105.971447
+vn-toll-gmaps-chijcwi7ozglnterebneqrz056u,toll_station,review_google_name,Trạm Thu phí Cao tốc Hà Nội - Hải Phòng,tram thu phi cao toc ha noi hai phong,0.85,Trạm thu phí cao tốc Hà Nội - Hải Phòng - Văn Giang,20.931708,105.971447
+vn-toll-gmaps-chijcwi7ozglnterebneqrz056u,toll_station,google_name,Trạm thu phí cao tốc Hà Nội - Hải Phòng - Văn Giang,tram thu phi cao toc ha noi hai phong van giang,0.9,Trạm thu phí cao tốc Hà Nội - Hải Phòng - Văn Giang,20.931708,105.971447
+vn-toll-gmaps-chijl6j3blwfszer0pcyadvep-u,toll_station,current_name,Trạm thu phí cao tốc Hạ Long - Vân Đồn,tram thu phi cao toc ha long van don,0.90,Trạm thu phí cao tốc Hạ Long - Vân Đồn,21.082426,107.392871
+vn-toll-gmaps-chijl6j3blwfszer0pcyadvep-u,toll_station,osm_name,Trạm Thu phí Đoàn Kết,tram thu phi doan ket,0.65,Trạm thu phí cao tốc Hạ Long - Vân Đồn,21.082426,107.392871
+vn-toll-gmaps-chijl6j3blwfszer0pcyadvep-u,toll_station,road,Cao Tốc Hạ Long - Vân Đồn 39Jv,cao toc ha long van don 39jv,0.35,Trạm thu phí cao tốc Hạ Long - Vân Đồn,21.082426,107.392871
+vn-toll-gmaps-chijl6j3blwfszer0pcyadvep-u,toll_station,colleague_name,TRẠM THU PHÍ HẠ LONG VÂN ĐỒN,tram thu phi ha long van don,0.75,Trạm thu phí cao tốc Hạ Long - Vân Đồn,21.082426,107.392871
+vn-toll-gmaps-chijl6j3blwfszer0pcyadvep-u,toll_station,colleague_google_name,Trạm thu phí cao tốc Hạ Long - Vân Đồn,tram thu phi cao toc ha long van don,0.85,Trạm thu phí cao tốc Hạ Long - Vân Đồn,21.082426,107.392871
+vn-toll-gmaps-chijl6j3blwfszer0pcyadvep-u,toll_station,google_name,Trạm thu phí cao tốc Hạ Long - Vân Đồn,tram thu phi cao toc ha long van don,0.9,Trạm thu phí cao tốc Hạ Long - Vân Đồn,21.082426,107.392871
+vn-toll-gmaps-chijzt0yfhjfsjere2wnmcahp3w,toll_station,current_name,Trạm thu phí cao tốc Hạ Long - Vân Đồn,tram thu phi cao toc ha long van don,0.90,Trạm thu phí cao tốc Hạ Long - Vân Đồn,20.974346,106.965774
+vn-toll-gmaps-chijzt0yfhjfsjere2wnmcahp3w,toll_station,osm_name,Trạm Thu phí Việt Hưng,tram thu phi viet hung,0.65,Trạm thu phí cao tốc Hạ Long - Vân Đồn,20.974346,106.965774
+vn-toll-gmaps-chijzt0yfhjfsjere2wnmcahp3w,toll_station,road,Cao Tốc Hạ Long - Vân Đồn Xxf8,cao toc ha long van don xxf8,0.35,Trạm thu phí cao tốc Hạ Long - Vân Đồn,20.974346,106.965774
+vn-toll-gmaps-chijzt0yfhjfsjere2wnmcahp3w,toll_station,google_name,Trạm thu phí cao tốc Hạ Long - Vân Đồn,tram thu phi cao toc ha long van don,0.9,Trạm thu phí cao tốc Hạ Long - Vân Đồn,20.974346,106.965774
+vn-toll-gmaps-chij25u6y96fcjerromg4bcfto0,toll_station,current_name,Trạm thu phí cao tốc Trung Lương - Mỹ Thuận,tram thu phi cao toc trung luong my thuan,0.90,Trạm thu phí cao tốc Trung Lương - Mỹ Thuận,10.317545,105.880116
+vn-toll-gmaps-chij25u6y96fcjerromg4bcfto0,toll_station,osm_name,Trạm Thu phí An Thái Trung,tram thu phi an thai trung,0.65,Trạm thu phí cao tốc Trung Lương - Mỹ Thuận,10.317545,105.880116
+vn-toll-gmaps-chij25u6y96fcjerromg4bcfto0,toll_station,road,Cao Tốc Trung Lương - Mỹ Thuận 8V9J,cao toc trung luong my thuan 8v9j,0.35,Trạm thu phí cao tốc Trung Lương - Mỹ Thuận,10.317545,105.880116
+vn-toll-gmaps-chij25u6y96fcjerromg4bcfto0,toll_station,reviewed_osm_name,Trạm Thu phí Cao Tốc Trung Lương - Mỹ Thuận,tram thu phi cao toc trung luong my thuan,0.95,Trạm thu phí cao tốc Trung Lương - Mỹ Thuận,10.317545,105.880116
+vn-toll-gmaps-chij25u6y96fcjerromg4bcfto0,toll_station,review_google_name,Trạm Thu phí Cao Tốc Trung Lương - Mỹ Thuận,tram thu phi cao toc trung luong my thuan,0.85,Trạm thu phí cao tốc Trung Lương - Mỹ Thuận,10.317545,105.880116
+vn-toll-gmaps-chij25u6y96fcjerromg4bcfto0,toll_station,colleague_name,TRẠM THU PHÍ CAI LẬY ( CAO TỐC TRUNG LƯƠNG- MỸ THUẬN),tram thu phi cai lay cao toc trung luong my thuan,0.75,Trạm thu phí cao tốc Trung Lương - Mỹ Thuận,10.317545,105.880116
+vn-toll-gmaps-chij25u6y96fcjerromg4bcfto0,toll_station,colleague_google_name,Trạm Thu phí Cao Tốc Trung Lương - Mỹ Thuận,tram thu phi cao toc trung luong my thuan,0.85,Trạm thu phí cao tốc Trung Lương - Mỹ Thuận,10.317545,105.880116
+vn-toll-gmaps-chij25u6y96fcjerromg4bcfto0,toll_station,google_name,Trạm thu phí cao tốc Trung Lương - Mỹ Thuận,tram thu phi cao toc trung luong my thuan,0.8,Trạm thu phí cao tốc Trung Lương - Mỹ Thuận,10.317545,105.880116
+vn-toll-gmaps-chijasth-dlhater8cen2kfc4v0,toll_station,current_name,Trạm thu phí Chu Lai,tram thu phi chu lai,0.90,Trạm thu phí Chu Lai,15.442239,108.593055
+vn-toll-gmaps-chijasth-dlhater8cen2kfc4v0,toll_station,osm_name,Trạm Thu Phí Chu Lai,tram thu phi chu lai,0.65,Trạm thu phí Chu Lai,15.442239,108.593055
+vn-toll-gmaps-chijasth-dlhater8cen2kfc4v0,toll_station,google_name,Trạm thu phí Chu Lai,tram thu phi chu lai,0.8,Trạm thu phí Chu Lai,15.442239,108.593055
+vn-toll-gmaps-chijk-opbj4rdzerq0sya1sjjvs,toll_station,current_name,Trạm thu phí Cà Ná,tram thu phi ca na,0.90,Trạm thu phí Cà Ná,11.373688,108.881072
+vn-toll-gmaps-chijk-opbj4rdzerq0sya1sjjvs,toll_station,osm_name,Trạm Thu Phí Cà Ná,tram thu phi ca na,0.65,Trạm thu phí Cà Ná,11.373688,108.881072
+vn-toll-gmaps-chijk-opbj4rdzerq0sya1sjjvs,toll_station,colleague_name,Trạm thu phí Cà Ná,tram thu phi ca na,0.75,Trạm thu phí Cà Ná,11.373688,108.881072
+vn-toll-gmaps-chijk-opbj4rdzerq0sya1sjjvs,toll_station,colleague_google_name,Trạm Thu phí Cà Ná,tram thu phi ca na,0.85,Trạm thu phí Cà Ná,11.373688,108.881072
+vn-toll-gmaps-chijk-opbj4rdzerq0sya1sjjvs,toll_station,google_name,Trạm thu phí Cà Ná,tram thu phi ca na,0.8,Trạm thu phí Cà Ná,11.373688,108.881072
+vn-toll-clean-085,toll_station,current_name,Trạm thu phí Cái Bè,tram thu phi cai be,0.90,Trạm thu phí Cái Bè,10.4068739,106.0320194
+vn-toll-clean-085,toll_station,colleague_name,Trạm Thu phí Cái Bè,tram thu phi cai be,0.75,Trạm thu phí Cái Bè,10.4068739,106.0320194
+vn-toll-clean-085,toll_station,colleague_google_name,Trạm Thu phí Cái Bè,tram thu phi cai be,0.85,Trạm thu phí Cái Bè,10.4068739,106.0320194
+vn-toll-clean-085,toll_station,google_name,Trạm thu phí Cái Bè,tram thu phi cai be,0.80,Trạm thu phí Cái Bè,10.4068739,106.0320194
+vn-toll-gmaps-chijpxj0cngjodercd6xh4c4v6g,toll_station,current_name,Trạm thu phí Cần Thơ - Phụng Hiệp,tram thu phi can tho phung hiep,0.90,Trạm thu phí Cần Thơ - Phụng Hiệp,9.972868,105.74043
+vn-toll-gmaps-chijpxj0cngjodercd6xh4c4v6g,toll_station,osm_name,Trạm Thu Phí Cần Thơ - Phụng Hiệp,tram thu phi can tho phung hiep,0.65,Trạm thu phí Cần Thơ - Phụng Hiệp,9.972868,105.74043
+vn-toll-gmaps-chijpxj0cngjodercd6xh4c4v6g,toll_station,road,QL1,quoc lo 1,0.35,Trạm thu phí Cần Thơ - Phụng Hiệp,9.972868,105.74043
+vn-toll-gmaps-chijpxj0cngjodercd6xh4c4v6g,toll_station,colleague_name,TRẠM THU PHÍ CẦN THƠ - PHỤNG HIỆP,tram thu phi can tho phung hiep,0.75,Trạm thu phí Cần Thơ - Phụng Hiệp,9.972868,105.74043
+vn-toll-gmaps-chijpxj0cngjodercd6xh4c4v6g,toll_station,colleague_google_name,Trạm Thu phí Cần Thơ - Phụng Hiệp,tram thu phi can tho phung hiep,0.85,Trạm thu phí Cần Thơ - Phụng Hiệp,9.972868,105.74043
+vn-toll-gmaps-chijpxj0cngjodercd6xh4c4v6g,toll_station,google_name,Trạm thu phí Cần Thơ - Phụng Hiệp,tram thu phi can tho phung hiep,0.8,Trạm thu phí Cần Thơ - Phụng Hiệp,9.972868,105.74043
+final-ChIJYzm4pxZlSjEReNGpes7DV6c,toll_station,current_name,Trạm thu phí Cầu Bạch Đằng,tram thu phi cau bach dang,0.90,Trạm thu phí Cầu Bạch Đằng,20.8628088,106.7849049
+final-ChIJYzm4pxZlSjEReNGpes7DV6c,toll_station,osm_name,Trạm Thu Phí Cầu Bạch Đằng,tram thu phi cau bach dang,0.65,Trạm thu phí Cầu Bạch Đằng,20.8628088,106.7849049
+final-ChIJYzm4pxZlSjEReNGpes7DV6c,toll_station,road,Cao Tốc Hạ Long - Hải Phòng,cao toc ha long hai phong,0.35,Trạm thu phí Cầu Bạch Đằng,20.8628088,106.7849049
+final-ChIJYzm4pxZlSjEReNGpes7DV6c,toll_station,colleague_name,Trạm thu phí Cầu Bạch Đằng,tram thu phi cau bach dang,0.75,Trạm thu phí Cầu Bạch Đằng,20.8628088,106.7849049
+final-ChIJYzm4pxZlSjEReNGpes7DV6c,toll_station,colleague_google_name,Trạm Thu phí Cầu Bạch Đằng,tram thu phi cau bach dang,0.85,Trạm thu phí Cầu Bạch Đằng,20.8628088,106.7849049
+final-ChIJYzm4pxZlSjEReNGpes7DV6c,toll_station,google_name,Trạm thu phí Cầu Bạch Đằng,tram thu phi cau bach dang,0.8,Trạm thu phí Cầu Bạch Đằng,20.8628088,106.7849049
+vn-toll-gmaps-chij1ta-oypmoterd0gbiy9q6u0,toll_station,current_name,Trạm thu phí Cầu Bến Thuỷ 2,tram thu phi cau ben thuy 2,0.90,Trạm thu phí Cầu Bến Thuỷ 2,18.6408,105.699069
+vn-toll-gmaps-chij1ta-oypmoterd0gbiy9q6u0,toll_station,osm_name,Trạm Thu Phí Bến Thủy 2,tram thu phi ben thuy 2,0.65,Trạm thu phí Cầu Bến Thuỷ 2,18.6408,105.699069
+vn-toll-gmaps-chij1ta-oypmoterd0gbiy9q6u0,toll_station,colleague_name,Trạm Thu phí Cầu Bến Thuỷ 2,tram thu phi cau ben thuy 2,0.75,Trạm thu phí Cầu Bến Thuỷ 2,18.6408,105.699069
+vn-toll-gmaps-chij1ta-oypmoterd0gbiy9q6u0,toll_station,colleague_google_name,Trạm Thu phí Cầu Bến Thuỷ 2,tram thu phi cau ben thuy 2,0.85,Trạm thu phí Cầu Bến Thuỷ 2,18.6408,105.699069
+vn-toll-gmaps-chij1ta-oypmoterd0gbiy9q6u0,toll_station,google_name,Trạm thu phí Cầu Bến Thuỷ 2,tram thu phi cau ben thuy 2,0.8,Trạm thu phí Cầu Bến Thuỷ 2,18.6408,105.699069
+vn-toll-clean-079,toll_station,current_name,Trạm thu phí Cầu Cổ Chiên,tram thu phi cau co chien,0.90,Trạm thu phí Cầu Cổ Chiên,10.0199467,106.2974383
+vn-toll-clean-079,toll_station,road,QL60,quoc lo 60,0.35,Trạm thu phí Cầu Cổ Chiên,10.0199467,106.2974383
+vn-toll-clean-079,toll_station,colleague_name,Trạm thu phí Cổ Chiên,tram thu phi co chien,0.75,Trạm thu phí Cầu Cổ Chiên,10.0199467,106.2974383
+vn-toll-clean-079,toll_station,colleague_google_name,Trạm Thu phí Cầu Cổ Chiên,tram thu phi cau co chien,0.85,Trạm thu phí Cầu Cổ Chiên,10.0199467,106.2974383
+vn-toll-clean-079,toll_station,google_name,Trạm thu phí Cầu Cổ Chiên,tram thu phi cau co chien,0.80,Trạm thu phí Cầu Cổ Chiên,10.0199467,106.2974383
+vn-toll-gmaps-chijw3ese-vzndervabdck3egrk,toll_station,current_name,Trạm thu phí Cầu Hạc Trì,tram thu phi cau hac tri,0.90,Trạm thu phí Cầu Hạc Trì,21.294515,105.449386
+vn-toll-gmaps-chijw3ese-vzndervabdck3egrk,toll_station,osm_name,Trạm thu phí Cầu Hạc Trì,tram thu phi cau hac tri,0.65,Trạm thu phí Cầu Hạc Trì,21.294515,105.449386
+vn-toll-gmaps-chijw3ese-vzndervabdck3egrk,toll_station,colleague_name,TRẠM THU PHÍ CẦU HẠC TRÌ,tram thu phi cau hac tri,0.75,Trạm thu phí Cầu Hạc Trì,21.294515,105.449386
+vn-toll-gmaps-chijw3ese-vzndervabdck3egrk,toll_station,colleague_google_name,Trạm Thu phí Cầu Hạc Trì,tram thu phi cau hac tri,0.85,Trạm thu phí Cầu Hạc Trì,21.294515,105.449386
+vn-toll-gmaps-chijw3ese-vzndervabdck3egrk,toll_station,google_name,Trạm thu phí Cầu Hạc Trì,tram thu phi cau hac tri,0.7,Trạm thu phí Cầu Hạc Trì,21.294515,105.449386
+vn-toll-gmaps-chijbyvfm3qkntercjpalln1y8g,toll_station,current_name,Trạm thu phí Cầu Hồ,tram thu phi cau ho,0.90,Trạm thu phí Cầu Hồ,21.080139,106.092165
+vn-toll-gmaps-chijbyvfm3qkntercjpalln1y8g,toll_station,osm_name,Trạm Thu Phí Bắc Ninh Hải Dương,tram thu phi bac ninh hai duong,0.65,Trạm thu phí Cầu Hồ,21.080139,106.092165
+vn-toll-gmaps-chijbyvfm3qkntercjpalln1y8g,toll_station,road,QL38,quoc lo 38,0.35,Trạm thu phí Cầu Hồ,21.080139,106.092165
+vn-toll-gmaps-chijbyvfm3qkntercjpalln1y8g,toll_station,reviewed_osm_name,Trạm Thu phí Cầu Hồ,tram thu phi cau ho,0.95,Trạm thu phí Cầu Hồ,21.080139,106.092165
+vn-toll-gmaps-chijbyvfm3qkntercjpalln1y8g,toll_station,review_google_name,Trạm Thu phí Cầu Hồ,tram thu phi cau ho,0.85,Trạm thu phí Cầu Hồ,21.080139,106.092165
+vn-toll-gmaps-chijbyvfm3qkntercjpalln1y8g,toll_station,colleague_name,Trạm Thu phí Cầu Hồ,tram thu phi cau ho,0.75,Trạm thu phí Cầu Hồ,21.080139,106.092165
+vn-toll-gmaps-chijbyvfm3qkntercjpalln1y8g,toll_station,colleague_google_name,Trạm Thu phí Cầu Hồ,tram thu phi cau ho,0.85,Trạm thu phí Cầu Hồ,21.080139,106.092165
+vn-toll-gmaps-chijbyvfm3qkntercjpalln1y8g,toll_station,google_name,Trạm thu phí Cầu Hồ,tram thu phi cau ho,0.8,Trạm thu phí Cầu Hồ,21.080139,106.092165
+vn-toll-clean-093,toll_station,current_name,Trạm thu phí Cầu Móng Sến,tram thu phi cau mong sen,0.90,Trạm thu phí Cầu Móng Sến,22.4168543,103.9071458
+vn-toll-clean-093,toll_station,colleague_name,Trạm Thu phí Cầu Móng Sến,tram thu phi cau mong sen,0.75,Trạm thu phí Cầu Móng Sến,22.4168543,103.9071458
+vn-toll-clean-093,toll_station,colleague_google_name,Trạm Thu phí Cầu Móng Sến,tram thu phi cau mong sen,0.85,Trạm thu phí Cầu Móng Sến,22.4168543,103.9071458
+vn-toll-clean-093,toll_station,google_name,Trạm thu phí Cầu Móng Sến,tram thu phi cau mong sen,0.80,Trạm thu phí Cầu Móng Sến,22.4168543,103.9071458
+final-ChIJcYnshklhoDERkLnRXydRhaw,toll_station,current_name,Trạm thu phí Cầu Phú Hữu,tram thu phi cau phu huu,0.90,Trạm thu phí Cầu Phú Hữu,9.9242626,105.8540449
+final-ChIJcYnshklhoDERkLnRXydRhaw,toll_station,osm_name,Trạm Thu phí Cầu Phú Hữu,tram thu phi cau phu huu,0.65,Trạm thu phí Cầu Phú Hữu,9.9242626,105.8540449
+final-ChIJcYnshklhoDERkLnRXydRhaw,toll_station,google_name,Trạm thu phí Cầu Phú Hữu,tram thu phi cau phu huu,0.8,Trạm thu phí Cầu Phú Hữu,9.9242626,105.8540449
+vn-toll-gmaps-chijq6qqj7qldter5vynvzwfjvo,toll_station,current_name,Trạm thu phí Cầu Phú Mỹ,tram thu phi cau phu my,0.90,Trạm thu phí Cầu Phú Mỹ,10.760046,106.764818
+vn-toll-gmaps-chijq6qqj7qldter5vynvzwfjvo,toll_station,osm_name,Trạm thu phí Cầu Phú Mỹ,tram thu phi cau phu my,0.65,Trạm thu phí Cầu Phú Mỹ,10.760046,106.764818
+vn-toll-gmaps-chijq6qqj7qldter5vynvzwfjvo,toll_station,google_name,Trạm thu phí Cầu Phú Mỹ,tram thu phi cau phu my,0.8,Trạm thu phí Cầu Phú Mỹ,10.760046,106.764818
+vn-toll-gmaps-chijtwtfrmkvcjerobgwturjbdk,toll_station,current_name,Trạm thu phí Cầu Rạch Miễu,tram thu phi cau rach mieu,0.90,Trạm thu phí Cầu Rạch Miễu,10.314707,106.348376
+vn-toll-gmaps-chijtwtfrmkvcjerobgwturjbdk,toll_station,osm_name,Trạm thu phí Cầu Rạch Miễu,tram thu phi cau rach mieu,0.65,Trạm thu phí Cầu Rạch Miễu,10.314707,106.348376
+vn-toll-gmaps-chijtwtfrmkvcjerobgwturjbdk,toll_station,road,QL60,quoc lo 60,0.35,Trạm thu phí Cầu Rạch Miễu,10.314707,106.348376
+vn-toll-gmaps-chijtwtfrmkvcjerobgwturjbdk,toll_station,colleague_name,Trạm Thu phí Cầu Rạch Miễu,tram thu phi cau rach mieu,0.75,Trạm thu phí Cầu Rạch Miễu,10.314707,106.348376
+vn-toll-gmaps-chijtwtfrmkvcjerobgwturjbdk,toll_station,colleague_google_name,Trạm Thu phí Cầu Rạch Miễu,tram thu phi cau rach mieu,0.85,Trạm thu phí Cầu Rạch Miễu,10.314707,106.348376
+vn-toll-gmaps-chijtwtfrmkvcjerobgwturjbdk,toll_station,google_name,Trạm thu phí Cầu Rạch Miễu,tram thu phi cau rach mieu,0.8,Trạm thu phí Cầu Rạch Miễu,10.314707,106.348376
+vn-toll-gmaps-chijcdgnmmhdnterei-tfxzxnhk,toll_station,current_name,Trạm thu phí Cầu Thái Hà,tram thu phi cau thai ha,0.90,Trạm thu phí Cầu Thái Hà,20.590872,106.139251
+vn-toll-gmaps-chijcdgnmmhdnterei-tfxzxnhk,toll_station,osm_name,OSM toll 13338380133,osm toll 13338380133,0.65,Trạm thu phí Cầu Thái Hà,20.590872,106.139251
+vn-toll-gmaps-chijcdgnmmhdnterei-tfxzxnhk,toll_station,reviewed_osm_name,Trạm Thu phí Cầu Thái Hà,tram thu phi cau thai ha,0.95,Trạm thu phí Cầu Thái Hà,20.590872,106.139251
+vn-toll-gmaps-chijcdgnmmhdnterei-tfxzxnhk,toll_station,review_google_name,Trạm Thu phí Cầu Thái Hà,tram thu phi cau thai ha,0.85,Trạm thu phí Cầu Thái Hà,20.590872,106.139251
+vn-toll-gmaps-chijcdgnmmhdnterei-tfxzxnhk,toll_station,google_name,Trạm thu phí Cầu Thái Hà,tram thu phi cau thai ha,0.7,Trạm thu phí Cầu Thái Hà,20.590872,106.139251
+vn-toll-gmaps-chijsdenahanndersdrkmfp5jxw,toll_station,current_name,Trạm thu phí Cầu Văn Lang,tram thu phi cau van lang,0.90,Trạm thu phí Cầu Văn Lang,21.285532,105.404046
+vn-toll-gmaps-chijsdenahanndersdrkmfp5jxw,toll_station,osm_name,OSM toll 6563222996,osm toll 6563222996,0.65,Trạm thu phí Cầu Văn Lang,21.285532,105.404046
+vn-toll-gmaps-chijsdenahanndersdrkmfp5jxw,toll_station,reviewed_osm_name,Trạm Thu phí Cầu Văn Lang,tram thu phi cau van lang,0.95,Trạm thu phí Cầu Văn Lang,21.285532,105.404046
+vn-toll-gmaps-chijsdenahanndersdrkmfp5jxw,toll_station,review_google_name,Trạm Thu phí Cầu Văn Lang,tram thu phi cau van lang,0.85,Trạm thu phí Cầu Văn Lang,21.285532,105.404046
+vn-toll-gmaps-chijsdenahanndersdrkmfp5jxw,toll_station,colleague_name,Trạm thu phí Cầu Văn Lang (QL32 – QL32C),tram thu phi cau van lang quoc lo 32 quoc lo 32c,0.75,Trạm thu phí Cầu Văn Lang,21.285532,105.404046
+vn-toll-gmaps-chijsdenahanndersdrkmfp5jxw,toll_station,colleague_google_name,Trạm Thu phí Cầu Văn Lang,tram thu phi cau van lang,0.85,Trạm thu phí Cầu Văn Lang,21.285532,105.404046
+vn-toll-gmaps-chijsdenahanndersdrkmfp5jxw,toll_station,google_name,Trạm thu phí Cầu Văn Lang,tram thu phi cau van lang,0.8,Trạm thu phí Cầu Văn Lang,21.285532,105.404046
+vn-toll-gmaps-chijpud-awdhnteraukymvq-3di,toll_station,current_name,Trạm thu phí Cầu Yên Lệnh,tram thu phi cau yen lenh,0.90,Trạm thu phí Cầu Yên Lệnh,20.658939,106.048984
+vn-toll-gmaps-chijpud-awdhnteraukymvq-3di,toll_station,osm_name,OSM toll 10198957829,osm toll 10198957829,0.65,Trạm thu phí Cầu Yên Lệnh,20.658939,106.048984
+vn-toll-gmaps-chijpud-awdhnteraukymvq-3di,toll_station,road,QL38,quoc lo 38,0.35,Trạm thu phí Cầu Yên Lệnh,20.658939,106.048984
+vn-toll-gmaps-chijpud-awdhnteraukymvq-3di,toll_station,reviewed_osm_name,Trạm Thu phí Cầu Yên Lệnh,tram thu phi cau yen lenh,0.95,Trạm thu phí Cầu Yên Lệnh,20.658939,106.048984
+vn-toll-gmaps-chijpud-awdhnteraukymvq-3di,toll_station,review_google_name,Trạm Thu phí Cầu Yên Lệnh,tram thu phi cau yen lenh,0.85,Trạm thu phí Cầu Yên Lệnh,20.658939,106.048984
+vn-toll-gmaps-chijpud-awdhnteraukymvq-3di,toll_station,colleague_name,Trạm Thu phí Cầu Yên Lệnh,tram thu phi cau yen lenh,0.75,Trạm thu phí Cầu Yên Lệnh,20.658939,106.048984
+vn-toll-gmaps-chijpud-awdhnteraukymvq-3di,toll_station,colleague_google_name,Trạm Thu phí Cầu Yên Lệnh,tram thu phi cau yen lenh,0.85,Trạm thu phí Cầu Yên Lệnh,20.658939,106.048984
+vn-toll-gmaps-chijpud-awdhnteraukymvq-3di,toll_station,google_name,Trạm thu phí Cầu Yên Lệnh,tram thu phi cau yen lenh,0.8,Trạm thu phí Cầu Yên Lệnh,20.658939,106.048984
+vn-toll-gmaps-chijuf95la0bszer7kkifo99l6e,toll_station,current_name,Trạm thu phí Cẩm Phả,tram thu phi cam pha,0.90,Trạm thu phí Cẩm Phả,21.003101,107.327187
+vn-toll-gmaps-chijuf95la0bszer7kkifo99l6e,toll_station,osm_name,OSM toll 1381203335,osm toll 1381203335,0.65,Trạm thu phí Cẩm Phả,21.003101,107.327187
+vn-toll-gmaps-chijuf95la0bszer7kkifo99l6e,toll_station,reviewed_osm_name,Trạm Thu Phí Cẩm Phả,tram thu phi cam pha,0.95,Trạm thu phí Cẩm Phả,21.003101,107.327187
+vn-toll-gmaps-chijuf95la0bszer7kkifo99l6e,toll_station,review_google_name,Trạm Thu Phí Cẩm Phả,tram thu phi cam pha,0.85,Trạm thu phí Cẩm Phả,21.003101,107.327187
+vn-toll-gmaps-chijuf95la0bszer7kkifo99l6e,toll_station,colleague_name,TRẠM THU PHÍ CẨM PHẢ QL 18,tram thu phi cam pha quoc lo 18,0.75,Trạm thu phí Cẩm Phả,21.003101,107.327187
+vn-toll-gmaps-chijuf95la0bszer7kkifo99l6e,toll_station,colleague_google_name,Trạm Thu Phí Cẩm Phả,tram thu phi cam pha,0.85,Trạm thu phí Cẩm Phả,21.003101,107.327187
+vn-toll-gmaps-chijuf95la0bszer7kkifo99l6e,toll_station,google_name,Trạm thu phí Cẩm Phả,tram thu phi cam pha,0.8,Trạm thu phí Cẩm Phả,21.003101,107.327187
+vn-toll-clean-090,toll_station,current_name,Trạm thu phí Diên Thọ,tram thu phi dien tho,0.90,Trạm thu phí Diên Thọ,12.254518,109.0237874
+vn-toll-clean-090,toll_station,colleague_name,Trạm Thu phí Diên Thọ,tram thu phi dien tho,0.75,Trạm thu phí Diên Thọ,12.254518,109.0237874
+vn-toll-clean-090,toll_station,colleague_google_name,Trạm Thu phí Diên Thọ,tram thu phi dien tho,0.85,Trạm thu phí Diên Thọ,12.254518,109.0237874
+vn-toll-clean-090,toll_station,google_name,Trạm thu phí Diên Thọ,tram thu phi dien tho,0.80,Trạm thu phí Diên Thọ,12.254518,109.0237874
+vn-toll-gmaps-chij17nu3clusjerps6to2kbcuc,toll_station,current_name,Trạm thu phí Dương Kinh,tram thu phi duong kinh,0.90,Trạm thu phí Dương Kinh,20.776114,106.723902
+vn-toll-gmaps-chij17nu3clusjerps6to2kbcuc,toll_station,osm_name,OSM toll 1329847084,osm toll 1329847084,0.65,Trạm thu phí Dương Kinh,20.776114,106.723902
+vn-toll-gmaps-chij17nu3clusjerps6to2kbcuc,toll_station,reviewed_osm_name,Trạm Thu phí Dương Kinh,tram thu phi duong kinh,0.95,Trạm thu phí Dương Kinh,20.776114,106.723902
+vn-toll-gmaps-chij17nu3clusjerps6to2kbcuc,toll_station,review_google_name,Trạm Thu phí Dương Kinh,tram thu phi duong kinh,0.85,Trạm thu phí Dương Kinh,20.776114,106.723902
+vn-toll-gmaps-chij17nu3clusjerps6to2kbcuc,toll_station,colleague_name,Trạm Thu phí Dương Kinh,tram thu phi duong kinh,0.75,Trạm thu phí Dương Kinh,20.776114,106.723902
+vn-toll-gmaps-chij17nu3clusjerps6to2kbcuc,toll_station,colleague_google_name,Trạm Thu phí Dương Kinh,tram thu phi duong kinh,0.85,Trạm thu phí Dương Kinh,20.776114,106.723902
+vn-toll-gmaps-chij17nu3clusjerps6to2kbcuc,toll_station,google_name,Trạm thu phí Dương Kinh,tram thu phi duong kinh,0.8,Trạm thu phí Dương Kinh,20.776114,106.723902
+vn-toll-gmaps-chijlwr0cgn8dderylvodvgjnrs,toll_station,current_name,Trạm thu phí Dầu Giây,tram thu phi dau giay,0.90,Trạm thu phí Dầu Giây,10.918303,107.163982
+vn-toll-gmaps-chijlwr0cgn8dderylvodvgjnrs,toll_station,osm_name,Trạm thu phí Dàu Giây,tram thu phi dau giay,0.65,Trạm thu phí Dầu Giây,10.918303,107.163982
+vn-toll-gmaps-chijlwr0cgn8dderylvodvgjnrs,toll_station,colleague_name,Trạm Thu phí Dầu Giây,tram thu phi dau giay,0.75,Trạm thu phí Dầu Giây,10.918303,107.163982
+vn-toll-gmaps-chijlwr0cgn8dderylvodvgjnrs,toll_station,colleague_google_name,Trạm Thu phí Dầu Giây,tram thu phi dau giay,0.85,Trạm thu phí Dầu Giây,10.918303,107.163982
+vn-toll-gmaps-chijlwr0cgn8dderylvodvgjnrs,toll_station,google_name,Trạm thu phí Dầu Giây,tram thu phi dau giay,0.8,Trạm thu phí Dầu Giây,10.918303,107.163982
+vn-toll-gmaps-chijgthijadfcterxe-rftdw2w4,toll_station,current_name,Trạm thu phí Ea Đar,tram thu phi ea dar,0.90,Trạm thu phí Ea Đar,12.812957,108.511572
+vn-toll-gmaps-chijgthijadfcterxe-rftdw2w4,toll_station,osm_name,Trạm Thu Phí Ea Đar Đắk Lắk,tram thu phi ea dar dak lak,0.65,Trạm thu phí Ea Đar,12.812957,108.511572
+vn-toll-gmaps-chijgthijadfcterxe-rftdw2w4,toll_station,colleague_name,Trạm thu phí Ea Đar,tram thu phi ea dar,0.75,Trạm thu phí Ea Đar,12.812957,108.511572
+vn-toll-gmaps-chijgthijadfcterxe-rftdw2w4,toll_station,colleague_google_name,Trạm Thu phí Ea Đar,tram thu phi ea dar,0.85,Trạm thu phí Ea Đar,12.812957,108.511572
+vn-toll-gmaps-chijgthijadfcterxe-rftdw2w4,toll_station,google_name,Trạm thu phí Ea Đar,tram thu phi ea dar,0.7,Trạm thu phí Ea Đar,12.812957,108.511572
+vn-toll-clean-075,toll_station,current_name,Trạm thu phí Hoà Phước,tram thu phi hoa phuoc,0.90,Trạm thu phí Hoà Phước,16.0046282,108.246048
+vn-toll-clean-075,toll_station,colleague_name,TRẠM THU PHÍ HÒA PHƯỚC,tram thu phi hoa phuoc,0.75,Trạm thu phí Hoà Phước,16.0046282,108.246048
+vn-toll-clean-075,toll_station,colleague_google_name,Trạm thu phí Hoà Phước,tram thu phi hoa phuoc,0.85,Trạm thu phí Hoà Phước,16.0046282,108.246048
+vn-toll-clean-075,toll_station,google_name,Trạm thu phí Hoà Phước,tram thu phi hoa phuoc,0.80,Trạm thu phí Hoà Phước,16.0046282,108.246048
+vn-toll-clean-074,toll_station,current_name,Trạm thu phí Hoàng Mai,tram thu phi hoang mai,0.90,Trạm thu phí Hoàng Mai,19.3019039,105.7242358
+vn-toll-clean-074,toll_station,colleague_name,TRẠM THU PHÍ HOÀNG MAI,tram thu phi hoang mai,0.75,Trạm thu phí Hoàng Mai,19.3019039,105.7242358
+vn-toll-clean-074,toll_station,colleague_google_name,Trạm Thu Phí Hoàng Mai,tram thu phi hoang mai,0.85,Trạm thu phí Hoàng Mai,19.3019039,105.7242358
+vn-toll-clean-074,toll_station,google_name,Trạm thu phí Hoàng Mai,tram thu phi hoang mai,0.80,Trạm thu phí Hoàng Mai,19.3019039,105.7242358
+vn-toll-gmaps-chijxxxg8pghnterlacqozxsxpg,toll_station,current_name,Trạm thu phí Hà Nội - Bắc Giang,tram thu phi ha noi bac giang,0.90,Trạm thu phí Hà Nội - Bắc Giang,21.090344,105.960513
+vn-toll-gmaps-chijxxxg8pghnterlacqozxsxpg,toll_station,osm_name,Trạm thu phí Hà Nội - Bắc Giang,tram thu phi ha noi bac giang,0.65,Trạm thu phí Hà Nội - Bắc Giang,21.090344,105.960513
+vn-toll-gmaps-chijxxxg8pghnterlacqozxsxpg,toll_station,colleague_name,Trạm Thu phí Hà Nội - Bắc Giang,tram thu phi ha noi bac giang,0.75,Trạm thu phí Hà Nội - Bắc Giang,21.090344,105.960513
+vn-toll-gmaps-chijxxxg8pghnterlacqozxsxpg,toll_station,colleague_google_name,Trạm Thu phí Hà Nội - Bắc Giang,tram thu phi ha noi bac giang,0.85,Trạm thu phí Hà Nội - Bắc Giang,21.090344,105.960513
+vn-toll-gmaps-chijxxxg8pghnterlacqozxsxpg,toll_station,google_name,Trạm thu phí Hà Nội - Bắc Giang,tram thu phi ha noi bac giang,0.8,Trạm thu phí Hà Nội - Bắc Giang,21.090344,105.960513
+vn-toll-gmaps-chijs-uxldfhmzerhgmov8hzfq0,toll_station,current_name,Trạm thu phí Hạ Hoà (IC11),tram thu phi ha hoa ic11,0.90,Trạm thu phí Hạ Hoà (IC11),21.533157,104.972637
+vn-toll-gmaps-chijs-uxldfhmzerhgmov8hzfq0,toll_station,osm_name,IC11,ic11,0.65,Trạm thu phí Hạ Hoà (IC11),21.533157,104.972637
+vn-toll-gmaps-chijs-uxldfhmzerhgmov8hzfq0,toll_station,google_name,Trạm thu phí Hạ Hoà (IC11),tram thu phi ha hoa ic11,0.7,Trạm thu phí Hạ Hoà (IC11),21.533157,104.972637
+vn-toll-clean-078,toll_station,current_name,Trạm thu phí Hải Hà,tram thu phi hai ha,0.90,Trạm thu phí Hải Hà,21.4650905,107.7058191
+vn-toll-clean-078,toll_station,colleague_name,Trạm thu phí Hải Hà,tram thu phi hai ha,0.75,Trạm thu phí Hải Hà,21.4650905,107.7058191
+vn-toll-clean-078,toll_station,colleague_google_name,Trạm Thu phí Hải Hà,tram thu phi hai ha,0.85,Trạm thu phí Hải Hà,21.4650905,107.7058191
+vn-toll-clean-078,toll_station,google_name,Trạm thu phí Hải Hà,tram thu phi hai ha,0.80,Trạm thu phí Hải Hà,21.4650905,107.7058191
+vn-toll-gmaps-chijzftdnjgtbzericsl5a4slsc,toll_station,current_name,Trạm thu phí hầm Cù Mông,tram thu phi ham cu mong,0.90,Trạm thu phí hầm Cù Mông,13.703552,109.174479
+vn-toll-gmaps-chijzftdnjgtbzericsl5a4slsc,toll_station,osm_name,Trạm thu phí Hầm Cù Mông,tram thu phi ham cu mong,0.65,Trạm thu phí hầm Cù Mông,13.703552,109.174479
+vn-toll-gmaps-chijzftdnjgtbzericsl5a4slsc,toll_station,colleague_name,Trạm thu phí Hầm Cù Mông,tram thu phi ham cu mong,0.75,Trạm thu phí hầm Cù Mông,13.703552,109.174479
+vn-toll-gmaps-chijzftdnjgtbzericsl5a4slsc,toll_station,colleague_google_name,Trạm thu phí hầm Cù Mông,tram thu phi ham cu mong,0.85,Trạm thu phí hầm Cù Mông,13.703552,109.174479
+vn-toll-gmaps-chijzftdnjgtbzericsl5a4slsc,toll_station,google_name,Trạm thu phí hầm Cù Mông,tram thu phi ham cu mong,0.7,Trạm thu phí hầm Cù Mông,13.703552,109.174479
+vn-toll-gmaps-chijs3b9ocqnqjer6h3ourzbvps,toll_station,current_name,Trạm thu phí hầm Hải Vân,tram thu phi ham hai van,0.90,Trạm thu phí hầm Hải Vân,16.228523,108.084722
+vn-toll-gmaps-chijs3b9ocqnqjer6h3ourzbvps,toll_station,osm_name,Trạm Thu Phí Hải Vân,tram thu phi hai van,0.65,Trạm thu phí hầm Hải Vân,16.228523,108.084722
+vn-toll-gmaps-chijs3b9ocqnqjer6h3ourzbvps,toll_station,google_name,Trạm thu phí hầm Hải Vân,tram thu phi ham hai van,0.7,Trạm thu phí hầm Hải Vân,16.228523,108.084722
+vn-toll-gmaps-chijtemjolplbzery1nnypqv4gs,toll_station,current_name,Trạm thu phí Hầm Đèo Cả,tram thu phi ham deo ca,0.90,Trạm thu phí Hầm Đèo Cả,12.903225,109.365703
+vn-toll-gmaps-chijtemjolplbzery1nnypqv4gs,toll_station,osm_name,Trạm thu phí Hầm Đèo Cả,tram thu phi ham deo ca,0.65,Trạm thu phí Hầm Đèo Cả,12.903225,109.365703
+vn-toll-gmaps-chijtemjolplbzery1nnypqv4gs,toll_station,colleague_name,Trạm thu phí Hầm Đèo Cả,tram thu phi ham deo ca,0.75,Trạm thu phí Hầm Đèo Cả,12.903225,109.365703
+vn-toll-gmaps-chijtemjolplbzery1nnypqv4gs,toll_station,colleague_google_name,Trạm Thu phí Hầm Đèo Cả,tram thu phi ham deo ca,0.85,Trạm thu phí Hầm Đèo Cả,12.903225,109.365703
+vn-toll-gmaps-chijtemjolplbzery1nnypqv4gs,toll_station,google_name,Trạm thu phí Hầm Đèo Cả,tram thu phi ham deo ca,0.7,Trạm thu phí Hầm Đèo Cả,12.903225,109.365703
+vn-toll-gmaps-chij55zu7qfdnter8-nw9wailhw,toll_station,current_name,Trạm thu phí Hồ Sơn,tram thu phi ho son,0.90,Trạm thu phí Hồ Sơn,21.49101,106.371324
+vn-toll-gmaps-chij55zu7qfdnter8-nw9wailhw,toll_station,osm_name,Trạm Thu phí Hồ Sơn,tram thu phi ho son,0.65,Trạm thu phí Hồ Sơn,21.49101,106.371324
+vn-toll-gmaps-chij55zu7qfdnter8-nw9wailhw,toll_station,google_name,Trạm thu phí Hồ Sơn,tram thu phi ho son,0.7,Trạm thu phí Hồ Sơn,21.49101,106.371324
+vn-toll-gmaps-chijz1erg79vnterj9wpxswipbo,toll_station,current_name,Trạm thu phí Km 104 cao tốc Bắc Giang - Lạng Sơn,tram thu phi km 104 cao toc bac giang lang son,0.90,Trạm thu phí Km 104 cao tốc Bắc Giang - Lạng Sơn,21.315908,106.25888
+vn-toll-gmaps-chijz1erg79vnterj9wpxswipbo,toll_station,osm_name,Trạm Thu phí Km 104,tram thu phi km 104,0.65,Trạm thu phí Km 104 cao tốc Bắc Giang - Lạng Sơn,21.315908,106.25888
+vn-toll-gmaps-chijz1erg79vnterj9wpxswipbo,toll_station,road,Cao Tốc Bắc Giang - Lạng Sơn 8785,cao toc bac giang lang son 8785,0.35,Trạm thu phí Km 104 cao tốc Bắc Giang - Lạng Sơn,21.315908,106.25888
+vn-toll-gmaps-chijz1erg79vnterj9wpxswipbo,toll_station,reviewed_osm_name,Trạm Thu phí Km 104 Cao tốc Bắc Giang - Lạng Sơn,tram thu phi km 104 cao toc bac giang lang son,0.95,Trạm thu phí Km 104 cao tốc Bắc Giang - Lạng Sơn,21.315908,106.25888
+vn-toll-gmaps-chijz1erg79vnterj9wpxswipbo,toll_station,review_google_name,Trạm Thu phí Km 104 Cao tốc Bắc Giang - Lạng Sơn,tram thu phi km 104 cao toc bac giang lang son,0.85,Trạm thu phí Km 104 cao tốc Bắc Giang - Lạng Sơn,21.315908,106.25888
+vn-toll-gmaps-chijz1erg79vnterj9wpxswipbo,toll_station,colleague_name,Trạm Thu phí Km 104 Cao tốc Bắc Giang - Lạng Sơn,tram thu phi km 104 cao toc bac giang lang son,0.75,Trạm thu phí Km 104 cao tốc Bắc Giang - Lạng Sơn,21.315908,106.25888
+vn-toll-gmaps-chijz1erg79vnterj9wpxswipbo,toll_station,colleague_google_name,Trạm Thu phí Km 104 Cao tốc Bắc Giang - Lạng Sơn,tram thu phi km 104 cao toc bac giang lang son,0.85,Trạm thu phí Km 104 cao tốc Bắc Giang - Lạng Sơn,21.315908,106.25888
+vn-toll-gmaps-chijz1erg79vnterj9wpxswipbo,toll_station,google_name,Trạm thu phí Km 104 cao tốc Bắc Giang - Lạng Sơn,tram thu phi km 104 cao toc bac giang lang son,0.9,Trạm thu phí Km 104 cao tốc Bắc Giang - Lạng Sơn,21.315908,106.25888
+final-ChIJu231AQC7bjERSOZYXQYdEVY,toll_station,current_name,Trạm thu phí Km 124+720 Quốc lộ 19,tram thu phi km 124 720 quoc lo 19,0.90,Trạm thu phí Km 124+720 Quốc lộ 19,14.05472,108.3294748
+final-ChIJu231AQC7bjERSOZYXQYdEVY,toll_station,osm_name,Trạm Thu phí Km 124+720 Quốc lộ 19,tram thu phi km 124 720 quoc lo 19,0.65,Trạm thu phí Km 124+720 Quốc lộ 19,14.05472,108.3294748
+final-ChIJu231AQC7bjERSOZYXQYdEVY,toll_station,road,Quốc lộ 19,quoc lo 19,0.35,Trạm thu phí Km 124+720 Quốc lộ 19,14.05472,108.3294748
+final-ChIJu231AQC7bjERSOZYXQYdEVY,toll_station,colleague_name,Trạm Thu phí Km 124+720 Quốc lộ 19,tram thu phi km 124 720 quoc lo 19,0.75,Trạm thu phí Km 124+720 Quốc lộ 19,14.05472,108.3294748
+final-ChIJu231AQC7bjERSOZYXQYdEVY,toll_station,colleague_google_name,Trạm Thu phí Km 124+720 Quốc lộ 19,tram thu phi km 124 720 quoc lo 19,0.85,Trạm thu phí Km 124+720 Quốc lộ 19,14.05472,108.3294748
+final-ChIJu231AQC7bjERSOZYXQYdEVY,toll_station,google_name,Trạm thu phí Km 124+720 Quốc lộ 19,tram thu phi km 124 720 quoc lo 19,0.8,Trạm thu phí Km 124+720 Quốc lộ 19,14.05472,108.3294748
+vn-toll-clean-094,toll_station,current_name,Trạm thu phí Km 237 cao tốc Hà Nội - Lào Cai,tram thu phi km 237 cao toc ha noi lao cai,0.90,Trạm thu phí Km 237 cao tốc Hà Nội - Lào Cai,22.3651385,104.0808228
+vn-toll-clean-094,toll_station,road,Cao tốc Hà Nội - Lào Cai 938J,cao toc ha noi lao cai 938j,0.35,Trạm thu phí Km 237 cao tốc Hà Nội - Lào Cai,22.3651385,104.0808228
+vn-toll-clean-094,toll_station,colleague_name,Trạm Thu phí Km 237 Cao tốc Hà Nội - Lào Cai,tram thu phi km 237 cao toc ha noi lao cai,0.75,Trạm thu phí Km 237 cao tốc Hà Nội - Lào Cai,22.3651385,104.0808228
+vn-toll-clean-094,toll_station,colleague_google_name,Trạm Thu phí Km 237 Cao tốc Hà Nội - Lào Cai,tram thu phi km 237 cao toc ha noi lao cai,0.85,Trạm thu phí Km 237 cao tốc Hà Nội - Lào Cai,22.3651385,104.0808228
+vn-toll-clean-094,toll_station,google_name,Trạm thu phí Km 237 cao tốc Hà Nội - Lào Cai,tram thu phi km 237 cao toc ha noi lao cai,0.80,Trạm thu phí Km 237 cao tốc Hà Nội - Lào Cai,22.3651385,104.0808228
+vn-toll-gmaps-chijldcenyv9nderu0-djgbtfgm,toll_station,current_name,Trạm thu phí Km 6 cao tốc Hà Nội - Lào Cai,tram thu phi km 6 cao toc ha noi lao cai,0.90,Trạm thu phí Km 6 cao tốc Hà Nội - Lào Cai,21.252714,105.739648
+vn-toll-gmaps-chijldcenyv9nderu0-djgbtfgm,toll_station,osm_name,Trạm thu phí Nội Bài,tram thu phi noi bai,0.65,Trạm thu phí Km 6 cao tốc Hà Nội - Lào Cai,21.252714,105.739648
+vn-toll-gmaps-chijldcenyv9nderu0-djgbtfgm,toll_station,road,Cao Tốc Hà Nội - Lào Cai Trạm Thu Phí Cao Tốc Nội Bài - Lào Cai,cao toc ha noi lao cai tram thu phi cao toc noi bai lao cai,0.35,Trạm thu phí Km 6 cao tốc Hà Nội - Lào Cai,21.252714,105.739648
+vn-toll-gmaps-chijldcenyv9nderu0-djgbtfgm,toll_station,reviewed_osm_name,Trạm Thu phí Km 6 Cao tốc Hà Nội - Lào Cai,tram thu phi km 6 cao toc ha noi lao cai,0.95,Trạm thu phí Km 6 cao tốc Hà Nội - Lào Cai,21.252714,105.739648
+vn-toll-gmaps-chijldcenyv9nderu0-djgbtfgm,toll_station,review_google_name,Trạm Thu phí Km 6 Cao tốc Hà Nội - Lào Cai,tram thu phi km 6 cao toc ha noi lao cai,0.85,Trạm thu phí Km 6 cao tốc Hà Nội - Lào Cai,21.252714,105.739648
+vn-toll-gmaps-chijldcenyv9nderu0-djgbtfgm,toll_station,colleague_name,Trạm Thu phí Km 6 Cao tốc Hà Nội - Lào Cai,tram thu phi km 6 cao toc ha noi lao cai,0.75,Trạm thu phí Km 6 cao tốc Hà Nội - Lào Cai,21.252714,105.739648
+vn-toll-gmaps-chijldcenyv9nderu0-djgbtfgm,toll_station,colleague_google_name,Trạm Thu phí Km 6 Cao tốc Hà Nội - Lào Cai,tram thu phi km 6 cao toc ha noi lao cai,0.85,Trạm thu phí Km 6 cao tốc Hà Nội - Lào Cai,21.252714,105.739648
+vn-toll-gmaps-chijldcenyv9nderu0-djgbtfgm,toll_station,google_name,Trạm thu phí Km 6 cao tốc Hà Nội - Lào Cai,tram thu phi km 6 cao toc ha noi lao cai,0.9,Trạm thu phí Km 6 cao tốc Hà Nội - Lào Cai,21.252714,105.739648
+vn-toll-gmaps-chijfrnwdlqrsjerj0lihlazqz8,toll_station,current_name,Trạm thu phí Km 45 - cao tốc Bắc - Nam phía Đông (Bắc Giang - Lạng Sơn),tram thu phi km 45 cao toc bac nam phia dong bac giang lang son,0.90,Trạm thu phí Km 45 - cao tốc Bắc - Nam phía Đông (Bắc Giang - Lạng Sơn),21.686704,106.62769
+vn-toll-gmaps-chijfrnwdlqrsjerj0lihlazqz8,toll_station,osm_name,Trạm Thu phí Km 45+100,tram thu phi km 45 100,0.65,Trạm thu phí Km 45 - cao tốc Bắc - Nam phía Đông (Bắc Giang - Lạng Sơn),21.686704,106.62769
+vn-toll-gmaps-chijfrnwdlqrsjerj0lihlazqz8,toll_station,road,Cao Tốc Bắc - Nam Phía Đông,cao toc bac nam phia dong,0.35,Trạm thu phí Km 45 - cao tốc Bắc - Nam phía Đông (Bắc Giang - Lạng Sơn),21.686704,106.62769
+vn-toll-gmaps-chijfrnwdlqrsjerj0lihlazqz8,toll_station,reviewed_osm_name,Trạm Thu Phí Km 45 - Cao Tốc Bắc - Nam phía Đông (Bắc Giang - Lạng Sơn),tram thu phi km 45 cao toc bac nam phia dong bac giang lang son,0.95,Trạm thu phí Km 45 - cao tốc Bắc - Nam phía Đông (Bắc Giang - Lạng Sơn),21.686704,106.62769
+vn-toll-gmaps-chijfrnwdlqrsjerj0lihlazqz8,toll_station,review_google_name,Trạm Thu Phí Km 45 - Cao Tốc Bắc - Nam phía Đông (Bắc Giang - Lạng Sơn),tram thu phi km 45 cao toc bac nam phia dong bac giang lang son,0.85,Trạm thu phí Km 45 - cao tốc Bắc - Nam phía Đông (Bắc Giang - Lạng Sơn),21.686704,106.62769
+vn-toll-gmaps-chijfrnwdlqrsjerj0lihlazqz8,toll_station,colleague_name,Trạm Thu Phí Km 45 - Cao Tốc Bắc - Nam phía Đông (Bắc Giang - Lạng Sơn),tram thu phi km 45 cao toc bac nam phia dong bac giang lang son,0.75,Trạm thu phí Km 45 - cao tốc Bắc - Nam phía Đông (Bắc Giang - Lạng Sơn),21.686704,106.62769
+vn-toll-gmaps-chijfrnwdlqrsjerj0lihlazqz8,toll_station,colleague_google_name,Trạm Thu Phí Km 45 - Cao Tốc Bắc - Nam phía Đông (Bắc Giang - Lạng Sơn),tram thu phi km 45 cao toc bac nam phia dong bac giang lang son,0.85,Trạm thu phí Km 45 - cao tốc Bắc - Nam phía Đông (Bắc Giang - Lạng Sơn),21.686704,106.62769
+vn-toll-gmaps-chijfrnwdlqrsjerj0lihlazqz8,toll_station,google_name,Trạm thu phí Km 45 - cao tốc Bắc - Nam phía Đông (Bắc Giang - Lạng Sơn),tram thu phi km 45 cao toc bac nam phia dong bac giang lang son,0.9,Trạm thu phí Km 45 - cao tốc Bắc - Nam phía Đông (Bắc Giang - Lạng Sơn),21.686704,106.62769
+final-ChIJEUkHFIr-czERw4PbyAJb5bw,toll_station,current_name,Trạm thu phí Liên Đầm,tram thu phi lien dam,0.90,Trạm thu phí Liên Đầm,11.5664985,107.9987574
+final-ChIJEUkHFIr-czERw4PbyAJb5bw,toll_station,osm_name,Trạm Thu phí Liên Đầm,tram thu phi lien dam,0.65,Trạm thu phí Liên Đầm,11.5664985,107.9987574
+final-ChIJEUkHFIr-czERw4PbyAJb5bw,toll_station,road,QL20,quoc lo 20,0.35,Trạm thu phí Liên Đầm,11.5664985,107.9987574
+final-ChIJEUkHFIr-czERw4PbyAJb5bw,toll_station,colleague_name,Trạm thu phí Liên Đầm,tram thu phi lien dam,0.75,Trạm thu phí Liên Đầm,11.5664985,107.9987574
+final-ChIJEUkHFIr-czERw4PbyAJb5bw,toll_station,colleague_google_name,Trạm Thu phí Liên Đầm,tram thu phi lien dam,0.85,Trạm thu phí Liên Đầm,11.5664985,107.9987574
+final-ChIJEUkHFIr-czERw4PbyAJb5bw,toll_station,google_name,Trạm thu phí Liên Đầm,tram thu phi lien dam,0.8,Trạm thu phí Liên Đầm,11.5664985,107.9987574
+vn-toll-gmaps-chijaqaaz2mhdterythzp3-iy10,toll_station,current_name,Trạm thu phí Long Phước,tram thu phi long phuoc,0.90,Trạm thu phí Long Phước,10.785886,106.851826
+vn-toll-gmaps-chijaqaaz2mhdterythzp3-iy10,toll_station,osm_name,Trạm thu phí Long Phước,tram thu phi long phuoc,0.65,Trạm thu phí Long Phước,10.785886,106.851826
+vn-toll-gmaps-chijaqaaz2mhdterythzp3-iy10,toll_station,colleague_name,Trạm Thu phí Long Phước,tram thu phi long phuoc,0.75,Trạm thu phí Long Phước,10.785886,106.851826
+vn-toll-gmaps-chijaqaaz2mhdterythzp3-iy10,toll_station,colleague_google_name,Trạm Thu phí Long Phước,tram thu phi long phuoc,0.85,Trạm thu phí Long Phước,10.785886,106.851826
+vn-toll-gmaps-chijaqaaz2mhdterythzp3-iy10,toll_station,google_name,Trạm thu phí Long Phước,tram thu phi long phuoc,0.8,Trạm thu phí Long Phước,10.785886,106.851826
+vn-toll-gmaps-chij67wnchrrszerybguj3zatii,toll_station,current_name,Trạm thu phí Móng Cái,tram thu phi mong cai,0.90,Trạm thu phí Móng Cái,21.512378,107.949864
+vn-toll-gmaps-chij67wnchrrszerybguj3zatii,toll_station,osm_name,Trạm Thu phí Móng Cái,tram thu phi mong cai,0.65,Trạm thu phí Móng Cái,21.512378,107.949864
+vn-toll-gmaps-chij67wnchrrszerybguj3zatii,toll_station,google_name,Trạm thu phí Móng Cái,tram thu phi mong cai,0.8,Trạm thu phí Móng Cái,21.512378,107.949864
+vn-toll-gmaps-chijcw2-tmjdnteri9cqcxvfgqi,toll_station,current_name,Trạm thu phí Mỹ Lộc,tram thu phi my loc,0.90,Trạm thu phí Mỹ Lộc,20.447509,106.119748
+vn-toll-gmaps-chijcw2-tmjdnteri9cqcxvfgqi,toll_station,osm_name,Trạm thu phí Mỹ Lộc,tram thu phi my loc,0.65,Trạm thu phí Mỹ Lộc,20.447509,106.119748
+vn-toll-gmaps-chijcw2-tmjdnteri9cqcxvfgqi,toll_station,colleague_name,TRẠM THU PHÍ MỸ LỘC,tram thu phi my loc,0.75,Trạm thu phí Mỹ Lộc,20.447509,106.119748
+vn-toll-gmaps-chijcw2-tmjdnteri9cqcxvfgqi,toll_station,colleague_google_name,Trạm Thu phí Mỹ Lộc,tram thu phi my loc,0.85,Trạm thu phí Mỹ Lộc,20.447509,106.119748
+vn-toll-gmaps-chijcw2-tmjdnteri9cqcxvfgqi,toll_station,google_name,Trạm thu phí Mỹ Lộc,tram thu phi my loc,0.8,Trạm thu phí Mỹ Lộc,20.447509,106.119748
+vn-toll-gmaps-chijw7x4ly4vbzerqhxh-n6qozq,toll_station,current_name,Trạm thu phí Nam Bình Định,tram thu phi nam binh dinh,0.90,Trạm thu phí Nam Bình Định,13.871314,109.125422
+vn-toll-gmaps-chijw7x4ly4vbzerqhxh-n6qozq,toll_station,osm_name,OSM toll 6950227536,osm toll 6950227536,0.65,Trạm thu phí Nam Bình Định,13.871314,109.125422
+vn-toll-gmaps-chijw7x4ly4vbzerqhxh-n6qozq,toll_station,reviewed_osm_name,Trạm Thu phí Nam Bình Định,tram thu phi nam binh dinh,0.95,Trạm thu phí Nam Bình Định,13.871314,109.125422
+vn-toll-gmaps-chijw7x4ly4vbzerqhxh-n6qozq,toll_station,review_google_name,Trạm Thu phí Nam Bình Định,tram thu phi nam binh dinh,0.85,Trạm thu phí Nam Bình Định,13.871314,109.125422
+vn-toll-gmaps-chijw7x4ly4vbzerqhxh-n6qozq,toll_station,colleague_name,TRẠM THU PHÍ NAM BÌNH ĐỊNH,tram thu phi nam binh dinh,0.75,Trạm thu phí Nam Bình Định,13.871314,109.125422
+vn-toll-gmaps-chijw7x4ly4vbzerqhxh-n6qozq,toll_station,colleague_google_name,Trạm Thu phí Nam Bình Định,tram thu phi nam binh dinh,0.85,Trạm thu phí Nam Bình Định,13.871314,109.125422
+vn-toll-gmaps-chijw7x4ly4vbzerqhxh-n6qozq,toll_station,google_name,Trạm thu phí Nam Bình Định,tram thu phi nam binh dinh,0.8,Trạm thu phí Nam Bình Định,13.871314,109.125422
+vn-toll-gmaps-chijpylvtrvjnterwkgkbtun9cs,toll_station,current_name,Trạm thu phí Nam Cầu Giẽ,tram thu phi nam cau gie,0.90,Trạm thu phí Nam Cầu Giẽ,20.665174,105.916606
+vn-toll-gmaps-chijpylvtrvjnterwkgkbtun9cs,toll_station,osm_name,Trạm Thu Phí Cầu Giẽ Hà Nam,tram thu phi cau gie ha nam,0.65,Trạm thu phí Nam Cầu Giẽ,20.665174,105.916606
+vn-toll-gmaps-chijpylvtrvjnterwkgkbtun9cs,toll_station,colleague_name,Trạm thu phí Nam Cầu Giẽ,tram thu phi nam cau gie,0.75,Trạm thu phí Nam Cầu Giẽ,20.665174,105.916606
+vn-toll-gmaps-chijpylvtrvjnterwkgkbtun9cs,toll_station,colleague_google_name,Trạm Thu phí Nam Cầu Giẽ,tram thu phi nam cau gie,0.85,Trạm thu phí Nam Cầu Giẽ,20.665174,105.916606
+vn-toll-gmaps-chijpylvtrvjnterwkgkbtun9cs,toll_station,google_name,Trạm thu phí Nam Cầu Giẽ,tram thu phi nam cau gie,0.8,Trạm thu phí Nam Cầu Giẽ,20.665174,105.916606
+vn-toll-gmaps-chijcyijxutacdera7cpbmuz5zu,toll_station,current_name,Trạm thu phí Ninh Lộc,tram thu phi ninh loc,0.90,Trạm thu phí Ninh Lộc,12.444329,109.120564
+vn-toll-gmaps-chijcyijxutacdera7cpbmuz5zu,toll_station,osm_name,Trạm Thu Phí Ninh An (Ninh Lộc),tram thu phi ninh an ninh loc,0.65,Trạm thu phí Ninh Lộc,12.444329,109.120564
+vn-toll-gmaps-chijcyijxutacdera7cpbmuz5zu,toll_station,colleague_name,Trạm thu phí Ninh Lộc,tram thu phi ninh loc,0.75,Trạm thu phí Ninh Lộc,12.444329,109.120564
+vn-toll-gmaps-chijcyijxutacdera7cpbmuz5zu,toll_station,colleague_google_name,Trạm Thu phí Ninh Lộc,tram thu phi ninh loc,0.85,Trạm thu phí Ninh Lộc,12.444329,109.120564
+vn-toll-gmaps-chijcyijxutacdera7cpbmuz5zu,toll_station,google_name,Trạm thu phí Ninh Lộc,tram thu phi ninh loc,0.8,Trạm thu phí Ninh Lộc,12.444329,109.120564
+vn-toll-gmaps-chijheu4jpyeqjer0ieju1yy09k,toll_station,current_name,Trạm thu phí Phong Thử,tram thu phi phong thu,0.90,Trạm thu phí Phong Thử,15.890553,108.173646
+vn-toll-gmaps-chijheu4jpyeqjer0ieju1yy09k,toll_station,osm_name,OSM toll 1374419135,osm toll 1374419135,0.65,Trạm thu phí Phong Thử,15.890553,108.173646
+vn-toll-gmaps-chijheu4jpyeqjer0ieju1yy09k,toll_station,reviewed_osm_name,Trạm Thu phí Phong Thử,tram thu phi phong thu,0.95,Trạm thu phí Phong Thử,15.890553,108.173646
+vn-toll-gmaps-chijheu4jpyeqjer0ieju1yy09k,toll_station,review_google_name,Trạm Thu phí Phong Thử,tram thu phi phong thu,0.85,Trạm thu phí Phong Thử,15.890553,108.173646
+vn-toll-gmaps-chijheu4jpyeqjer0ieju1yy09k,toll_station,google_name,Trạm thu phí Phong Thử,tram thu phi phong thu,0.8,Trạm thu phí Phong Thử,15.890553,108.173646
+vn-toll-gmaps-chij5uixooyznter1uou4imhe6q,toll_station,current_name,Trạm thu phí Pháp Vân,tram thu phi phap van,0.90,Trạm thu phí Pháp Vân,20.907514,105.86138
+vn-toll-gmaps-chij5uixooyznter1uou4imhe6q,toll_station,osm_name,Đường cao tốc Pháp Vân - Cầu Giẽ,duong cao toc phap van cau gie,0.65,Trạm thu phí Pháp Vân,20.907514,105.86138
+vn-toll-gmaps-chij5uixooyznter1uou4imhe6q,toll_station,colleague_name,Trạm thu phí Pháp Vân,tram thu phi phap van,0.75,Trạm thu phí Pháp Vân,20.907514,105.86138
+vn-toll-gmaps-chij5uixooyznter1uou4imhe6q,toll_station,colleague_google_name,Trạm thu phí Pháp Vân,tram thu phi phap van,0.85,Trạm thu phí Pháp Vân,20.907514,105.86138
+vn-toll-gmaps-chij5uixooyznter1uou4imhe6q,toll_station,google_name,Trạm thu phí Pháp Vân,tram thu phi phap van,0.8,Trạm thu phí Pháp Vân,20.907514,105.86138
+vn-toll-gmaps-chij60njjc-tnderf1gktlbp6bm,toll_station,current_name,Trạm thu phí Phù Ninh (IC8),tram thu phi phu ninh ic8,0.90,Trạm thu phí Phù Ninh (IC8),21.390527,105.330033
+vn-toll-gmaps-chij60njjc-tnderf1gktlbp6bm,toll_station,osm_name,OSM toll 3992131737,osm toll 3992131737,0.65,Trạm thu phí Phù Ninh (IC8),21.390527,105.330033
+vn-toll-gmaps-chij60njjc-tnderf1gktlbp6bm,toll_station,reviewed_osm_name,Trạm Thu phí Phù Ninh (IC8),tram thu phi phu ninh ic8,0.95,Trạm thu phí Phù Ninh (IC8),21.390527,105.330033
+vn-toll-gmaps-chij60njjc-tnderf1gktlbp6bm,toll_station,review_google_name,Trạm Thu phí Phù Ninh (IC8),tram thu phi phu ninh ic8,0.85,Trạm thu phí Phù Ninh (IC8),21.390527,105.330033
+vn-toll-gmaps-chij60njjc-tnderf1gktlbp6bm,toll_station,google_name,Trạm thu phí Phù Ninh (IC8),tram thu phi phu ninh ic8,0.7,Trạm thu phí Phù Ninh (IC8),21.390527,105.330033
+vn-toll-gmaps-chij-va6zqtergngvvjpq-fo,toll_station,current_name,Trạm thu phí Phú Bài,tram thu phi phu bai,0.90,Trạm thu phí Phú Bài,16.370271,107.724977
+vn-toll-gmaps-chij-va6zqtergngvvjpq-fo,toll_station,osm_name,Trạm Thu Phí Phú Bài,tram thu phi phu bai,0.65,Trạm thu phí Phú Bài,16.370271,107.724977
+vn-toll-gmaps-chij-va6zqtergngvvjpq-fo,toll_station,colleague_name,TRẠM THU PHÍ PHÚ BÀI,tram thu phi phu bai,0.75,Trạm thu phí Phú Bài,16.370271,107.724977
+vn-toll-gmaps-chij-va6zqtergngvvjpq-fo,toll_station,colleague_google_name,Trạm Thu phí Phú Bài,tram thu phi phu bai,0.85,Trạm thu phí Phú Bài,16.370271,107.724977
+vn-toll-gmaps-chij-va6zqtergngvvjpq-fo,toll_station,google_name,Trạm thu phí Phú Bài,tram thu phi phu bai,0.7,Trạm thu phí Phú Bài,16.370271,107.724977
+vn-toll-gmaps-chijg8s9mawqnderqdir-t0q-ia,toll_station,current_name,Trạm thu phí Phú Thọ (IC9),tram thu phi phu tho ic9,0.90,Trạm thu phí Phú Thọ (IC9),21.423543,105.230986
+vn-toll-gmaps-chijg8s9mawqnderqdir-t0q-ia,toll_station,osm_name,OSM toll 6877650786,osm toll 6877650786,0.65,Trạm thu phí Phú Thọ (IC9),21.423543,105.230986
+vn-toll-gmaps-chijg8s9mawqnderqdir-t0q-ia,toll_station,reviewed_osm_name,Trạm Thu phí Phú Thọ (IC9),tram thu phi phu tho ic9,0.95,Trạm thu phí Phú Thọ (IC9),21.423543,105.230986
+vn-toll-gmaps-chijg8s9mawqnderqdir-t0q-ia,toll_station,review_google_name,Trạm Thu phí Phú Thọ (IC9),tram thu phi phu tho ic9,0.85,Trạm thu phí Phú Thọ (IC9),21.423543,105.230986
+vn-toll-gmaps-chijg8s9mawqnderqdir-t0q-ia,toll_station,google_name,Trạm thu phí Phú Thọ (IC9),tram thu phi phu tho ic9,0.7,Trạm thu phí Phú Thọ (IC9),21.423543,105.230986
+vn-toll-gmaps-chij-b1-qmp3nter5hrm1tmd6de,toll_station,current_name,Trạm thu phí Phả Lại,tram thu phi pha lai,0.90,Trạm thu phí Phả Lại,21.116648,106.276521
+vn-toll-gmaps-chij-b1-qmp3nter5hrm1tmd6de,toll_station,osm_name,OSM toll 13602049340,osm toll 13602049340,0.65,Trạm thu phí Phả Lại,21.116648,106.276521
+vn-toll-gmaps-chij-b1-qmp3nter5hrm1tmd6de,toll_station,reviewed_osm_name,Trạm Thu phí Phả Lại,tram thu phi pha lai,0.95,Trạm thu phí Phả Lại,21.116648,106.276521
+vn-toll-gmaps-chij-b1-qmp3nter5hrm1tmd6de,toll_station,review_google_name,Trạm Thu phí Phả Lại,tram thu phi pha lai,0.85,Trạm thu phí Phả Lại,21.116648,106.276521
+vn-toll-gmaps-chij-b1-qmp3nter5hrm1tmd6de,toll_station,colleague_name,TRẠM THU PHÍ PHẢ LẠI,tram thu phi pha lai,0.75,Trạm thu phí Phả Lại,21.116648,106.276521
+vn-toll-gmaps-chij-b1-qmp3nter5hrm1tmd6de,toll_station,colleague_google_name,Trạm Thu phí Phả Lại,tram thu phi pha lai,0.85,Trạm thu phí Phả Lại,21.116648,106.276521
+vn-toll-gmaps-chij-b1-qmp3nter5hrm1tmd6de,toll_station,google_name,Trạm thu phí Phả Lại,tram thu phi pha lai,0.7,Trạm thu phí Phả Lại,21.116648,106.276521
+vn-toll-clean-086,toll_station,current_name,Trạm thu phí Quốc lộ 5B,tram thu phi quoc lo 5b,0.90,Trạm thu phí Quốc lộ 5B,20.8552617,106.120794
+vn-toll-clean-086,toll_station,road,QL5B,quoc lo 5b,0.35,Trạm thu phí Quốc lộ 5B,20.8552617,106.120794
+vn-toll-clean-086,toll_station,colleague_name,Trạm thu phí QL 5B,tram thu phi quoc lo 5b,0.75,Trạm thu phí Quốc lộ 5B,20.8552617,106.120794
+vn-toll-clean-086,toll_station,colleague_google_name,Trạm thu phí QL 5B,tram thu phi quoc lo 5b,0.85,Trạm thu phí Quốc lộ 5B,20.8552617,106.120794
+vn-toll-clean-086,toll_station,google_name,Trạm thu phí Quốc lộ 5B,tram thu phi quoc lo 5b,0.80,Trạm thu phí Quốc lộ 5B,20.8552617,106.120794
+vn-toll-gmaps-chijvvxfgzltrzer3n0b0trghq8,toll_station,current_name,Trạm thu phí Quán Hàu,tram thu phi quan hau,0.90,Trạm thu phí Quán Hàu,17.39189,106.646929
+vn-toll-gmaps-chijvvxfgzltrzer3n0b0trghq8,toll_station,osm_name,Trạm thu phí Quán Hàu,tram thu phi quan hau,0.65,Trạm thu phí Quán Hàu,17.39189,106.646929
+vn-toll-gmaps-chijvvxfgzltrzer3n0b0trghq8,toll_station,google_name,Trạm thu phí Quán Hàu,tram thu phi quan hau,0.8,Trạm thu phí Quán Hàu,17.39189,106.646929
+vn-toll-gmaps-chijcyh3uzmtater2xoyt6row9e,toll_station,current_name,Trạm thu phí Quảng Ngãi,tram thu phi quang ngai,0.90,Trạm thu phí Quảng Ngãi,15.109507,108.757688
+vn-toll-gmaps-chijcyh3uzmtater2xoyt6row9e,toll_station,osm_name,Trạm thu phí Quảng Ngãi - Đà Nẵng Km 130,tram thu phi quang ngai da nang km 130,0.65,Trạm thu phí Quảng Ngãi,15.109507,108.757688
+vn-toll-gmaps-chijcyh3uzmtater2xoyt6row9e,toll_station,google_name,Trạm thu phí Quảng Ngãi,tram thu phi quang ngai,0.8,Trạm thu phí Quảng Ngãi,15.109507,108.757688
+vn-toll-clean-087,toll_station,current_name,Trạm thu phí Quốc lộ 17B,tram thu phi quoc lo 17b,0.90,Trạm thu phí Quốc lộ 17B,20.9647965,106.5191627
+vn-toll-clean-087,toll_station,road,Quốc lộ 17B,quoc lo 17b,0.35,Trạm thu phí Quốc lộ 17B,20.9647965,106.5191627
+vn-toll-clean-087,toll_station,colleague_name,Trạm Thu phí Quốc lộ 17B,tram thu phi quoc lo 17b,0.75,Trạm thu phí Quốc lộ 17B,20.9647965,106.5191627
+vn-toll-clean-087,toll_station,colleague_google_name,Trạm Thu phí Quốc lộ 17B,tram thu phi quoc lo 17b,0.85,Trạm thu phí Quốc lộ 17B,20.9647965,106.5191627
+vn-toll-clean-087,toll_station,google_name,Trạm thu phí Quốc lộ 17B,tram thu phi quoc lo 17b,0.80,Trạm thu phí Quốc lộ 17B,20.9647965,106.5191627
+vn-toll-gmaps-chijmzdscgvgsjer8vf1a48ywny,toll_station,current_name,Trạm thu phí quốc lộ 18 - Đại Yên,tram thu phi quoc lo 18 dai yen,0.90,Trạm thu phí quốc lộ 18 - Đại Yên,20.986069,106.90282
+vn-toll-gmaps-chijmzdscgvgsjer8vf1a48ywny,toll_station,osm_name,Trạm Thu Phí Đại Yên,tram thu phi dai yen,0.65,Trạm thu phí quốc lộ 18 - Đại Yên,20.986069,106.90282
+vn-toll-gmaps-chijmzdscgvgsjer8vf1a48ywny,toll_station,road,QL18,quoc lo 18,0.35,Trạm thu phí quốc lộ 18 - Đại Yên,20.986069,106.90282
+vn-toll-gmaps-chijmzdscgvgsjer8vf1a48ywny,toll_station,colleague_name,TRẠM THU PHÍ ĐẠI YÊN,tram thu phi dai yen,0.75,Trạm thu phí quốc lộ 18 - Đại Yên,20.986069,106.90282
+vn-toll-gmaps-chijmzdscgvgsjer8vf1a48ywny,toll_station,colleague_google_name,Trạm thu phí Đại Yên,tram thu phi dai yen,0.85,Trạm thu phí quốc lộ 18 - Đại Yên,20.986069,106.90282
+vn-toll-gmaps-chijmzdscgvgsjer8vf1a48ywny,toll_station,google_name,Trạm thu phí quốc lộ 18 - Đại Yên,tram thu phi quoc lo 18 dai yen,0.9,Trạm thu phí quốc lộ 18 - Đại Yên,20.986069,106.90282
+vn-toll-clean-022,toll_station,current_name,Trạm thu phí Quốc lộ 279,tram thu phi quoc lo 279,0.90,Trạm thu phí Quốc lộ 279,21.6205522,106.5586596
+vn-toll-clean-022,toll_station,road,Quốc lộ 279,quoc lo 279,0.35,Trạm thu phí Quốc lộ 279,21.6205522,106.5586596
+vn-toll-clean-022,toll_station,colleague_name,Trạm thu phí 279 BGLS,tram thu phi 279 bgls,0.75,Trạm thu phí Quốc lộ 279,21.6205522,106.5586596
+vn-toll-clean-022,toll_station,colleague_google_name,Trạm Thu phí Quốc lộ 279,tram thu phi quoc lo 279,0.85,Trạm thu phí Quốc lộ 279,21.6205522,106.5586596
+vn-toll-clean-022,toll_station,google_name,Trạm thu phí Quốc lộ 279,tram thu phi quoc lo 279,0.80,Trạm thu phí Quốc lộ 279,21.6205522,106.5586596
+vn-toll-clean-092,toll_station,current_name,Trạm thu phí Quốc lộ 37,tram thu phi quoc lo 37,0.90,Trạm thu phí Quốc lộ 37,21.3890365,106.3022951
+vn-toll-clean-092,toll_station,road,Quốc lộ 37,quoc lo 37,0.35,Trạm thu phí Quốc lộ 37,21.3890365,106.3022951
+vn-toll-clean-092,toll_station,colleague_name,Trạm Thu phí Quốc lộ 37,tram thu phi quoc lo 37,0.75,Trạm thu phí Quốc lộ 37,21.3890365,106.3022951
+vn-toll-clean-092,toll_station,colleague_google_name,Trạm Thu phí Quốc lộ 37,tram thu phi quoc lo 37,0.85,Trạm thu phí Quốc lộ 37,21.3890365,106.3022951
+vn-toll-clean-092,toll_station,google_name,Trạm thu phí Quốc lộ 37,tram thu phi quoc lo 37,0.80,Trạm thu phí Quốc lộ 37,21.3890365,106.3022951
+vn-toll-gmaps-chijry-acdcydterl-81xybzbta,toll_station,current_name,Trạm thu phí Quốc lộ 51,tram thu phi quoc lo 51,0.90,Trạm thu phí Quốc lộ 51,10.765217,106.956554
+vn-toll-gmaps-chijry-acdcydterl-81xybzbta,toll_station,osm_name,Trạm Thu phí Quốc lộ 51,tram thu phi quoc lo 51,0.65,Trạm thu phí Quốc lộ 51,10.765217,106.956554
+vn-toll-gmaps-chijry-acdcydterl-81xybzbta,toll_station,road,QL51,quoc lo 51,0.35,Trạm thu phí Quốc lộ 51,10.765217,106.956554
+vn-toll-gmaps-chijry-acdcydterl-81xybzbta,toll_station,colleague_name,Trạm Thu phí Quốc lộ 51,tram thu phi quoc lo 51,0.75,Trạm thu phí Quốc lộ 51,10.765217,106.956554
+vn-toll-gmaps-chijry-acdcydterl-81xybzbta,toll_station,colleague_google_name,Trạm Thu phí Quốc lộ 51,tram thu phi quoc lo 51,0.85,Trạm thu phí Quốc lộ 51,10.765217,106.956554
+vn-toll-gmaps-chijry-acdcydterl-81xybzbta,toll_station,google_name,Trạm thu phí Quốc lộ 51,tram thu phi quoc lo 51,0.9,Trạm thu phí Quốc lộ 51,10.765217,106.956554
+vn-toll-gmaps-chijz9dylgbzcderyflmmd4qeom,toll_station,current_name,Trạm thu phí Suối Dầu,tram thu phi suoi dau,0.90,Trạm thu phí Suối Dầu,12.178763,109.058643
+vn-toll-gmaps-chijz9dylgbzcderyflmmd4qeom,toll_station,osm_name,Đi Cao tốc Nha Trang - Cam Lâm,di cao toc nha trang cam lam,0.65,Trạm thu phí Suối Dầu,12.178763,109.058643
+vn-toll-gmaps-chijz9dylgbzcderyflmmd4qeom,toll_station,colleague_name,Trạm Thu phí Suối Dầu,tram thu phi suoi dau,0.75,Trạm thu phí Suối Dầu,12.178763,109.058643
+vn-toll-gmaps-chijz9dylgbzcderyflmmd4qeom,toll_station,colleague_google_name,Trạm Thu phí Suối Dầu,tram thu phi suoi dau,0.85,Trạm thu phí Suối Dầu,12.178763,109.058643
+vn-toll-gmaps-chijz9dylgbzcderyflmmd4qeom,toll_station,google_name,Trạm thu phí Suối Dầu,tram thu phi suoi dau,0.8,Trạm thu phí Suối Dầu,12.178763,109.058643
+vn-toll-gmaps-chijmfpu1ijrdderilkoelft8ie,toll_station,current_name,Trạm thu phí Suối Giữa,tram thu phi suoi giua,0.90,Trạm thu phí Suối Giữa,11.005237,106.64563
+vn-toll-gmaps-chijmfpu1ijrdderilkoelft8ie,toll_station,osm_name,Trạm thu phí Suối Giữa,tram thu phi suoi giua,0.65,Trạm thu phí Suối Giữa,11.005237,106.64563
+vn-toll-gmaps-chijmfpu1ijrdderilkoelft8ie,toll_station,colleague_name,TRẠM THU PHÍ SUỐI GIỮA,tram thu phi suoi giua,0.75,Trạm thu phí Suối Giữa,11.005237,106.64563
+vn-toll-gmaps-chijmfpu1ijrdderilkoelft8ie,toll_station,colleague_google_name,Trạm Thu phí Suối Giữa,tram thu phi suoi giua,0.85,Trạm thu phí Suối Giữa,11.005237,106.64563
+vn-toll-gmaps-chijmfpu1ijrdderilkoelft8ie,toll_station,google_name,Trạm thu phí Suối Giữa,tram thu phi suoi giua,0.8,Trạm thu phí Suối Giữa,11.005237,106.64563
+vn-toll-clean-088,toll_station,current_name,Trạm thu phí Sân bay Pleiku,tram thu phi san bay pleiku,0.90,Trạm thu phí Sân bay Pleiku,14.0072709,108.0048155
+vn-toll-clean-088,toll_station,colleague_name,Trạm Thu phí Sân bay Pleiku,tram thu phi san bay pleiku,0.75,Trạm thu phí Sân bay Pleiku,14.0072709,108.0048155
+vn-toll-clean-088,toll_station,colleague_google_name,Trạm Thu phí Sân bay Pleiku,tram thu phi san bay pleiku,0.85,Trạm thu phí Sân bay Pleiku,14.0072709,108.0048155
+vn-toll-clean-088,toll_station,google_name,Trạm thu phí Sân bay Pleiku,tram thu phi san bay pleiku,0.80,Trạm thu phí Sân bay Pleiku,14.0072709,108.0048155
+vn-toll-gmaps-chijm6tquru8djeran-pvwkiil0,toll_station,current_name,Trạm thu phí Sông Lũy,tram thu phi song luy,0.90,Trạm thu phí Sông Lũy,11.203574,108.32627
+vn-toll-gmaps-chijm6tquru8djeran-pvwkiil0,toll_station,osm_name,OSM toll 10198616916,osm toll 10198616916,0.65,Trạm thu phí Sông Lũy,11.203574,108.32627
+vn-toll-gmaps-chijm6tquru8djeran-pvwkiil0,toll_station,reviewed_osm_name,Trạm Thu phí Sông Lũy,tram thu phi song luy,0.95,Trạm thu phí Sông Lũy,11.203574,108.32627
+vn-toll-gmaps-chijm6tquru8djeran-pvwkiil0,toll_station,review_google_name,Trạm Thu phí Sông Lũy,tram thu phi song luy,0.85,Trạm thu phí Sông Lũy,11.203574,108.32627
+vn-toll-gmaps-chijm6tquru8djeran-pvwkiil0,toll_station,google_name,Trạm thu phí Sông Lũy,tram thu phi song luy,0.8,Trạm thu phí Sông Lũy,11.203574,108.32627
+vn-toll-gmaps-chijuyf92xusdderp1zo6r1ueqo,toll_station,current_name,Trạm thu phí Sông Phan,tram thu phi song phan,0.90,Trạm thu phí Sông Phan,10.875323,107.931343
+vn-toll-gmaps-chijuyf92xusdderp1zo6r1ueqo,toll_station,osm_name,OSM toll 1588276876,osm toll 1588276876,0.65,Trạm thu phí Sông Phan,10.875323,107.931343
+vn-toll-gmaps-chijuyf92xusdderp1zo6r1ueqo,toll_station,reviewed_osm_name,Trạm Thu phí Sông Phan,tram thu phi song phan,0.95,Trạm thu phí Sông Phan,10.875323,107.931343
+vn-toll-gmaps-chijuyf92xusdderp1zo6r1ueqo,toll_station,review_google_name,Trạm Thu phí Sông Phan,tram thu phi song phan,0.85,Trạm thu phí Sông Phan,10.875323,107.931343
+vn-toll-gmaps-chijuyf92xusdderp1zo6r1ueqo,toll_station,colleague_name,Trạm thu phí Sông Phan,tram thu phi song phan,0.75,Trạm thu phí Sông Phan,10.875323,107.931343
+vn-toll-gmaps-chijuyf92xusdderp1zo6r1ueqo,toll_station,colleague_google_name,Trạm Thu phí Sông Phan,tram thu phi song phan,0.85,Trạm thu phí Sông Phan,10.875323,107.931343
+vn-toll-gmaps-chijuyf92xusdderp1zo6r1ueqo,toll_station,google_name,Trạm thu phí Sông Phan,tram thu phi song phan,0.8,Trạm thu phí Sông Phan,10.875323,107.931343
+vn-toll-gmaps-chijh4ypgmglnterffp5cs-xi3k,toll_station,current_name,Trạm thu phí Số 1 - Quốc lộ 5,tram thu phi so 1 quoc lo 5,0.90,Trạm thu phí Số 1 - Quốc lộ 5,20.949337,106.012557
+vn-toll-gmaps-chijh4ypgmglnterffp5cs-xi3k,toll_station,osm_name,Trạm thu phí số 1,tram thu phi so 1,0.65,Trạm thu phí Số 1 - Quốc lộ 5,20.949337,106.012557
+vn-toll-gmaps-chijh4ypgmglnterffp5cs-xi3k,toll_station,road,QL5,quoc lo 5,0.35,Trạm thu phí Số 1 - Quốc lộ 5,20.949337,106.012557
+vn-toll-gmaps-chijh4ypgmglnterffp5cs-xi3k,toll_station,colleague_name,Trạm Thu phí Số 1 - Quốc lộ 5,tram thu phi so 1 quoc lo 5,0.75,Trạm thu phí Số 1 - Quốc lộ 5,20.949337,106.012557
+vn-toll-gmaps-chijh4ypgmglnterffp5cs-xi3k,toll_station,colleague_google_name,Trạm Thu phí Số 1 - Quốc lộ 5,tram thu phi so 1 quoc lo 5,0.85,Trạm thu phí Số 1 - Quốc lộ 5,20.949337,106.012557
+vn-toll-gmaps-chijh4ypgmglnterffp5cs-xi3k,toll_station,google_name,Trạm thu phí Số 1 - Quốc lộ 5,tram thu phi so 1 quoc lo 5,0.8,Trạm thu phí Số 1 - Quốc lộ 5,20.949337,106.012557
+final-ChIJ4dEMbuZ4SjERLJAkCqZ65Ac,toll_station,current_name,Trạm thu phí Số 2 - Quốc lộ 5,tram thu phi so 2 quoc lo 5,0.90,Trạm thu phí Số 2 - Quốc lộ 5,20.9085704,106.5726339
+final-ChIJ4dEMbuZ4SjERLJAkCqZ65Ac,toll_station,osm_name,OSM toll 10185562123,osm toll 10185562123,0.65,Trạm thu phí Số 2 - Quốc lộ 5,20.9085704,106.5726339
+final-ChIJ4dEMbuZ4SjERLJAkCqZ65Ac,toll_station,road,QL5,quoc lo 5,0.35,Trạm thu phí Số 2 - Quốc lộ 5,20.9085704,106.5726339
+final-ChIJ4dEMbuZ4SjERLJAkCqZ65Ac,toll_station,colleague_name,TRẠM THU PHÍ QL 5 SỐ 2 ( TRẠM QUÁN TOAN),tram thu phi quoc lo 5 so 2 tram quan toan,0.75,Trạm thu phí Số 2 - Quốc lộ 5,20.9085704,106.5726339
+final-ChIJ4dEMbuZ4SjERLJAkCqZ65Ac,toll_station,colleague_google_name,Trạm Thu phí Số 2 - Quốc lộ 5,tram thu phi so 2 quoc lo 5,0.85,Trạm thu phí Số 2 - Quốc lộ 5,20.9085704,106.5726339
+final-ChIJ4dEMbuZ4SjERLJAkCqZ65Ac,toll_station,google_name,Trạm thu phí Số 2 - Quốc lộ 5,tram thu phi so 2 quoc lo 5,0.8,Trạm thu phí Số 2 - Quốc lộ 5,20.9085704,106.5726339
+vn-toll-gmaps-chijmzqjckncatervw-k6mqd6u8,toll_station,current_name,Trạm thu phí Tam Kỳ,tram thu phi tam ky,0.90,Trạm thu phí Tam Kỳ,15.548535,108.518476
+vn-toll-gmaps-chijmzqjckncatervw-k6mqd6u8,toll_station,osm_name,OSM toll 6860284192,osm toll 6860284192,0.65,Trạm thu phí Tam Kỳ,15.548535,108.518476
+vn-toll-gmaps-chijmzqjckncatervw-k6mqd6u8,toll_station,road,QL1A,quoc lo 1a,0.35,Trạm thu phí Tam Kỳ,15.548535,108.518476
+vn-toll-gmaps-chijmzqjckncatervw-k6mqd6u8,toll_station,reviewed_osm_name,Trạm Thu phí Tam Kỳ,tram thu phi tam ky,0.95,Trạm thu phí Tam Kỳ,15.548535,108.518476
+vn-toll-gmaps-chijmzqjckncatervw-k6mqd6u8,toll_station,review_google_name,Trạm Thu phí Tam Kỳ,tram thu phi tam ky,0.85,Trạm thu phí Tam Kỳ,15.548535,108.518476
+vn-toll-gmaps-chijmzqjckncatervw-k6mqd6u8,toll_station,colleague_name,TRẠM THU PHÍ TAM KỲ,tram thu phi tam ky,0.75,Trạm thu phí Tam Kỳ,15.548535,108.518476
+vn-toll-gmaps-chijmzqjckncatervw-k6mqd6u8,toll_station,colleague_google_name,Trạm Thu phí Tam Kỳ,tram thu phi tam ky,0.85,Trạm thu phí Tam Kỳ,15.548535,108.518476
+vn-toll-gmaps-chijmzqjckncatervw-k6mqd6u8,toll_station,google_name,Trạm thu phí Tam Kỳ,tram thu phi tam ky,0.9,Trạm thu phí Tam Kỳ,15.548535,108.518476
+vn-toll-clean-076,toll_station,current_name,Trạm thu phí Tam Nông,tram thu phi tam nong,0.90,Trạm thu phí Tam Nông,21.2433177,105.3260139
+vn-toll-clean-076,toll_station,colleague_name,TRẠM THU PHÍ TAM NÔNG,tram thu phi tam nong,0.75,Trạm thu phí Tam Nông,21.2433177,105.3260139
+vn-toll-clean-076,toll_station,colleague_google_name,Trạm Thu phí Tam Nông,tram thu phi tam nong,0.85,Trạm thu phí Tam Nông,21.2433177,105.3260139
+vn-toll-clean-076,toll_station,google_name,Trạm thu phí Tam Nông,tram thu phi tam nong,0.80,Trạm thu phí Tam Nông,21.2433177,105.3260139
+vn-toll-gmaps-chij3whjiascoderoc1smos1xbs,toll_station,current_name,Trạm thu phí TASCO Quảng Bình,tram thu phi tasco quang binh,0.90,Trạm thu phí TASCO Quảng Bình,17.890216,106.450909
+vn-toll-gmaps-chij3whjiascoderoc1smos1xbs,toll_station,osm_name,OSM toll 668714123,osm toll 668714123,0.65,Trạm thu phí TASCO Quảng Bình,17.890216,106.450909
+vn-toll-gmaps-chij3whjiascoderoc1smos1xbs,toll_station,reviewed_osm_name,Trạm Thu Phí TASCO Quảng Bình,tram thu phi tasco quang binh,0.95,Trạm thu phí TASCO Quảng Bình,17.890216,106.450909
+vn-toll-gmaps-chij3whjiascoderoc1smos1xbs,toll_station,review_google_name,Trạm Thu Phí TASCO Quảng Bình,tram thu phi tasco quang binh,0.85,Trạm thu phí TASCO Quảng Bình,17.890216,106.450909
+vn-toll-gmaps-chij3whjiascoderoc1smos1xbs,toll_station,colleague_name,TRẠM THU PHÍ TASCO QUẢNG BÌNH,tram thu phi tasco quang binh,0.75,Trạm thu phí TASCO Quảng Bình,17.890216,106.450909
+vn-toll-gmaps-chij3whjiascoderoc1smos1xbs,toll_station,colleague_google_name,Trạm Thu Phí TASCO Quảng Bình,tram thu phi tasco quang binh,0.85,Trạm thu phí TASCO Quảng Bình,17.890216,106.450909
+vn-toll-gmaps-chij3whjiascoderoc1smos1xbs,toll_station,google_name,Trạm thu phí TASCO Quảng Bình,tram thu phi tasco quang binh,0.8,Trạm thu phí TASCO Quảng Bình,17.890216,106.450909
+vn-toll-clean-083,toll_station,current_name,Trạm thu phí Thanh Lương,tram thu phi thanh luong,0.90,Trạm thu phí Thanh Lương,11.7228358,106.5832213
+vn-toll-clean-083,toll_station,road,QL13,quoc lo 13,0.35,Trạm thu phí Thanh Lương,11.7228358,106.5832213
+vn-toll-clean-083,toll_station,colleague_name,Trạm thu phí Thanh Lương,tram thu phi thanh luong,0.75,Trạm thu phí Thanh Lương,11.7228358,106.5832213
+vn-toll-clean-083,toll_station,colleague_google_name,Trạm Thu phí Thanh Lương,tram thu phi thanh luong,0.85,Trạm thu phí Thanh Lương,11.7228358,106.5832213
+vn-toll-clean-083,toll_station,google_name,Trạm thu phí Thanh Lương,tram thu phi thanh luong,0.80,Trạm thu phí Thanh Lương,11.7228358,106.5832213
+vn-toll-clean-081,toll_station,current_name,Trạm thu phí Thuận Phú,tram thu phi thuan phu,0.90,Trạm thu phí Thuận Phú,11.577385,106.8944299
+vn-toll-clean-081,toll_station,road,ĐT741,dt741,0.35,Trạm thu phí Thuận Phú,11.577385,106.8944299
+vn-toll-clean-081,toll_station,colleague_name,Trạm thu phí Thuận Phú,tram thu phi thuan phu,0.75,Trạm thu phí Thuận Phú,11.577385,106.8944299
+vn-toll-clean-081,toll_station,colleague_google_name,Trạm Thu phí Thuận Phú,tram thu phi thuan phu,0.85,Trạm thu phí Thuận Phú,11.577385,106.8944299
+vn-toll-clean-081,toll_station,google_name,Trạm thu phí Thuận Phú,tram thu phi thuan phu,0.80,Trạm thu phí Thuận Phú,11.577385,106.8944299
+vn-toll-gmaps-chijj9dxbz8nntery-h6eafxdse,toll_station,current_name,Trạm thu phí Thái Nguyên - Chợ Mới,tram thu phi thai nguyen cho moi,0.90,Trạm thu phí Thái Nguyên - Chợ Mới,21.644094,105.785999
+vn-toll-gmaps-chijj9dxbz8nntery-h6eafxdse,toll_station,osm_name,OSM toll 10001978675,osm toll 10001978675,0.65,Trạm thu phí Thái Nguyên - Chợ Mới,21.644094,105.785999
+vn-toll-gmaps-chijj9dxbz8nntery-h6eafxdse,toll_station,reviewed_osm_name,Trạm Thu phí Thái Nguyên - Chợ Mới,tram thu phi thai nguyen cho moi,0.95,Trạm thu phí Thái Nguyên - Chợ Mới,21.644094,105.785999
+vn-toll-gmaps-chijj9dxbz8nntery-h6eafxdse,toll_station,review_google_name,Trạm Thu phí Thái Nguyên - Chợ Mới,tram thu phi thai nguyen cho moi,0.85,Trạm thu phí Thái Nguyên - Chợ Mới,21.644094,105.785999
+vn-toll-gmaps-chijj9dxbz8nntery-h6eafxdse,toll_station,google_name,Trạm thu phí Thái Nguyên - Chợ Mới,tram thu phi thai nguyen cho moi,0.7,Trạm thu phí Thái Nguyên - Chợ Mới,21.644094,105.785999
+vn-toll-clean-070,toll_station,current_name,Trạm thu phí Thân Cửu Nghĩa,tram thu phi than cuu nghia,0.90,Trạm thu phí Thân Cửu Nghĩa,10.4310606,106.3155488
+vn-toll-clean-070,toll_station,road,Cao Tốc TPHCM - Trung Lương,cao toc tphcm trung luong,0.35,Trạm thu phí Thân Cửu Nghĩa,10.4310606,106.3155488
+vn-toll-clean-070,toll_station,colleague_name,Trạm thu phí Thân Cửu Nghĩa,tram thu phi than cuu nghia,0.75,Trạm thu phí Thân Cửu Nghĩa,10.4310606,106.3155488
+vn-toll-clean-070,toll_station,colleague_google_name,Trạm thu phí Thân Cửu Nghĩa,tram thu phi than cuu nghia,0.85,Trạm thu phí Thân Cửu Nghĩa,10.4310606,106.3155488
+vn-toll-clean-070,toll_station,google_name,Trạm thu phí Thân Cửu Nghĩa,tram thu phi than cuu nghia,0.80,Trạm thu phí Thân Cửu Nghĩa,10.4310606,106.3155488
+vn-toll-gmaps-chij2u3hfygxntercaydyf0qoz0,toll_station,current_name,Trạm thu phí Thường Tín,tram thu phi thuong tin,0.90,Trạm thu phí Thường Tín,20.868904,105.881732
+vn-toll-gmaps-chij2u3hfygxntercaydyf0qoz0,toll_station,osm_name,Trạm Thu phí Thường Tín,tram thu phi thuong tin,0.65,Trạm thu phí Thường Tín,20.868904,105.881732
+vn-toll-gmaps-chij2u3hfygxntercaydyf0qoz0,toll_station,colleague_name,Trạm Thu phí Thường Tín,tram thu phi thuong tin,0.75,Trạm thu phí Thường Tín,20.868904,105.881732
+vn-toll-gmaps-chij2u3hfygxntercaydyf0qoz0,toll_station,colleague_google_name,Trạm Thu phí Thường Tín,tram thu phi thuong tin,0.85,Trạm thu phí Thường Tín,20.868904,105.881732
+vn-toll-gmaps-chij2u3hfygxntercaydyf0qoz0,toll_station,google_name,Trạm thu phí Thường Tín,tram thu phi thuong tin,0.8,Trạm thu phí Thường Tín,20.868904,105.881732
+vn-toll-gmaps-chijq6qqvpajnterc3bdyznisgo,toll_station,current_name,Trạm thu phí Tiên Cựu,tram thu phi tien cuu,0.90,Trạm thu phí Tiên Cựu,20.776437,106.507622
+vn-toll-gmaps-chijq6qqvpajnterc3bdyznisgo,toll_station,osm_name,OSM toll 6864061670,osm toll 6864061670,0.65,Trạm thu phí Tiên Cựu,20.776437,106.507622
+vn-toll-gmaps-chijq6qqvpajnterc3bdyznisgo,toll_station,road,QL10,quoc lo 10,0.35,Trạm thu phí Tiên Cựu,20.776437,106.507622
+vn-toll-gmaps-chijq6qqvpajnterc3bdyznisgo,toll_station,reviewed_osm_name,Trạm Thu phí Tiên Cựu,tram thu phi tien cuu,0.95,Trạm thu phí Tiên Cựu,20.776437,106.507622
+vn-toll-gmaps-chijq6qqvpajnterc3bdyznisgo,toll_station,review_google_name,Trạm Thu phí Tiên Cựu,tram thu phi tien cuu,0.85,Trạm thu phí Tiên Cựu,20.776437,106.507622
+vn-toll-gmaps-chijq6qqvpajnterc3bdyznisgo,toll_station,colleague_name,TRẠM THU PHÍ TIÊN CỰU,tram thu phi tien cuu,0.75,Trạm thu phí Tiên Cựu,20.776437,106.507622
+vn-toll-gmaps-chijq6qqvpajnterc3bdyznisgo,toll_station,colleague_google_name,Trạm Thu phí Tiên Cựu,tram thu phi tien cuu,0.85,Trạm thu phí Tiên Cựu,20.776437,106.507622
+vn-toll-gmaps-chijq6qqvpajnterc3bdyznisgo,toll_station,google_name,Trạm thu phí Tiên Cựu,tram thu phi tien cuu,0.9,Trạm thu phí Tiên Cựu,20.776437,106.507622
+vn-toll-gmaps-chijn971o90jszer78zwgq8ytn0,toll_station,current_name,Trạm thu phí Tiên Yên,tram thu phi tien yen,0.90,Trạm thu phí Tiên Yên,21.308659,107.476059
+vn-toll-gmaps-chijn971o90jszer78zwgq8ytn0,toll_station,osm_name,Trạm Thu phí Tiên Yên,tram thu phi tien yen,0.65,Trạm thu phí Tiên Yên,21.308659,107.476059
+vn-toll-gmaps-chijn971o90jszer78zwgq8ytn0,toll_station,colleague_name,TRẠM THU PHÍ TIÊN YÊN - MÓNG CÁI,tram thu phi tien yen mong cai,0.75,Trạm thu phí Tiên Yên,21.308659,107.476059
+vn-toll-gmaps-chijn971o90jszer78zwgq8ytn0,toll_station,colleague_google_name,Trạm Thu phí Tiên Yên,tram thu phi tien yen,0.85,Trạm thu phí Tiên Yên,21.308659,107.476059
+vn-toll-gmaps-chijn971o90jszer78zwgq8ytn0,toll_station,google_name,Trạm thu phí Tiên Yên,tram thu phi tien yen,0.8,Trạm thu phí Tiên Yên,21.308659,107.476059
+vn-toll-gmaps-chijoz7tsyhkdderuzx9tyaqzms,toll_station,current_name,Trạm thu phí Trảng Bom,tram thu phi trang bom,0.90,Trạm thu phí Trảng Bom,10.945377,107.057444
+vn-toll-gmaps-chijoz7tsyhkdderuzx9tyaqzms,toll_station,osm_name,Trạm thu phí Trảng Bom,tram thu phi trang bom,0.65,Trạm thu phí Trảng Bom,10.945377,107.057444
+vn-toll-gmaps-chijoz7tsyhkdderuzx9tyaqzms,toll_station,road,QL1A,quoc lo 1a,0.35,Trạm thu phí Trảng Bom,10.945377,107.057444
+vn-toll-gmaps-chijoz7tsyhkdderuzx9tyaqzms,toll_station,colleague_name,TRẠM THU PHÍ TRẢNG BOM- ĐỒNG NAI,tram thu phi trang bom dong nai,0.75,Trạm thu phí Trảng Bom,10.945377,107.057444
+vn-toll-gmaps-chijoz7tsyhkdderuzx9tyaqzms,toll_station,colleague_google_name,Trạm Thu phí Trảng Bom,tram thu phi trang bom,0.85,Trạm thu phí Trảng Bom,10.945377,107.057444
+vn-toll-gmaps-chijoz7tsyhkdderuzx9tyaqzms,toll_station,google_name,Trạm thu phí Trảng Bom,tram thu phi trang bom,0.9,Trạm thu phí Trảng Bom,10.945377,107.057444
+vn-toll-gmaps-chijcv-ebxcqddermzadhaixx-y,toll_station,current_name,Trạm thu phí Tân Khai,tram thu phi tan khai,0.90,Trạm thu phí Tân Khai,11.569838,106.617318
+vn-toll-gmaps-chijcv-ebxcqddermzadhaixx-y,toll_station,osm_name,Trạm thu phí Tân Khai,tram thu phi tan khai,0.65,Trạm thu phí Tân Khai,11.569838,106.617318
+vn-toll-gmaps-chijcv-ebxcqddermzadhaixx-y,toll_station,road,QL13,quoc lo 13,0.35,Trạm thu phí Tân Khai,11.569838,106.617318
+vn-toll-gmaps-chijcv-ebxcqddermzadhaixx-y,toll_station,colleague_name,Trạm Thu phí Tân Khai,tram thu phi tan khai,0.75,Trạm thu phí Tân Khai,11.569838,106.617318
+vn-toll-gmaps-chijcv-ebxcqddermzadhaixx-y,toll_station,colleague_google_name,Trạm Thu phí Tân Khai,tram thu phi tan khai,0.85,Trạm thu phí Tân Khai,11.569838,106.617318
+vn-toll-gmaps-chijcv-ebxcqddermzadhaixx-y,toll_station,google_name,Trạm thu phí Tân Khai,tram thu phi tan khai,0.9,Trạm thu phí Tân Khai,11.569838,106.617318
+vn-toll-clean-084,toll_station,current_name,Trạm thu phí Tân Lập,tram thu phi tan lap,0.90,Trạm thu phí Tân Lập,11.3881366,106.8255669
+vn-toll-clean-084,toll_station,road,ĐT741,dt741,0.35,Trạm thu phí Tân Lập,11.3881366,106.8255669
+vn-toll-clean-084,toll_station,colleague_name,Trạm thu phí Tân Lập,tram thu phi tan lap,0.75,Trạm thu phí Tân Lập,11.3881366,106.8255669
+vn-toll-clean-084,toll_station,colleague_google_name,Trạm thu phí Tân Lập,tram thu phi tan lap,0.85,Trạm thu phí Tân Lập,11.3881366,106.8255669
+vn-toll-clean-084,toll_station,google_name,Trạm thu phí Tân Lập,tram thu phi tan lap,0.80,Trạm thu phí Tân Lập,11.3881366,106.8255669
+vn-toll-gmaps-chiji0v06xubqjerrwh9hpq-lco,toll_station,current_name,Trạm thu phí Túy Loan,tram thu phi tuy loan,0.90,Trạm thu phí Túy Loan,15.972891,108.162804
+vn-toll-gmaps-chiji0v06xubqjerrwh9hpq-lco,toll_station,osm_name,Trạm Thu Phí Tuý Loan,tram thu phi tuy loan,0.65,Trạm thu phí Túy Loan,15.972891,108.162804
+vn-toll-gmaps-chiji0v06xubqjerrwh9hpq-lco,toll_station,google_name,Trạm thu phí Túy Loan,tram thu phi tuy loan,0.8,Trạm thu phí Túy Loan,15.972891,108.162804
+vn-toll-gmaps-chij1umhywbvaderfo0oqudtkge,toll_station,current_name,Trạm thu phí Tư Nghĩa,tram thu phi tu nghia,0.90,Trạm thu phí Tư Nghĩa,15.063359,108.839193
+vn-toll-gmaps-chij1umhywbvaderfo0oqudtkge,toll_station,osm_name,OSM toll 6860315448,osm toll 6860315448,0.65,Trạm thu phí Tư Nghĩa,15.063359,108.839193
+vn-toll-gmaps-chij1umhywbvaderfo0oqudtkge,toll_station,reviewed_osm_name,Trạm Thu phí Tư Nghĩa,tram thu phi tu nghia,0.95,Trạm thu phí Tư Nghĩa,15.063359,108.839193
+vn-toll-gmaps-chij1umhywbvaderfo0oqudtkge,toll_station,review_google_name,Trạm Thu phí Tư Nghĩa,tram thu phi tu nghia,0.85,Trạm thu phí Tư Nghĩa,15.063359,108.839193
+vn-toll-gmaps-chij1umhywbvaderfo0oqudtkge,toll_station,colleague_name,TRẠM THU PHÍ TƯ NGHĨA,tram thu phi tu nghia,0.75,Trạm thu phí Tư Nghĩa,15.063359,108.839193
+vn-toll-gmaps-chij1umhywbvaderfo0oqudtkge,toll_station,colleague_google_name,Trạm Thu phí Tư Nghĩa,tram thu phi tu nghia,0.85,Trạm thu phí Tư Nghĩa,15.063359,108.839193
+vn-toll-gmaps-chij1umhywbvaderfo0oqudtkge,toll_station,google_name,Trạm thu phí Tư Nghĩa,tram thu phi tu nghia,0.8,Trạm thu phí Tư Nghĩa,15.063359,108.839193
+vn-toll-gmaps-chij180vwgctndertlpjgciqgh4,toll_station,current_name,Trạm thu phí Việt Trì (IC7),tram thu phi viet tri ic7,0.90,Trạm thu phí Việt Trì (IC7),21.365264,105.380222
+vn-toll-gmaps-chij180vwgctndertlpjgciqgh4,toll_station,osm_name,Trạm thu phí Việt Trì,tram thu phi viet tri,0.65,Trạm thu phí Việt Trì (IC7),21.365264,105.380222
+vn-toll-gmaps-chij180vwgctndertlpjgciqgh4,toll_station,road,CT05,ct05,0.35,Trạm thu phí Việt Trì (IC7),21.365264,105.380222
+vn-toll-gmaps-chij180vwgctndertlpjgciqgh4,toll_station,google_name,Trạm thu phí Việt Trì (IC7),tram thu phi viet tri ic7,0.8,Trạm thu phí Việt Trì (IC7),21.365264,105.380222
+vn-toll-gmaps-chij3dxy82ftnderbrdtq0yxuy8,toll_station,current_name,Trạm thu phí Văn Quán (IC6),tram thu phi van quan ic6,0.90,Trạm thu phí Văn Quán (IC6),21.355073,105.463963
+vn-toll-gmaps-chij3dxy82ftnderbrdtq0yxuy8,toll_station,osm_name,OSM toll 6554465773,osm toll 6554465773,0.65,Trạm thu phí Văn Quán (IC6),21.355073,105.463963
+vn-toll-gmaps-chij3dxy82ftnderbrdtq0yxuy8,toll_station,reviewed_osm_name,Trạm Thu phí Văn Quán (IC6),tram thu phi van quan ic6,0.95,Trạm thu phí Văn Quán (IC6),21.355073,105.463963
+vn-toll-gmaps-chij3dxy82ftnderbrdtq0yxuy8,toll_station,review_google_name,Trạm Thu phí Văn Quán (IC6),tram thu phi van quan ic6,0.85,Trạm thu phí Văn Quán (IC6),21.355073,105.463963
+vn-toll-gmaps-chij3dxy82ftnderbrdtq0yxuy8,toll_station,google_name,Trạm thu phí Văn Quán (IC6),tram thu phi van quan ic6,0.7,Trạm thu phí Văn Quán (IC6),21.355073,105.463963
+vn-toll-clean-073,toll_station,current_name,Trạm thu phí Vĩnh Phú,tram thu phi vinh phu,0.90,Trạm thu phí Vĩnh Phú,10.886868,106.6997385
+vn-toll-clean-073,toll_station,colleague_name,TRẠM THU PHÍ VĨNH PHÚ,tram thu phi vinh phu,0.75,Trạm thu phí Vĩnh Phú,10.886868,106.6997385
+vn-toll-clean-073,toll_station,colleague_google_name,Trạm thu phí Vĩnh Phú,tram thu phi vinh phu,0.85,Trạm thu phí Vĩnh Phú,10.886868,106.6997385
+vn-toll-clean-073,toll_station,google_name,Trạm thu phí Vĩnh Phú,tram thu phi vinh phu,0.80,Trạm thu phí Vĩnh Phú,10.886868,106.6997385
+vn-toll-gmaps-chij31y5uv-3nter2gdin-t5rck,toll_station,current_name,Trạm thu phí Vạn Điểm,tram thu phi van diem,0.90,Trạm thu phí Vạn Điểm,20.773832,105.907281
+vn-toll-gmaps-chij31y5uv-3nter2gdin-t5rck,toll_station,osm_name,Trạm Thu phí Phú Minh,tram thu phi phu minh,0.65,Trạm thu phí Vạn Điểm,20.773832,105.907281
+vn-toll-gmaps-chij31y5uv-3nter2gdin-t5rck,toll_station,reviewed_osm_name,Trạm Thu phí Vạn Điểm,tram thu phi van diem,0.95,Trạm thu phí Vạn Điểm,20.773832,105.907281
+vn-toll-gmaps-chij31y5uv-3nter2gdin-t5rck,toll_station,review_google_name,Trạm Thu phí Vạn Điểm,tram thu phi van diem,0.85,Trạm thu phí Vạn Điểm,20.773832,105.907281
+vn-toll-gmaps-chij31y5uv-3nter2gdin-t5rck,toll_station,colleague_name,Trạm Thu phí Vạn Điểm,tram thu phi van diem,0.75,Trạm thu phí Vạn Điểm,20.773832,105.907281
+vn-toll-gmaps-chij31y5uv-3nter2gdin-t5rck,toll_station,colleague_google_name,Trạm Thu phí Vạn Điểm,tram thu phi van diem,0.85,Trạm thu phí Vạn Điểm,20.773832,105.907281
+vn-toll-gmaps-chij31y5uv-3nter2gdin-t5rck,toll_station,google_name,Trạm thu phí Vạn Điểm,tram thu phi van diem,0.8,Trạm thu phí Vạn Điểm,20.773832,105.907281
+vn-toll-gmaps-chijbzrtactinterbkvnikiwtao,toll_station,current_name,Trạm thu phí Vực Vòng,tram thu phi vuc vong,0.90,Trạm thu phí Vực Vòng,20.645327,105.938495
+vn-toll-gmaps-chijbzrtactinterbkvnikiwtao,toll_station,osm_name,Trạm Thu phí Vực Vòng,tram thu phi vuc vong,0.65,Trạm thu phí Vực Vòng,20.645327,105.938495
+vn-toll-gmaps-chijbzrtactinterbkvnikiwtao,toll_station,colleague_name,Trạm thu phí Vực Vòng,tram thu phi vuc vong,0.75,Trạm thu phí Vực Vòng,20.645327,105.938495
+vn-toll-gmaps-chijbzrtactinterbkvnikiwtao,toll_station,colleague_google_name,Trạm thu phí Vực Vòng,tram thu phi vuc vong,0.85,Trạm thu phí Vực Vòng,20.645327,105.938495
+vn-toll-gmaps-chijbzrtactinterbkvnikiwtao,toll_station,google_name,Trạm thu phí Vực Vòng,tram thu phi vuc vong,0.8,Trạm thu phí Vực Vòng,20.645327,105.938495
+vn-toll-gmaps-chijq32qgjhfnderqfmgxjirylu,toll_station,current_name,Trạm thu phí Xuân Mai - Hòa Bình,tram thu phi xuan mai hoa binh,0.90,Trạm thu phí Xuân Mai - Hòa Bình,20.870306,105.513575
+vn-toll-gmaps-chijq32qgjhfnderqfmgxjirylu,toll_station,osm_name,Trạm Thu Phí Lương Sơn,tram thu phi luong son,0.65,Trạm thu phí Xuân Mai - Hòa Bình,20.870306,105.513575
+vn-toll-gmaps-chijq32qgjhfnderqfmgxjirylu,toll_station,road,QL6,quoc lo 6,0.35,Trạm thu phí Xuân Mai - Hòa Bình,20.870306,105.513575
+vn-toll-gmaps-chijq32qgjhfnderqfmgxjirylu,toll_station,reviewed_osm_name,Trạm thu phí Xuân Mai - Hòa Bình,tram thu phi xuan mai hoa binh,0.95,Trạm thu phí Xuân Mai - Hòa Bình,20.870306,105.513575
+vn-toll-gmaps-chijq32qgjhfnderqfmgxjirylu,toll_station,review_google_name,Trạm thu phí Xuân Mai - Hòa Bình,tram thu phi xuan mai hoa binh,0.85,Trạm thu phí Xuân Mai - Hòa Bình,20.870306,105.513575
+vn-toll-gmaps-chijq32qgjhfnderqfmgxjirylu,toll_station,colleague_name,Trạm thu phí Xuân Mai – Hòa Bình,tram thu phi xuan mai hoa binh,0.75,Trạm thu phí Xuân Mai - Hòa Bình,20.870306,105.513575
+vn-toll-gmaps-chijq32qgjhfnderqfmgxjirylu,toll_station,colleague_google_name,Trạm thu phí Xuân Mai - Hòa Bình,tram thu phi xuan mai hoa binh,0.85,Trạm thu phí Xuân Mai - Hòa Bình,20.870306,105.513575
+vn-toll-gmaps-chijq32qgjhfnderqfmgxjirylu,toll_station,google_name,Trạm thu phí Xuân Mai - Hòa Bình,tram thu phi xuan mai hoa binh,0.9,Trạm thu phí Xuân Mai - Hòa Bình,20.870306,105.513575
+vn-toll-gmaps-chijy0pvdki7nterxrsufrtk7-0,toll_station,current_name,Trạm thu phí Yên Mỹ,tram thu phi yen my,0.90,Trạm thu phí Yên Mỹ,20.850209,106.027549
+vn-toll-gmaps-chijy0pvdki7nterxrsufrtk7-0,toll_station,osm_name,OSM toll 4686546644,osm toll 4686546644,0.65,Trạm thu phí Yên Mỹ,20.850209,106.027549
+vn-toll-gmaps-chijy0pvdki7nterxrsufrtk7-0,toll_station,reviewed_osm_name,Trạm Thu phí Yên Mỹ,tram thu phi yen my,0.95,Trạm thu phí Yên Mỹ,20.850209,106.027549
+vn-toll-gmaps-chijy0pvdki7nterxrsufrtk7-0,toll_station,review_google_name,Trạm Thu phí Yên Mỹ,tram thu phi yen my,0.85,Trạm thu phí Yên Mỹ,20.850209,106.027549
+vn-toll-gmaps-chijy0pvdki7nterxrsufrtk7-0,toll_station,colleague_name,Trạm Thu phí Yên Mỹ,tram thu phi yen my,0.75,Trạm thu phí Yên Mỹ,20.850209,106.027549
+vn-toll-gmaps-chijy0pvdki7nterxrsufrtk7-0,toll_station,colleague_google_name,Trạm Thu phí Yên Mỹ,tram thu phi yen my,0.85,Trạm thu phí Yên Mỹ,20.850209,106.027549
+vn-toll-gmaps-chijy0pvdki7nterxrsufrtk7-0,toll_station,google_name,Trạm thu phí Yên Mỹ,tram thu phi yen my,0.7,Trạm thu phí Yên Mỹ,20.850209,106.027549
+vn-toll-gmaps-chijizmkglgeoderl3wwuangeo8,toll_station,current_name,Trạm thu phí Ô Môn,tram thu phi o mon,0.90,Trạm thu phí Ô Môn,10.111717,105.648978
+vn-toll-gmaps-chijizmkglgeoderl3wwuangeo8,toll_station,osm_name,OSM toll 5003536551,osm toll 5003536551,0.65,Trạm thu phí Ô Môn,10.111717,105.648978
+vn-toll-gmaps-chijizmkglgeoderl3wwuangeo8,toll_station,reviewed_osm_name,Trạm Thu phí Ô Môn,tram thu phi o mon,0.95,Trạm thu phí Ô Môn,10.111717,105.648978
+vn-toll-gmaps-chijizmkglgeoderl3wwuangeo8,toll_station,review_google_name,Trạm Thu phí Ô Môn,tram thu phi o mon,0.85,Trạm thu phí Ô Môn,10.111717,105.648978
+vn-toll-gmaps-chijizmkglgeoderl3wwuangeo8,toll_station,google_name,Trạm thu phí Ô Môn,tram thu phi o mon,0.7,Trạm thu phí Ô Môn,10.111717,105.648978
+vn-toll-gmaps-chijldpaqq0aqjermirp-ousmjs,toll_station,current_name,Trạm thu phí Điện Bàn,tram thu phi dien ban,0.90,Trạm thu phí Điện Bàn,15.930527,108.228712
+vn-toll-gmaps-chijldpaqq0aqjermirp-ousmjs,toll_station,osm_name,OSM toll 5589299568,osm toll 5589299568,0.65,Trạm thu phí Điện Bàn,15.930527,108.228712
+vn-toll-gmaps-chijldpaqq0aqjermirp-ousmjs,toll_station,reviewed_osm_name,Nhà đất Trạm Thu phí Điện Bàn,nha dat tram thu phi dien ban,0.95,Trạm thu phí Điện Bàn,15.930527,108.228712
+vn-toll-gmaps-chijldpaqq0aqjermirp-ousmjs,toll_station,review_google_name,Nhà đất Trạm Thu phí Điện Bàn,nha dat tram thu phi dien ban,0.85,Trạm thu phí Điện Bàn,15.930527,108.228712
+vn-toll-gmaps-chijldpaqq0aqjermirp-ousmjs,toll_station,google_name,Trạm thu phí Điện Bàn,tram thu phi dien ban,0.8,Trạm thu phí Điện Bàn,15.930527,108.228712
+vn-toll-clean-072,toll_station,current_name,Trạm thu phí ĐT741,tram thu phi dt741,0.90,Trạm thu phí ĐT741,11.2218334,106.7252837
+vn-toll-clean-072,toll_station,road,ĐT741,dt741,0.35,Trạm thu phí ĐT741,11.2218334,106.7252837
+vn-toll-clean-072,toll_station,colleague_name,TRẠM THU PHÍ DT741- BÌNH DƯƠNG,tram thu phi dt741 binh duong,0.75,Trạm thu phí ĐT741,11.2218334,106.7252837
+vn-toll-clean-072,toll_station,colleague_google_name,Trạm Thu Phí ĐT741,tram thu phi dt741,0.85,Trạm thu phí ĐT741,11.2218334,106.7252837
+vn-toll-clean-072,toll_station,google_name,Trạm thu phí ĐT741,tram thu phi dt741,0.80,Trạm thu phí ĐT741,11.2218334,106.7252837
+vn-toll-gmaps-chijt8y1wp3kqderg-llifzxxxm,toll_station,current_name,Trạm thu phí Đông Hà,tram thu phi dong ha,0.90,Trạm thu phí Đông Hà,16.785018,107.149829
+vn-toll-gmaps-chijt8y1wp3kqderg-llifzxxxm,toll_station,osm_name,Trạm Thu Phí Đông Hà,tram thu phi dong ha,0.65,Trạm thu phí Đông Hà,16.785018,107.149829
+vn-toll-gmaps-chijt8y1wp3kqderg-llifzxxxm,toll_station,road,QL1A,quoc lo 1a,0.35,Trạm thu phí Đông Hà,16.785018,107.149829
+vn-toll-gmaps-chijt8y1wp3kqderg-llifzxxxm,toll_station,colleague_name,Trạm Thu phí Đông Hà,tram thu phi dong ha,0.75,Trạm thu phí Đông Hà,16.785018,107.149829
+vn-toll-gmaps-chijt8y1wp3kqderg-llifzxxxm,toll_station,colleague_google_name,Trạm Thu phí Đông Hà,tram thu phi dong ha,0.85,Trạm thu phí Đông Hà,16.785018,107.149829
+vn-toll-gmaps-chijt8y1wp3kqderg-llifzxxxm,toll_station,google_name,Trạm thu phí Đông Hà,tram thu phi dong ha,0.9,Trạm thu phí Đông Hà,16.785018,107.149829
+vn-toll-gmaps-chijdad8b7lxnterbktsdn3mjei,toll_station,current_name,Trạm thu phí Đông Hưng,tram thu phi dong hung,0.90,Trạm thu phí Đông Hưng,20.55882,106.368051
+vn-toll-gmaps-chijdad8b7lxnterbktsdn3mjei,toll_station,osm_name,Trạm Thu Phí Đông Hưng,tram thu phi dong hung,0.65,Trạm thu phí Đông Hưng,20.55882,106.368051
+vn-toll-gmaps-chijdad8b7lxnterbktsdn3mjei,toll_station,colleague_name,TRẠM THU PHÍ ĐÔNG HƯNG,tram thu phi dong hung,0.75,Trạm thu phí Đông Hưng,20.55882,106.368051
+vn-toll-gmaps-chijdad8b7lxnterbktsdn3mjei,toll_station,colleague_google_name,Trạm Thu phí Đông Hưng,tram thu phi dong hung,0.85,Trạm thu phí Đông Hưng,20.55882,106.368051
+vn-toll-gmaps-chijdad8b7lxnterbktsdn3mjei,toll_station,google_name,Trạm thu phí Đông Hưng,tram thu phi dong hung,0.7,Trạm thu phí Đông Hưng,20.55882,106.368051
+vn-toll-gmaps-chijw-epzqd3njeribu-dwg-pdu,toll_station,current_name,Trạm thu phí Đông Xuân,tram thu phi dong xuan,0.90,Trạm thu phí Đông Xuân,19.827931,105.69233
+vn-toll-gmaps-chijw-epzqd3njeribu-dwg-pdu,toll_station,osm_name,OSM toll 1359071499,osm toll 1359071499,0.65,Trạm thu phí Đông Xuân,19.827931,105.69233
+vn-toll-gmaps-chijw-epzqd3njeribu-dwg-pdu,toll_station,reviewed_osm_name,Trạm thu phí Đông Xuân,tram thu phi dong xuan,0.95,Trạm thu phí Đông Xuân,19.827931,105.69233
+vn-toll-gmaps-chijw-epzqd3njeribu-dwg-pdu,toll_station,review_google_name,Trạm thu phí Đông Xuân,tram thu phi dong xuan,0.85,Trạm thu phí Đông Xuân,19.827931,105.69233
+vn-toll-gmaps-chijw-epzqd3njeribu-dwg-pdu,toll_station,google_name,Trạm thu phí Đông Xuân,tram thu phi dong xuan,0.8,Trạm thu phí Đông Xuân,19.827931,105.69233
+vn-toll-gmaps-chijosjouw5nnderljgn046zgi4,toll_station,current_name,Trạm thu phí đường Hòa Lạc - Hòa Bình,tram thu phi duong hoa lac hoa binh,0.90,Trạm thu phí đường Hòa Lạc - Hòa Bình,20.965148,105.397958
+vn-toll-gmaps-chijosjouw5nnderljgn046zgi4,toll_station,osm_name,Đường cao tốc Hòa Lạc – Hòa Bình,duong cao toc hoa lac hoa binh,0.65,Trạm thu phí đường Hòa Lạc - Hòa Bình,20.965148,105.397958
+vn-toll-gmaps-chijosjouw5nnderljgn046zgi4,toll_station,google_name,Trạm thu phí đường Hòa Lạc - Hòa Bình,tram thu phi duong hoa lac hoa binh,0.8,Trạm thu phí đường Hòa Lạc - Hòa Bình,20.965148,105.397958
+vn-toll-clean-091,toll_station,current_name,Trạm thu phí Đầm Hà,tram thu phi dam ha,0.90,Trạm thu phí Đầm Hà,21.3492254,107.5528941
+vn-toll-clean-091,toll_station,colleague_name,Trạm Thu Phí Đầm Hà,tram thu phi dam ha,0.75,Trạm thu phí Đầm Hà,21.3492254,107.5528941
+vn-toll-clean-091,toll_station,colleague_google_name,Trạm Thu Phí Đầm Hà,tram thu phi dam ha,0.85,Trạm thu phí Đầm Hà,21.3492254,107.5528941
+vn-toll-clean-091,toll_station,google_name,Trạm thu phí Đầm Hà,tram thu phi dam ha,0.80,Trạm thu phí Đầm Hà,21.3492254,107.5528941
+vn-toll-gmaps-chijg3byqa61czersgevsyvu4he,toll_station,current_name,Trạm thu phí Đắk Song,tram thu phi dak song,0.90,Trạm thu phí Đắk Song,12.188389,107.637639
+vn-toll-gmaps-chijg3byqa61czersgevsyvu4he,toll_station,osm_name,Trạm Thu Phí Đắk Song,tram thu phi dak song,0.65,Trạm thu phí Đắk Song,12.188389,107.637639
+vn-toll-gmaps-chijg3byqa61czersgevsyvu4he,toll_station,road,QL14,quoc lo 14,0.35,Trạm thu phí Đắk Song,12.188389,107.637639
+vn-toll-gmaps-chijg3byqa61czersgevsyvu4he,toll_station,colleague_name,TRẠM THU PHÍ ĐẮC NÔNG,tram thu phi dac nong,0.75,Trạm thu phí Đắk Song,12.188389,107.637639
+vn-toll-gmaps-chijg3byqa61czersgevsyvu4he,toll_station,colleague_google_name,Trạm Thu phí Đắk Song,tram thu phi dak song,0.85,Trạm thu phí Đắk Song,12.188389,107.637639
+vn-toll-gmaps-chijg3byqa61czersgevsyvu4he,toll_station,google_name,Trạm thu phí Đắk Song,tram thu phi dak song,0.9,Trạm thu phí Đắk Song,12.188389,107.637639
+vn-toll-gmaps-chij-wvfyuvcter5tonghianj4,toll_station,current_name,Trạm thu phí Định An,tram thu phi dinh an,0.90,Trạm thu phí Định An,11.859578,108.457887
+vn-toll-gmaps-chij-wvfyuvcter5tonghianj4,toll_station,osm_name,Đường cao tốc Liên Khương - Prenn,duong cao toc lien khuong prenn,0.65,Trạm thu phí Định An,11.859578,108.457887
+vn-toll-gmaps-chij-wvfyuvcter5tonghianj4,toll_station,road,CT27,ct27,0.35,Trạm thu phí Định An,11.859578,108.457887
+vn-toll-gmaps-chij-wvfyuvcter5tonghianj4,toll_station,google_name,Trạm thu phí Định An,tram thu phi dinh an,0.9,Trạm thu phí Định An,11.859578,108.457887
+vn-toll-gmaps-chijockr2iv5sjerf0tgjwtc6zq,toll_station,current_name,Trạm thu phí Đồng Lá,tram thu phi dong la,0.90,Trạm thu phí Đồng Lá,21.048429,107.164898
+vn-toll-gmaps-chijockr2iv5sjerf0tgjwtc6zq,toll_station,osm_name,Trạm Thu Phí Đồng Lá,tram thu phi dong la,0.65,Trạm thu phí Đồng Lá,21.048429,107.164898
+vn-toll-gmaps-chijockr2iv5sjerf0tgjwtc6zq,toll_station,google_name,Trạm thu phí Đồng Lá,tram thu phi dong la,0.8,Trạm thu phí Đồng Lá,21.048429,107.164898
+vn-toll-gmaps-chijeeiioh71sjerasyk4vltfby,toll_station,current_name,Trạm thu phí Đồng Đăng,tram thu phi dong dang,0.90,Trạm thu phí Đồng Đăng,20.992671,106.987163
+vn-toll-gmaps-chijeeiioh71sjerasyk4vltfby,toll_station,osm_name,Trạm Thu phí Đồng Đăng,tram thu phi dong dang,0.65,Trạm thu phí Đồng Đăng,20.992671,106.987163
+vn-toll-gmaps-chijeeiioh71sjerasyk4vltfby,toll_station,google_name,Trạm thu phí Đồng Đăng,tram thu phi dong dang,0.8,Trạm thu phí Đồng Đăng,20.992671,106.987163
+vn-toll-gmaps-chijashlt8jrcjerhd6eaivj-z4,toll_station,current_name,Trạm thu phí Đức Hoà,tram thu phi duc hoa,0.90,Trạm thu phí Đức Hoà,10.77753,106.439493
+vn-toll-gmaps-chijashlt8jrcjerhd6eaivj-z4,toll_station,osm_name,Trạm Thu Phí Đức Hòa,tram thu phi duc hoa,0.65,Trạm thu phí Đức Hoà,10.77753,106.439493
+vn-toll-gmaps-chijashlt8jrcjerhd6eaivj-z4,toll_station,road,ĐT830,dt830,0.35,Trạm thu phí Đức Hoà,10.77753,106.439493
+vn-toll-gmaps-chijashlt8jrcjerhd6eaivj-z4,toll_station,google_name,Trạm thu phí Đức Hoà,tram thu phi duc hoa,0.7,Trạm thu phí Đức Hoà,10.77753,106.439493
+vn-toll-results-a8c1640ca55f27,toll_station,current_name,Cầu treo thu phí,cau treo thu phi,0.90,Cầu treo thu phí,21.378121,105.913552
+vn-toll-results-a8c1640ca55f27,toll_station,google_name,Cầu treo thu phí,cau treo thu phi,0.80,Cầu treo thu phí,21.378121,105.913552
+vn-toll-results-8912940a55179a,toll_station,current_name,Trạm Thu phí Bến Lức,tram thu phi ben luc,0.90,Trạm Thu phí Bến Lức,10.666701,106.457972
+vn-toll-results-8912940a55179a,toll_station,google_name,Trạm Thu phí Bến Lức,tram thu phi ben luc,0.80,Trạm Thu phí Bến Lức,10.666701,106.457972
+vn-toll-results-af81bbbd5539fa,toll_station,current_name,Trạm thu phí BOT Đường ven biển Thái Bình,tram thu phi bot duong ven bien thai binh,0.90,Trạm thu phí BOT Đường ven biển Thái Bình,20.301291,106.562304
+vn-toll-results-af81bbbd5539fa,toll_station,google_name,Trạm thu phí BOT Đường ven biển Thái Bình,tram thu phi bot duong ven bien thai binh,0.80,Trạm thu phí BOT Đường ven biển Thái Bình,20.301291,106.562304
+vn-toll-results-739d8616d1be53,toll_station,current_name,Trạm thu phí Bình Chánh,tram thu phi binh chanh,0.90,Trạm thu phí Bình Chánh,10.66154,106.560297
+vn-toll-results-739d8616d1be53,toll_station,google_name,Trạm thu phí Bình Chánh,tram thu phi binh chanh,0.80,Trạm thu phí Bình Chánh,10.66154,106.560297
+vn-toll-results-4f58e6be10a8dc,toll_station,current_name,Trạm thu phí Bình Hiệp,tram thu phi binh hiep,0.90,Trạm thu phí Bình Hiệp,13.951063,109.007743
+vn-toll-results-4f58e6be10a8dc,toll_station,google_name,Trạm thu phí Bình Hiệp,tram thu phi binh hiep,0.80,Trạm thu phí Bình Hiệp,13.951063,109.007743
+vn-toll-results-7e5e7fa4176995,toll_station,current_name,Trạm thu phí Chư Sê,tram thu phi chu se,0.90,Trạm thu phí Chư Sê,13.874158,108.008176
+vn-toll-results-7e5e7fa4176995,toll_station,google_name,Trạm thu phí Chư Sê,tram thu phi chu se,0.80,Trạm thu phí Chư Sê,13.874158,108.008176
+vn-toll-results-38e15c8298ba28,toll_station,current_name,Trạm thu phí Chợ Bình Điền,tram thu phi cho binh dien,0.90,Trạm thu phí Chợ Bình Điền,10.699714,106.608864
+vn-toll-results-38e15c8298ba28,toll_station,google_name,Trạm thu phí Chợ Bình Điền,tram thu phi cho binh dien,0.80,Trạm thu phí Chợ Bình Điền,10.699714,106.608864
+vn-toll-results-51072ce4cf0518,toll_station,current_name,Trạm thu phí Cầu Gianh - Quảng Bình,tram thu phi cau gianh quang binh,0.90,Trạm thu phí Cầu Gianh - Quảng Bình,17.747179,106.440918
+vn-toll-results-51072ce4cf0518,toll_station,google_name,Trạm thu phí Cầu Gianh - Quảng Bình,tram thu phi cau gianh quang binh,0.68,Trạm thu phí Cầu Gianh - Quảng Bình,17.747179,106.440918
+vn-toll-results-3dba1c41016286,toll_station,current_name,Trạm thu phí Cầu Ông Bố,tram thu phi cau ong bo,0.90,Trạm thu phí Cầu Ông Bố,10.900781,106.714263
+vn-toll-results-3dba1c41016286,toll_station,google_name,Trạm thu phí Cầu Ông Bố,tram thu phi cau ong bo,0.80,Trạm thu phí Cầu Ông Bố,10.900781,106.714263
+vn-toll-results-48f39937c30d08,toll_station,current_name,Trạm thu phí Hà Trung,tram thu phi ha trung,0.90,Trạm thu phí Hà Trung,20.083758,105.809491
+vn-toll-results-48f39937c30d08,toll_station,google_name,Trạm thu phí Hà Trung,tram thu phi ha trung,0.80,Trạm thu phí Hà Trung,20.083758,105.809491
+vn-toll-results-dc1ebf3ae65637,toll_station,current_name,Trạm thu phí Nút Giao Ba Bàu,tram thu phi nut giao ba bau,0.90,Trạm thu phí Nút Giao Ba Bàu,10.932586,107.967996
+vn-toll-results-dc1ebf3ae65637,toll_station,google_name,Trạm thu phí Nút Giao Ba Bàu,tram thu phi nut giao ba bau,0.80,Trạm thu phí Nút Giao Ba Bàu,10.932586,107.967996
+vn-toll-results-b452ce137aea4d,toll_station,current_name,Trạm thu phí Nút Giao Ba Bàu,tram thu phi nut giao ba bau,0.90,Trạm thu phí Nút Giao Ba Bàu,10.934372,107.977045
+vn-toll-results-b452ce137aea4d,toll_station,google_name,Trạm thu phí Nút Giao Ba Bàu,tram thu phi nut giao ba bau,0.80,Trạm thu phí Nút Giao Ba Bàu,10.934372,107.977045
+vn-toll-results-41ca601e6c5f09,toll_station,current_name,Trạm thu phí Nút Giao TL765 Km 69+400,tram thu phi nut giao tl765 km 69 400,0.90,Trạm thu phí Nút Giao TL765 Km 69+400,10.88509,107.365801
+vn-toll-results-41ca601e6c5f09,toll_station,google_name,Trạm thu phí Nút Giao TL765 Km 69+400,tram thu phi nut giao tl765 km 69 400,0.80,Trạm thu phí Nút Giao TL765 Km 69+400,10.88509,107.365801
+vn-toll-results-69e1f994f650f1,toll_station,current_name,Trạm thu phí Phú Hài,tram thu phi phu hai,0.90,Trạm thu phí Phú Hài,10.94037,108.141791
+vn-toll-results-69e1f994f650f1,toll_station,google_name,Trạm thu phí Phú Hài,tram thu phi phu hai,0.80,Trạm thu phí Phú Hài,10.94037,108.141791
+vn-toll-results-05580e7545bfc7,toll_station,current_name,Trạm thu phí Quốc lộ 2,tram thu phi quoc lo 2,0.90,Trạm thu phí Quốc lộ 2,21.230577,105.693648
+vn-toll-results-05580e7545bfc7,toll_station,google_name,Trạm thu phí Quốc lộ 2,tram thu phi quoc lo 2,0.68,Trạm thu phí Quốc lộ 2,21.230577,105.693648
+vn-toll-results-7d00ba5a038ceb,toll_station,current_name,Trạm thu phí Thị Trấn Vôi,tram thu phi thi tran voi,0.90,Trạm thu phí Thị Trấn Vôi,21.339235,106.270349
+vn-toll-results-7d00ba5a038ceb,toll_station,google_name,Trạm thu phí Thị Trấn Vôi,tram thu phi thi tran voi,0.80,Trạm thu phí Thị Trấn Vôi,21.339235,106.270349
+vn-toll-results-7c93585939dabb,toll_station,current_name,Trạm Thu Vé Thắng Cảnh Chùa Hương,tram thu ve thang canh chua huong,0.90,Trạm Thu Vé Thắng Cảnh Chùa Hương,20.620462,105.749682
+vn-toll-results-7c93585939dabb,toll_station,google_name,Trạm Thu Vé Thắng Cảnh Chùa Hương,tram thu ve thang canh chua huong,0.80,Trạm Thu Vé Thắng Cảnh Chùa Hương,20.620462,105.749682
+vn-toll-results-c6169ba64724d7,toll_station,current_name,Trạm thu phí BOT Cầu Chà Là,tram thu phi bot cau cha la,0.90,Trạm thu phí BOT Cầu Chà Là,8.954324,105.101025
+vn-toll-results-c6169ba64724d7,toll_station,google_name,Trạm thu phí BOT Cầu Chà Là,tram thu phi bot cau cha la,0.80,Trạm thu phí BOT Cầu Chà Là,8.954324,105.101025
+vn-toll-results-369644b8378979,toll_station,current_name,Trạm thu phí BOT Cầu Hoà Trung,tram thu phi bot cau hoa trung,0.90,Trạm thu phí BOT Cầu Hoà Trung,9.094715,105.153419
+vn-toll-results-369644b8378979,toll_station,google_name,Trạm thu phí BOT Cầu Hoà Trung,tram thu phi bot cau hoa trung,0.80,Trạm thu phí BOT Cầu Hoà Trung,9.094715,105.153419
+vn-toll-results-2548de6c7d62ae,toll_station,current_name,Trạm thu phí Bình Thung,tram thu phi binh thung,0.90,Trạm thu phí Bình Thung,10.907639,106.790988
+vn-toll-results-2548de6c7d62ae,toll_station,google_name,Trạm thu phí Bình Thung,tram thu phi binh thung,0.80,Trạm thu phí Bình Thung,10.907639,106.790988
+vn-toll-results-740a234f764bbb,toll_station,current_name,Trạm thu phí Cai Lậy,tram thu phi cai lay,0.90,Trạm thu phí Cai Lậy,10.412132,106.164817
+vn-toll-results-740a234f764bbb,toll_station,google_name,Trạm thu phí Cai Lậy,tram thu phi cai lay,0.80,Trạm thu phí Cai Lậy,10.412132,106.164817
+vn-toll-results-1c3e261351c189,toll_station,current_name,Trạm thu phí Cam Thịnh Đông,tram thu phi cam thinh dong,0.90,Trạm thu phí Cam Thịnh Đông,11.880694,109.09664
+vn-toll-results-1c3e261351c189,toll_station,google_name,Trạm thu phí Cam Thịnh Đông,tram thu phi cam thinh dong,0.80,Trạm thu phí Cam Thịnh Đông,11.880694,109.09664
+vn-toll-results-99e95a3669a3f8,toll_station,current_name,Trạm thu phí Cao Bồ,tram thu phi cao bo,0.90,Trạm thu phí Cao Bồ,20.288189,106.012548
+vn-toll-results-99e95a3669a3f8,toll_station,google_name,Trạm thu phí Cao Bồ,tram thu phi cao bo,0.80,Trạm thu phí Cao Bồ,20.288189,106.012548
+vn-toll-results-2494ccf7f28041,toll_station,current_name,Trạm thu phí Chơn Thành,tram thu phi chon thanh,0.90,Trạm thu phí Chơn Thành,11.363849,106.62765
+vn-toll-results-2494ccf7f28041,toll_station,google_name,Trạm thu phí Chơn Thành,tram thu phi chon thanh,0.80,Trạm thu phí Chơn Thành,11.363849,106.62765
+vn-toll-results-d29ed70a638d07,toll_station,current_name,Trạm thu phí Chợ Đệm,tram thu phi cho dem,0.90,Trạm thu phí Chợ Đệm,10.68161,106.557509
+vn-toll-results-d29ed70a638d07,toll_station,google_name,Trạm thu phí Chợ Đệm,tram thu phi cho dem,0.80,Trạm thu phí Chợ Đệm,10.68161,106.557509
+vn-toll-results-8ff6c50876e0b4,toll_station,current_name,Trạm thu phí Cầu 110,tram thu phi cau 110,0.90,Trạm thu phí Cầu 110,13.413567,108.092846
+vn-toll-results-8ff6c50876e0b4,toll_station,google_name,Trạm thu phí Cầu 110,tram thu phi cau 110,0.80,Trạm thu phí Cầu 110,13.413567,108.092846
+vn-toll-results-2d89abdd48d147,toll_station,current_name,Trạm thu phí Cầu Cái Vừng,tram thu phi cau cai vung,0.90,Trạm thu phí Cầu Cái Vừng,10.743632,105.298343
+vn-toll-results-2d89abdd48d147,toll_station,google_name,Trạm thu phí Cầu Cái Vừng,tram thu phi cau cai vung,0.80,Trạm thu phí Cầu Cái Vừng,10.743632,105.298343
+vn-toll-results-01b795c3aac577,toll_station,current_name,Trạm thu phí Cầu Mỹ Lợi,tram thu phi cau my loi,0.90,Trạm thu phí Cầu Mỹ Lợi,10.462812,106.644148
+vn-toll-results-01b795c3aac577,toll_station,google_name,Trạm thu phí Cầu Mỹ Lợi,tram thu phi cau my loi,0.80,Trạm thu phí Cầu Mỹ Lợi,10.462812,106.644148
+vn-toll-results-ca56e8b14241e6,toll_station,current_name,Trạm thu phí Cầu Phú Cường,tram thu phi cau phu cuong,0.90,Trạm thu phí Cầu Phú Cường,10.983539,106.643176
+vn-toll-results-ca56e8b14241e6,toll_station,google_name,Trạm thu phí Cầu Phú Cường,tram thu phi cau phu cuong,0.80,Trạm thu phí Cầu Phú Cường,10.983539,106.643176
+vn-toll-results-6e730c62d2763e,toll_station,current_name,Trạm thu phí Cầu Qua Sông Cái Tàu,tram thu phi cau qua song cai tau,0.90,Trạm thu phí Cầu Qua Sông Cái Tàu,9.314628,105.017323
+vn-toll-results-6e730c62d2763e,toll_station,google_name,Trạm thu phí Cầu Qua Sông Cái Tàu,tram thu phi cau qua song cai tau,0.80,Trạm thu phí Cầu Qua Sông Cái Tàu,9.314628,105.017323
+vn-toll-results-28d3bc49a698e9,toll_station,current_name,Trạm thu phí Cầu Trần Văn Thời,tram thu phi cau tran van thoi,0.90,Trạm thu phí Cầu Trần Văn Thời,9.069026,104.967868
+vn-toll-results-28d3bc49a698e9,toll_station,google_name,Trạm thu phí Cầu Trần Văn Thời,tram thu phi cau tran van thoi,0.80,Trạm thu phí Cầu Trần Văn Thời,9.069026,104.967868
+vn-toll-results-adcaa96d531180,toll_station,current_name,Trạm thu phí Cầu qua Sông Cái Tàu,tram thu phi cau qua song cai tau,0.90,Trạm thu phí Cầu qua Sông Cái Tàu,9.438099,104.930935
+vn-toll-results-adcaa96d531180,toll_station,google_name,Trạm thu phí Cầu qua Sông Cái Tàu,tram thu phi cau qua song cai tau,0.80,Trạm thu phí Cầu qua Sông Cái Tàu,9.438099,104.930935
+vn-toll-results-c53dfe0022532c,toll_station,current_name,Trạm thu phí Cầu treo Tân Bằng,tram thu phi cau treo tan bang,0.90,Trạm thu phí Cầu treo Tân Bằng,9.460895,105.044275
+vn-toll-results-c53dfe0022532c,toll_station,google_name,Trạm thu phí Cầu treo Tân Bằng,tram thu phi cau treo tan bang,0.80,Trạm thu phí Cầu treo Tân Bằng,9.460895,105.044275
+vn-toll-results-56e61462afce7f,toll_station,current_name,Trạm thu phí Cầu Đình Bình Thủy,tram thu phi cau dinh binh thuy,0.90,Trạm thu phí Cầu Đình Bình Thủy,10.516136,105.321055
+vn-toll-results-56e61462afce7f,toll_station,google_name,Trạm thu phí Cầu Đình Bình Thủy,tram thu phi cau dinh binh thuy,0.80,Trạm thu phí Cầu Đình Bình Thủy,10.516136,105.321055
+vn-toll-results-4af1a34590c361,toll_station,current_name,Trạm thu phí Cẩm Vân,tram thu phi cam van,0.90,Trạm thu phí Cẩm Vân,20.107342,105.54336
+vn-toll-results-4af1a34590c361,toll_station,google_name,Trạm thu phí Cẩm Vân,tram thu phi cam van,0.80,Trạm thu phí Cẩm Vân,20.107342,105.54336
+vn-toll-results-8a1e5b19f33024,toll_station,current_name,Trạm thu phí Du Long,tram thu phi du long,0.90,Trạm thu phí Du Long,11.746694,109.056815
+vn-toll-results-8a1e5b19f33024,toll_station,google_name,Trạm thu phí Du Long,tram thu phi du long,0.80,Trạm thu phí Du Long,11.746694,109.056815
+vn-toll-results-022c2d4e049418,toll_station,current_name,Trạm thu phí Gia Lộc,tram thu phi gia loc,0.90,Trạm thu phí Gia Lộc,20.856773,106.294329
+vn-toll-results-022c2d4e049418,toll_station,google_name,Trạm thu phí Gia Lộc,tram thu phi gia loc,0.80,Trạm thu phí Gia Lộc,20.856773,106.294329
+vn-toll-results-de8a43dad059a1,toll_station,current_name,Trạm thu phí Hà Lam,tram thu phi ha lam,0.90,Trạm thu phí Hà Lam,15.710278,108.3354
+vn-toll-results-de8a43dad059a1,toll_station,google_name,Trạm thu phí Hà Lam,tram thu phi ha lam,0.80,Trạm thu phí Hà Lam,15.710278,108.3354
+vn-toll-results-a7826df3ecbebc,toll_station,current_name,Trạm thu phí IC Cẩm Y,tram thu phi ic cam y,0.90,Trạm thu phí IC Cẩm Y,21.097299,107.353365
+vn-toll-results-a7826df3ecbebc,toll_station,google_name,Trạm thu phí IC Cẩm Y,tram thu phi ic cam y,0.80,Trạm thu phí IC Cẩm Y,21.097299,107.353365
+vn-toll-results-0c9c1042e1b704,toll_station,current_name,Trạm thu phí IC13,tram thu phi ic13,0.90,Trạm thu phí IC13,21.698947,104.841234
+vn-toll-results-0c9c1042e1b704,toll_station,google_name,Trạm thu phí IC13,tram thu phi ic13,0.80,Trạm thu phí IC13,21.698947,104.841234
+vn-toll-results-3f24069383f14c,toll_station,current_name,Trạm thu phí Km 133+770,tram thu phi km 133 770,0.90,Trạm thu phí Km 133+770,11.313348,108.724658
+vn-toll-results-3f24069383f14c,toll_station,google_name,Trạm thu phí Km 133+770,tram thu phi km 133 770,0.80,Trạm thu phí Km 133+770,11.313348,108.724658
+vn-toll-results-a521fbe8e35eee,toll_station,current_name,Trạm thu phí Km 430+500,tram thu phi km 430 500,0.90,Trạm thu phí Km 430+500,18.956451,105.561797
+vn-toll-results-a521fbe8e35eee,toll_station,google_name,Trạm thu phí Km 430+500,tram thu phi km 430 500,0.80,Trạm thu phí Km 430+500,18.956451,105.561797
+vn-toll-results-9dc19a42074b4a,toll_station,current_name,Trạm thu phí Km 49+550 Quốc lộ 19,tram thu phi km 49 550 quoc lo 19,0.90,Trạm thu phí Km 49+550 Quốc lộ 19,13.944457,108.857778
+vn-toll-results-9dc19a42074b4a,toll_station,google_name,Trạm thu phí Km 49+550 Quốc lộ 19,tram thu phi km 49 550 quoc lo 19,0.80,Trạm thu phí Km 49+550 Quốc lộ 19,13.944457,108.857778
+vn-toll-results-9fdb7bd62b601c,toll_station,current_name,Trạm thu phí Km 98+320,tram thu phi km 98 320,0.90,Trạm thu phí Km 98+320,10.335235,105.896793
+vn-toll-results-9fdb7bd62b601c,toll_station,google_name,Trạm thu phí Km 98+320,tram thu phi km 98 320,0.80,Trạm thu phí Km 98+320,10.335235,105.896793
+vn-toll-results-f5b1c9ee7be221,toll_station,current_name,Trạm thu phí Mỹ Yên,tram thu phi my yen,0.90,Trạm thu phí Mỹ Yên,10.669806,106.549196
+vn-toll-results-f5b1c9ee7be221,toll_station,google_name,Trạm thu phí Mỹ Yên,tram thu phi my yen,0.80,Trạm thu phí Mỹ Yên,10.669806,106.549196
+vn-toll-results-266c1e08c589a2,toll_station,current_name,Trạm thu phí Nghi Phương,tram thu phi nghi phuong,0.90,Trạm thu phí Nghi Phương,18.823337,105.586381
+vn-toll-results-266c1e08c589a2,toll_station,google_name,Trạm thu phí Nghi Phương,tram thu phi nghi phuong,0.80,Trạm thu phí Nghi Phương,18.823337,105.586381
+vn-toll-results-fad32966cfa215,toll_station,current_name,Trạm thu phí Nguyễn Văn Linh,tram thu phi nguyen van linh,0.90,Trạm thu phí Nguyễn Văn Linh,10.695588,106.615414
+vn-toll-results-fad32966cfa215,toll_station,google_name,Trạm thu phí Nguyễn Văn Linh,tram thu phi nguyen van linh,0.80,Trạm thu phí Nguyễn Văn Linh,10.695588,106.615414
+vn-toll-results-bb9426cc4e67e1,toll_station,current_name,Trạm thu phí Nguyễn Văn Linh,tram thu phi nguyen van linh,0.90,Trạm thu phí Nguyễn Văn Linh,10.729191,106.695497
+vn-toll-results-bb9426cc4e67e1,toll_station,google_name,Trạm thu phí Nguyễn Văn Linh,tram thu phi nguyen van linh,0.80,Trạm thu phí Nguyễn Văn Linh,10.729191,106.695497
+vn-toll-results-17fee3612cf4d5,toll_station,current_name,Trạm thu phí Ngã tư Gò Mây,tram thu phi nga tu go may,0.90,Trạm thu phí Ngã tư Gò Mây,10.816613,106.601444
+vn-toll-results-17fee3612cf4d5,toll_station,google_name,Trạm thu phí Ngã tư Gò Mây,tram thu phi nga tu go may,0.80,Trạm thu phí Ngã tư Gò Mây,10.816613,106.601444
+vn-toll-results-de8a81843b9749,toll_station,current_name,Trạm thu phí Ninh Xuân,tram thu phi ninh xuan,0.90,Trạm thu phí Ninh Xuân,12.507261,109.068792
+vn-toll-results-de8a81843b9749,toll_station,google_name,Trạm thu phí Ninh Xuân,tram thu phi ninh xuan,0.80,Trạm thu phí Ninh Xuân,12.507261,109.068792
+vn-toll-results-a300be367f4317,toll_station,current_name,Trạm thu phí Phan Rang,tram thu phi phan rang,0.90,Trạm thu phí Phan Rang,11.630338,108.895937
+vn-toll-results-a300be367f4317,toll_station,google_name,Trạm thu phí Phan Rang,tram thu phi phan rang,0.80,Trạm thu phí Phan Rang,11.630338,108.895937
+vn-toll-results-d2c3a2fa53e365,toll_station,current_name,Trạm thu phí Phố Lu (IC17),tram thu phi pho lu ic17,0.90,Trạm thu phí Phố Lu (IC17),22.315763,104.178686
+vn-toll-results-d2c3a2fa53e365,toll_station,google_name,Trạm thu phí Phố Lu (IC17),tram thu phi pho lu ic17,0.68,Trạm thu phí Phố Lu (IC17),22.315763,104.178686
+vn-toll-results-87b32e88b6f14c,toll_station,current_name,Trạm thu phí Quốc lộ 51,tram thu phi quoc lo 51,0.90,Trạm thu phí Quốc lộ 51,10.765087,106.961871
+vn-toll-results-87b32e88b6f14c,toll_station,google_name,Trạm thu phí Quốc lộ 51,tram thu phi quoc lo 51,0.80,Trạm thu phí Quốc lộ 51,10.765087,106.961871
+vn-toll-results-1c40652edb303e,toll_station,current_name,Trạm thu phí Quốc lộ 8A,tram thu phi quoc lo 8a,0.90,Trạm thu phí Quốc lộ 8A,18.534196,105.657742
+vn-toll-results-1c40652edb303e,toll_station,google_name,Trạm thu phí Quốc lộ 8A,tram thu phi quoc lo 8a,0.80,Trạm thu phí Quốc lộ 8A,18.534196,105.657742
+vn-toll-results-852b9a6b761f54,toll_station,current_name,Trạm thu phí Sai Nga (IC10),tram thu phi sai nga ic10,0.90,Trạm thu phí Sai Nga (IC10),21.438924,105.123438
+vn-toll-results-852b9a6b761f54,toll_station,google_name,Trạm thu phí Sai Nga (IC10),tram thu phi sai nga ic10,0.80,Trạm thu phí Sai Nga (IC10),21.438924,105.123438
+vn-toll-results-cb934a0bf0ccfe,toll_station,current_name,Trạm thu phí Sân bay Buôn Ma Thuột,tram thu phi san bay buon ma thuot,0.90,Trạm thu phí Sân bay Buôn Ma Thuột,12.664256,108.114946
+vn-toll-results-cb934a0bf0ccfe,toll_station,google_name,Trạm thu phí Sân bay Buôn Ma Thuột,tram thu phi san bay buon ma thuot,0.80,Trạm thu phí Sân bay Buôn Ma Thuột,12.664256,108.114946
+vn-toll-results-b3e81bf484735a,toll_station,current_name,Trạm thu phí Sân bay Chu Lai,tram thu phi san bay chu lai,0.90,Trạm thu phí Sân bay Chu Lai,15.415423,108.703482
+vn-toll-results-b3e81bf484735a,toll_station,google_name,Trạm thu phí Sân bay Chu Lai,tram thu phi san bay chu lai,0.80,Trạm thu phí Sân bay Chu Lai,15.415423,108.703482
+vn-toll-results-8da48e912d0c21,toll_station,current_name,Trạm thu phí Sân bay Cà Mau,tram thu phi san bay ca mau,0.90,Trạm thu phí Sân bay Cà Mau,9.175154,105.175839
+vn-toll-results-8da48e912d0c21,toll_station,google_name,Trạm thu phí Sân bay Cà Mau,tram thu phi san bay ca mau,0.80,Trạm thu phí Sân bay Cà Mau,9.175154,105.175839
+vn-toll-results-812f332fb6a582,toll_station,current_name,Trạm thu phí Sân bay Côn Đảo,tram thu phi san bay con dao,0.90,Trạm thu phí Sân bay Côn Đảo,8.730259,106.628381
+vn-toll-results-812f332fb6a582,toll_station,google_name,Trạm thu phí Sân bay Côn Đảo,tram thu phi san bay con dao,0.80,Trạm thu phí Sân bay Côn Đảo,8.730259,106.628381
+vn-toll-results-e5947651734d79,toll_station,current_name,Trạm thu phí Sân bay Liên Khương,tram thu phi san bay lien khuong,0.90,Trạm thu phí Sân bay Liên Khương,11.746721,108.370191
+vn-toll-results-e5947651734d79,toll_station,google_name,Trạm thu phí Sân bay Liên Khương,tram thu phi san bay lien khuong,0.80,Trạm thu phí Sân bay Liên Khương,11.746721,108.370191
+vn-toll-results-5322ec51832366,toll_station,current_name,Trạm thu phí Sân bay Phù Cát,tram thu phi san bay phu cat,0.90,Trạm thu phí Sân bay Phù Cát,13.953545,109.050349
+vn-toll-results-5322ec51832366,toll_station,google_name,Trạm thu phí Sân bay Phù Cát,tram thu phi san bay phu cat,0.80,Trạm thu phí Sân bay Phù Cát,13.953545,109.050349
+vn-toll-results-9d556e8755f432,toll_station,current_name,Trạm thu phí Sân bay Phú Bài,tram thu phi san bay phu bai,0.90,Trạm thu phí Sân bay Phú Bài,16.394408,107.698361
+vn-toll-results-9d556e8755f432,toll_station,google_name,Trạm thu phí Sân bay Phú Bài,tram thu phi san bay phu bai,0.80,Trạm thu phí Sân bay Phú Bài,16.394408,107.698361
+vn-toll-results-89f2f678011e91,toll_station,current_name,Trạm thu phí Sân bay Phú Quốc,tram thu phi san bay phu quoc,0.90,Trạm thu phí Sân bay Phú Quốc,10.159664,103.99769
+vn-toll-results-89f2f678011e91,toll_station,google_name,Trạm thu phí Sân bay Phú Quốc,tram thu phi san bay phu quoc,0.80,Trạm thu phí Sân bay Phú Quốc,10.159664,103.99769
+vn-toll-results-f5cbe3fb32560c,toll_station,current_name,Trạm thu phí Sân bay Rạch Giá,tram thu phi san bay rach gia,0.90,Trạm thu phí Sân bay Rạch Giá,9.960942,105.133597
+vn-toll-results-f5cbe3fb32560c,toll_station,google_name,Trạm thu phí Sân bay Rạch Giá,tram thu phi san bay rach gia,0.80,Trạm thu phí Sân bay Rạch Giá,9.960942,105.133597
+vn-toll-results-227af1af3afdf1,toll_station,current_name,Trạm thu phí Sân bay Thọ Xuân,tram thu phi san bay tho xuan,0.90,Trạm thu phí Sân bay Thọ Xuân,19.892215,105.473591
+vn-toll-results-227af1af3afdf1,toll_station,google_name,Trạm thu phí Sân bay Thọ Xuân,tram thu phi san bay tho xuan,0.80,Trạm thu phí Sân bay Thọ Xuân,19.892215,105.473591
+vn-toll-results-87932c98aea4d2,toll_station,current_name,Trạm thu phí Sân bay Tuy Hoà,tram thu phi san bay tuy hoa,0.90,Trạm thu phí Sân bay Tuy Hoà,13.05066,109.346302
+vn-toll-results-87932c98aea4d2,toll_station,google_name,Trạm thu phí Sân bay Tuy Hoà,tram thu phi san bay tuy hoa,0.80,Trạm thu phí Sân bay Tuy Hoà,13.05066,109.346302
+vn-toll-results-939faa49c400d0,toll_station,current_name,Trạm thu phí Sân bay Đà Nẵng,tram thu phi san bay da nang,0.90,Trạm thu phí Sân bay Đà Nẵng,16.050873,108.206409
+vn-toll-results-939faa49c400d0,toll_station,google_name,Trạm thu phí Sân bay Đà Nẵng,tram thu phi san bay da nang,0.80,Trạm thu phí Sân bay Đà Nẵng,16.050873,108.206409
+vn-toll-results-84e23a122c88c0,toll_station,current_name,Trạm thu phí Sân bay Đà Nẵng,tram thu phi san bay da nang,0.90,Trạm thu phí Sân bay Đà Nẵng,16.058042,108.20406
+vn-toll-results-84e23a122c88c0,toll_station,google_name,Trạm thu phí Sân bay Đà Nẵng,tram thu phi san bay da nang,0.80,Trạm thu phí Sân bay Đà Nẵng,16.058042,108.20406
+vn-toll-results-d1f02767544d7f,toll_station,current_name,Trạm thu phí Số 1 - ĐT768,tram thu phi so 1 dt768,0.90,Trạm thu phí Số 1 - ĐT768,10.972717,106.800761
+vn-toll-results-d1f02767544d7f,toll_station,google_name,Trạm thu phí Số 1 - ĐT768,tram thu phi so 1 dt768,0.80,Trạm thu phí Số 1 - ĐT768,10.972717,106.800761
+vn-toll-results-7d8a668438a5d0,toll_station,current_name,Trạm thu phí Số 2 - ĐT747A Km 1+670,tram thu phi so 2 dt747a km 1 670,0.90,Trạm thu phí Số 2 - ĐT747A Km 1+670,10.974075,106.771396
+vn-toll-results-7d8a668438a5d0,toll_station,google_name,Trạm thu phí Số 2 - ĐT747A Km 1+670,tram thu phi so 2 dt747a km 1 670,0.80,Trạm thu phí Số 2 - ĐT747A Km 1+670,10.974075,106.771396
+vn-toll-results-1c57136a69c8e5,toll_station,current_name,Trạm thu phí Số 2A - ĐT768,tram thu phi so 2a dt768,0.90,Trạm thu phí Số 2A - ĐT768,10.980267,106.847811
+vn-toll-results-1c57136a69c8e5,toll_station,google_name,Trạm thu phí Số 2A - ĐT768,tram thu phi so 2a dt768,0.80,Trạm thu phí Số 2A - ĐT768,10.980267,106.847811
+vn-toll-results-6e4533b3acd003,toll_station,current_name,Trạm thu phí Số 3 - ĐT 747A Km 9+120,tram thu phi so 3 dt 747a km 9 120,0.90,Trạm thu phí Số 3 - ĐT 747A Km 9+120,11.028277,106.777486
+vn-toll-results-6e4533b3acd003,toll_station,google_name,Trạm thu phí Số 3 - ĐT 747A Km 9+120,tram thu phi so 3 dt 747a km 9 120,0.80,Trạm thu phí Số 3 - ĐT 747A Km 9+120,11.028277,106.777486
+vn-toll-results-118a315fd99ba0,toll_station,current_name,Trạm thu phí Số 3A - ĐT768,tram thu phi so 3a dt768,0.90,Trạm thu phí Số 3A - ĐT768,11.028268,106.913057
+vn-toll-results-118a315fd99ba0,toll_station,google_name,Trạm thu phí Số 3A - ĐT768,tram thu phi so 3a dt768,0.80,Trạm thu phí Số 3A - ĐT768,11.028268,106.913057
+vn-toll-results-4d20271e734d74,toll_station,current_name,Trạm thu phí Số 3B - ĐT768,tram thu phi so 3b dt768,0.90,Trạm thu phí Số 3B - ĐT768,11.023644,106.899633
+vn-toll-results-4d20271e734d74,toll_station,google_name,Trạm thu phí Số 3B - ĐT768,tram thu phi so 3b dt768,0.80,Trạm thu phí Số 3B - ĐT768,11.023644,106.899633
+vn-toll-results-17bd13a8f54c64,toll_station,current_name,Trạm thu phí Tam Đảo (IC4),tram thu phi tam dao ic4,0.90,Trạm thu phí Tam Đảo (IC4),21.357265,105.606161
+vn-toll-results-17bd13a8f54c64,toll_station,google_name,Trạm thu phí Tam Đảo (IC4),tram thu phi tam dao ic4,0.80,Trạm thu phí Tam Đảo (IC4),21.357265,105.606161
+vn-toll-results-386eef74a7fe33,toll_station,current_name,Trạm thu phí Thân Cửu Nghĩa - Chốt CA kiểm tra,tram thu phi than cuu nghia chot ca kiem tra,0.90,Trạm thu phí Thân Cửu Nghĩa - Chốt CA kiểm tra,10.435296,106.295124
+vn-toll-results-386eef74a7fe33,toll_station,google_name,Trạm thu phí Thân Cửu Nghĩa - Chốt CA kiểm tra,tram thu phi than cuu nghia chot ca kiem tra,0.80,Trạm thu phí Thân Cửu Nghĩa - Chốt CA kiểm tra,10.435296,106.295124
+vn-toll-results-1a88faa5c34efa,toll_station,current_name,Trạm thu phí Thường Tín,tram thu phi thuong tin,0.90,Trạm thu phí Thường Tín,20.87189,105.877504
+vn-toll-results-1a88faa5c34efa,toll_station,google_name,Trạm thu phí Thường Tín,tram thu phi thuong tin,0.80,Trạm thu phí Thường Tín,20.87189,105.877504
+vn-toll-results-832551acb9094e,toll_station,current_name,Trạm thu phí Toàn Mỹ 14 (Km 1807+500),tram thu phi toan my 14 km 1807 500,0.90,Trạm thu phí Toàn Mỹ 14 (Km 1807+500),12.561158,107.822379
+vn-toll-results-832551acb9094e,toll_station,google_name,Trạm thu phí Toàn Mỹ 14 (Km 1807+500),tram thu phi toan my 14 km 1807 500,0.80,Trạm thu phí Toàn Mỹ 14 (Km 1807+500),12.561158,107.822379
+vn-toll-results-43cd4ceb51a555,toll_station,current_name,Trạm thu phí Văn Bàn (IC16),tram thu phi van ban ic16,0.90,Trạm thu phí Văn Bàn (IC16),22.152732,104.343695
+vn-toll-results-43cd4ceb51a555,toll_station,google_name,Trạm thu phí Văn Bàn (IC16),tram thu phi van ban ic16,0.80,Trạm thu phí Văn Bàn (IC16),22.152732,104.343695
+vn-toll-results-bb234595df3e9c,toll_station,current_name,Trạm thu phí Xa Lộ Hà Nội,tram thu phi xa lo ha noi,0.90,Trạm thu phí Xa Lộ Hà Nội,10.81902,106.757905
+vn-toll-results-bb234595df3e9c,toll_station,google_name,Trạm thu phí Xa Lộ Hà Nội,tram thu phi xa lo ha noi,0.80,Trạm thu phí Xa Lộ Hà Nội,10.81902,106.757905
+vn-toll-results-b2d41027212383,toll_station,current_name,Trạm thu phí Xa lộ Hà Nội,tram thu phi xa lo ha noi,0.90,Trạm thu phí Xa lộ Hà Nội,10.823889,106.759614
+vn-toll-results-b2d41027212383,toll_station,google_name,Trạm thu phí Xa lộ Hà Nội,tram thu phi xa lo ha noi,0.80,Trạm thu phí Xa lộ Hà Nội,10.823889,106.759614
+vn-toll-results-bb6920af6c9fa1,toll_station,current_name,Trạm thu phí Xuân Giao (IC18),tram thu phi xuan giao ic18,0.90,Trạm thu phí Xuân Giao (IC18),22.343404,104.106081
+vn-toll-results-bb6920af6c9fa1,toll_station,google_name,Trạm thu phí Xuân Giao (IC18),tram thu phi xuan giao ic18,0.80,Trạm thu phí Xuân Giao (IC18),22.343404,104.106081
+vn-toll-results-e3b23ff691ff97,toll_station,current_name,Trạm thu phí Yên Bái (IC12),tram thu phi yen bai ic12,0.90,Trạm thu phí Yên Bái (IC12),21.648031,104.891031
+vn-toll-results-e3b23ff691ff97,toll_station,google_name,Trạm thu phí Yên Bái (IC12),tram thu phi yen bai ic12,0.80,Trạm thu phí Yên Bái (IC12),21.648031,104.891031
+vn-toll-results-4427bf100242b5,toll_station,current_name,Trạm thu phí Đường cao tốc Phan Thiết - Dầu Giây,tram thu phi duong cao toc phan thiet dau giay,0.90,Trạm thu phí Đường cao tốc Phan Thiết - Dầu Giây,10.838926,107.147478
+vn-toll-results-4427bf100242b5,toll_station,google_name,Trạm thu phí Đường cao tốc Phan Thiết - Dầu Giây,tram thu phi duong cao toc phan thiet dau giay,0.80,Trạm thu phí Đường cao tốc Phan Thiết - Dầu Giây,10.838926,107.147478
+vn-toll-results-e9bcdc9b6ca90e,toll_station,current_name,Trạm thu phí Đường M1,tram thu phi duong m1,0.90,Trạm thu phí Đường M1,10.824753,106.603516
+vn-toll-results-e9bcdc9b6ca90e,toll_station,google_name,Trạm thu phí Đường M1,tram thu phi duong m1,0.80,Trạm thu phí Đường M1,10.824753,106.603516
+vn-toll-results-77e47d2d58be12,toll_station,current_name,Trạm thu phí Đường Tân Kỳ Tân Quý,tram thu phi duong tan ky tan quy,0.90,Trạm thu phí Đường Tân Kỳ Tân Quý,10.789745,106.595885
+vn-toll-results-77e47d2d58be12,toll_station,google_name,Trạm thu phí Đường Tân Kỳ Tân Quý,tram thu phi duong tan ky tan quy,0.80,Trạm thu phí Đường Tân Kỳ Tân Quý,10.789745,106.595885
+vn-toll-results-76d3e5c63fb60c,toll_station,current_name,Trạm thu phí Đường số 7,tram thu phi duong so 7,0.90,Trạm thu phí Đường số 7,10.82501,106.602115
+vn-toll-results-76d3e5c63fb60c,toll_station,google_name,Trạm thu phí Đường số 7,tram thu phi duong so 7,0.80,Trạm thu phí Đường số 7,10.82501,106.602115
+vn-toll-results-292365965dc6de,toll_station,current_name,Trạm thu phí Đại Xuyên 2,tram thu phi dai xuyen 2,0.90,Trạm thu phí Đại Xuyên 2,20.70211,105.912933
+vn-toll-results-292365965dc6de,toll_station,google_name,Trạm thu phí Đại Xuyên 2,tram thu phi dai xuyen 2,0.80,Trạm thu phí Đại Xuyên 2,20.70211,105.912933
+vn-toll-results-bbbbbeef41c550,toll_station,current_name,Trạm phát vé lối vào ga nội địa sân bay Nội Bài,tram phat ve loi vao ga noi dia san bay noi bai,0.90,Trạm phát vé lối vào ga nội địa sân bay Nội Bài,21.213758,105.801742
+vn-toll-results-bbbbbeef41c550,toll_station,google_name,Trạm phát vé lối vào ga nội địa sân bay Nội Bài,tram phat ve loi vao ga noi dia san bay noi bai,0.80,Trạm phát vé lối vào ga nội địa sân bay Nội Bài,21.213758,105.801742
+vn-toll-results-f4ed6158c3a30d,toll_station,current_name,Trạm thu phí Tân An,tram thu phi tan an,0.90,Trạm thu phí Tân An,10.547452,106.372365
+vn-toll-results-f4ed6158c3a30d,toll_station,google_name,Trạm thu phí Tân An,tram thu phi tan an,0.80,Trạm thu phí Tân An,10.547452,106.372365
+vn-toll-results-c17a2376b0cb89,toll_station,current_name,Trạm thu phí 319 KCN CNC Long Thành,tram thu phi 319 kcn cnc long thanh,0.90,Trạm thu phí 319 KCN CNC Long Thành,10.776661,106.92935
+vn-toll-results-c17a2376b0cb89,toll_station,google_name,Trạm thu phí 319 KCN CNC Long Thành,tram thu phi 319 kcn cnc long thanh,0.80,Trạm thu phí 319 KCN CNC Long Thành,10.776661,106.92935
+vn-toll-results-d7533fd75a68cf,toll_station,current_name,Trạm thu phí 4,tram thu phi 4,0.90,Trạm thu phí 4,10.660946,106.723442
+vn-toll-results-d7533fd75a68cf,toll_station,google_name,Trạm thu phí 4,tram thu phi 4,0.80,Trạm thu phí 4,10.660946,106.723442
+vn-toll-results-fbc3025936ef80,toll_station,current_name,Trạm thu phí 5,tram thu phi 5,0.90,Trạm thu phí 5,10.653937,106.938063
+vn-toll-results-fbc3025936ef80,toll_station,google_name,Trạm thu phí 5,tram thu phi 5,0.80,Trạm thu phí 5,10.653937,106.938063
+vn-toll-results-e2c61b4e755938,toll_station,current_name,Trạm thu phí 6,tram thu phi 6,0.90,Trạm thu phí 6,10.663812,106.971937
+vn-toll-results-e2c61b4e755938,toll_station,google_name,Trạm thu phí 6,tram thu phi 6,0.80,Trạm thu phí 6,10.663812,106.971937
+vn-toll-results-bded8a9f2a57c8,toll_station,current_name,Trạm thu phí An Lạc,tram thu phi an lac,0.90,Trạm thu phí An Lạc,10.730745,106.610549
+vn-toll-results-bded8a9f2a57c8,toll_station,google_name,Trạm thu phí An Lạc,tram thu phi an lac,0.80,Trạm thu phí An Lạc,10.730745,106.610549
+vn-toll-results-6ff2252e49786b,toll_station,current_name,Trạm thu phí BOT,tram thu phi bot,0.90,Trạm thu phí BOT,18.706686,105.613888
+vn-toll-results-6ff2252e49786b,toll_station,google_name,Trạm thu phí BOT,tram thu phi bot,0.80,Trạm thu phí BOT,18.706686,105.613888
+vn-toll-results-3a563783bca3f4,toll_station,current_name,Trạm thu phí Bình Chánh,tram thu phi binh chanh,0.90,Trạm thu phí Bình Chánh,10.661281,106.55914
+vn-toll-results-3a563783bca3f4,toll_station,google_name,Trạm thu phí Bình Chánh,tram thu phi binh chanh,0.80,Trạm thu phí Bình Chánh,10.661281,106.55914
+vn-toll-results-f0dbe8703fe60a,toll_station,current_name,Trạm thu phí Bắc Bỉm Sơn,tram thu phi bac bim son,0.90,Trạm thu phí Bắc Bỉm Sơn,20.124809,105.851581
+vn-toll-results-f0dbe8703fe60a,toll_station,google_name,Trạm thu phí Bắc Bỉm Sơn,tram thu phi bac bim son,0.80,Trạm thu phí Bắc Bỉm Sơn,20.124809,105.851581
+vn-toll-results-f54373378a0b16,toll_station,current_name,Trạm thu phí Cầu Giẽ - Ninh Bình Cao Bồ,tram thu phi cau gie ninh binh cao bo,0.90,Trạm thu phí Cầu Giẽ - Ninh Bình Cao Bồ,20.28872,106.014311
+vn-toll-results-f54373378a0b16,toll_station,google_name,Trạm thu phí Cầu Giẽ - Ninh Bình Cao Bồ,tram thu phi cau gie ninh binh cao bo,0.80,Trạm thu phí Cầu Giẽ - Ninh Bình Cao Bồ,20.28872,106.014311
+vn-toll-results-951e281d14350c,toll_station,current_name,Trạm thu phí Cầu Mỹ Luông,tram thu phi cau my luong,0.90,Trạm thu phí Cầu Mỹ Luông,10.502437,105.494554
+vn-toll-results-951e281d14350c,toll_station,google_name,Trạm thu phí Cầu Mỹ Luông,tram thu phi cau my luong,0.80,Trạm thu phí Cầu Mỹ Luông,10.502437,105.494554
+vn-toll-results-48248f4a436b06,toll_station,current_name,Trạm thu phí IC14,tram thu phi ic14,0.90,Trạm thu phí IC14,21.878211,104.675454
+vn-toll-results-48248f4a436b06,toll_station,google_name,Trạm thu phí IC14,tram thu phi ic14,0.80,Trạm thu phí IC14,21.878211,104.675454
+vn-toll-results-4b51c698d91be4,toll_station,current_name,Trạm thu phí IC4,tram thu phi ic4,0.90,Trạm thu phí IC4,21.35819,105.605608
+vn-toll-results-4b51c698d91be4,toll_station,google_name,Trạm thu phí IC4,tram thu phi ic4,0.80,Trạm thu phí IC4,21.35819,105.605608
+vn-toll-results-df25b7187cd049,toll_station,current_name,Trạm thu phí KCN HANSSIP,tram thu phi kcn hanssip,0.90,Trạm thu phí KCN HANSSIP,20.707464,105.917503
+vn-toll-results-df25b7187cd049,toll_station,google_name,Trạm thu phí KCN HANSSIP,tram thu phi kcn hanssip,0.80,Trạm thu phí KCN HANSSIP,20.707464,105.917503
+vn-toll-results-b81e9e3b43b716,toll_station,current_name,Trạm thu phí Liêm Tuyền,tram thu phi liem tuyen,0.90,Trạm thu phí Liêm Tuyền,20.539974,105.948268
+vn-toll-results-b81e9e3b43b716,toll_station,google_name,Trạm thu phí Liêm Tuyền,tram thu phi liem tuyen,0.80,Trạm thu phí Liêm Tuyền,20.539974,105.948268
+vn-toll-results-67a6e410a10e41,toll_station,current_name,Trạm thu phí Liêm Tuyền (Hà Nội ra Phủ Lý),tram thu phi liem tuyen ha noi ra phu ly,0.90,Trạm thu phí Liêm Tuyền (Hà Nội ra Phủ Lý),20.540081,105.947552
+vn-toll-results-67a6e410a10e41,toll_station,google_name,Trạm thu phí Liêm Tuyền (Hà Nội ra Phủ Lý),tram thu phi liem tuyen ha noi ra phu ly,0.80,Trạm thu phí Liêm Tuyền (Hà Nội ra Phủ Lý),20.540081,105.947552
+vn-toll-results-16c530e1f92491,toll_station,current_name,Trạm thu phí Liêm Tuyền (Lối vào đi nam),tram thu phi liem tuyen loi vao di nam,0.90,Trạm thu phí Liêm Tuyền (Lối vào đi nam),20.538149,105.947656
+vn-toll-results-16c530e1f92491,toll_station,google_name,Trạm thu phí Liêm Tuyền (Lối vào đi nam),tram thu phi liem tuyen loi vao di nam,0.80,Trạm thu phí Liêm Tuyền (Lối vào đi nam),20.538149,105.947656
+vn-toll-results-cf024083593b52,toll_station,current_name,Trạm thu phí Long Thới,tram thu phi long thoi,0.90,Trạm thu phí Long Thới,10.660347,106.726839
+vn-toll-results-cf024083593b52,toll_station,google_name,Trạm thu phí Long Thới,tram thu phi long thoi,0.80,Trạm thu phí Long Thới,10.660347,106.726839
+vn-toll-results-fe4d3c24e951ab,toll_station,current_name,Trạm thu phí Long Trường,tram thu phi long truong,0.90,Trạm thu phí Long Trường,10.786715,106.830901
+vn-toll-results-fe4d3c24e951ab,toll_station,google_name,Trạm thu phí Long Trường,tram thu phi long truong,0.80,Trạm thu phí Long Trường,10.786715,106.830901
+vn-toll-results-a77105c244cb59,toll_station,current_name,Trạm thu phí Nút giao Cẩm Mỹ,tram thu phi nut giao cam my,0.90,Trạm thu phí Nút giao Cẩm Mỹ,10.859563,107.235763
+vn-toll-results-a77105c244cb59,toll_station,google_name,Trạm thu phí Nút giao Cẩm Mỹ,tram thu phi nut giao cam my,0.80,Trạm thu phí Nút giao Cẩm Mỹ,10.859563,107.235763
+vn-toll-results-1c45c3fd6f4111,toll_station,current_name,Trạm thu phí Nút giao Xuân Lộc,tram thu phi nut giao xuan loc,0.90,Trạm thu phí Nút giao Xuân Lộc,10.896345,107.421286
+vn-toll-results-1c45c3fd6f4111,toll_station,google_name,Trạm thu phí Nút giao Xuân Lộc,tram thu phi nut giao xuan loc,0.80,Trạm thu phí Nút giao Xuân Lộc,10.896345,107.421286
+vn-toll-results-c52faf9b348b92,toll_station,current_name,Trạm thu phí Phan Rang,tram thu phi phan rang,0.90,Trạm thu phí Phan Rang,11.627912,108.898875
+vn-toll-results-c52faf9b348b92,toll_station,google_name,Trạm thu phí Phan Rang,tram thu phi phan rang,0.80,Trạm thu phí Phan Rang,11.627912,108.898875
+vn-toll-results-70c775f8a4e694,toll_station,current_name,Trạm thu phí Phú Hữu,tram thu phi phu huu,0.90,Trạm thu phí Phú Hữu,10.791609,106.80744
+vn-toll-results-70c775f8a4e694,toll_station,google_name,Trạm thu phí Phú Hữu,tram thu phi phu huu,0.80,Trạm thu phí Phú Hữu,10.791609,106.80744
+vn-toll-results-44baec63600db9,toll_station,current_name,Trạm thu phí Quốc lộ 14 - BP,tram thu phi quoc lo 14 bp,0.90,Trạm thu phí Quốc lộ 14 - BP,11.564076,106.953961
+vn-toll-results-44baec63600db9,toll_station,google_name,Trạm thu phí Quốc lộ 14 - BP,tram thu phi quoc lo 14 bp,0.80,Trạm thu phí Quốc lộ 14 - BP,11.564076,106.953961
+vn-toll-results-4e016e7a8a920c,toll_station,current_name,Trạm thu phí Quốc lộ 1A,tram thu phi quoc lo 1a,0.90,Trạm thu phí Quốc lộ 1A,21.094946,105.964594
+vn-toll-results-4e016e7a8a920c,toll_station,google_name,Trạm thu phí Quốc lộ 1A,tram thu phi quoc lo 1a,0.80,Trạm thu phí Quốc lộ 1A,21.094946,105.964594
+vn-toll-results-e34a65c079e78f,toll_station,current_name,Trạm thu phí Quốc lộ 1A,tram thu phi quoc lo 1a,0.90,Trạm thu phí Quốc lộ 1A,10.903162,106.844208
+vn-toll-results-e34a65c079e78f,toll_station,google_name,Trạm thu phí Quốc lộ 1A,tram thu phi quoc lo 1a,0.80,Trạm thu phí Quốc lộ 1A,10.903162,106.844208
+vn-toll-results-3daee83ecd2a3e,toll_station,current_name,Trạm thu phí Quốc Lộ,tram thu phi quoc lo,0.90,Trạm thu phí Quốc Lộ,21.457198,106.295906
+vn-toll-results-3daee83ecd2a3e,toll_station,google_name,Trạm thu phí Quốc Lộ,tram thu phi quoc lo,0.80,Trạm thu phí Quốc Lộ,21.457198,106.295906
+vn-toll-results-fa75fee205f2ec,toll_station,current_name,Trạm thu phí Tống Sơn (Hà Lĩnh cũ),tram thu phi tong son ha linh cu,0.90,Trạm thu phí Tống Sơn (Hà Lĩnh cũ),20.000406,105.770482
+vn-toll-results-fa75fee205f2ec,toll_station,google_name,Trạm thu phí Tống Sơn (Hà Lĩnh cũ),tram thu phi tong son ha linh cu,0.80,Trạm thu phí Tống Sơn (Hà Lĩnh cũ),20.000406,105.770482
+vn-toll-results-0e3b2adaf70013,toll_station,current_name,Trạm thu phí Vĩnh Hảo,tram thu phi vinh hao,0.90,Trạm thu phí Vĩnh Hảo,11.304399,108.725077
+vn-toll-results-0e3b2adaf70013,toll_station,google_name,Trạm thu phí Vĩnh Hảo,tram thu phi vinh hao,0.80,Trạm thu phí Vĩnh Hảo,11.304399,108.725077
+vn-toll-results-6783d7fc7181dc,toll_station,current_name,Trạm thu phí cầu Nguyễn Huệ,tram thu phi cau nguyen hue,0.90,Trạm thu phí cầu Nguyễn Huệ,10.2664,105.874324
+vn-toll-results-6783d7fc7181dc,toll_station,google_name,Trạm thu phí cầu Nguyễn Huệ,tram thu phi cau nguyen hue,0.80,Trạm thu phí cầu Nguyễn Huệ,10.2664,105.874324
+vn-toll-results-3fe3affe0cc9b6,toll_station,current_name,Trạm thu phí cầu Thanh Mỹ,tram thu phi cau thanh my,0.90,Trạm thu phí cầu Thanh Mỹ,10.408434,105.859615
+vn-toll-results-3fe3affe0cc9b6,toll_station,google_name,Trạm thu phí cầu Thanh Mỹ,tram thu phi cau thanh my,0.80,Trạm thu phí cầu Thanh Mỹ,10.408434,105.859615
+vn-toll-results-e676b2fb54426d,toll_station,current_name,Trạm thu phí cầu treo Huống,tram thu phi cau treo huong,0.90,Trạm thu phí cầu treo Huống,21.583927,105.865876
+vn-toll-results-e676b2fb54426d,toll_station,google_name,Trạm thu phí cầu treo Huống,tram thu phi cau treo huong,0.68,Trạm thu phí cầu treo Huống,21.583927,105.865876
+vn-toll-results-77badfc41b20d1,toll_station,current_name,Trạm thu phí cầu Đồng Nai,tram thu phi cau dong nai,0.90,Trạm thu phí cầu Đồng Nai,10.902997,106.843788
+vn-toll-results-77badfc41b20d1,toll_station,google_name,Trạm thu phí cầu Đồng Nai,tram thu phi cau dong nai,0.68,Trạm thu phí cầu Đồng Nai,10.902997,106.843788
+vn-toll-results-902e161ae6a10c,toll_station,current_name,Trạm thu phí nút giao ĐT.634,tram thu phi nut giao dt 634,0.90,Trạm thu phí nút giao ĐT.634,14.043348,109.027487
+vn-toll-results-902e161ae6a10c,toll_station,google_name,Trạm thu phí nút giao ĐT.634,tram thu phi nut giao dt 634,0.80,Trạm thu phí nút giao ĐT.634,14.043348,109.027487
+vn-toll-results-50257b7477bc9a,toll_station,current_name,Trạm thu phí số 03,tram thu phi so 03,0.90,Trạm thu phí số 03,10.660289,106.654482
+vn-toll-results-50257b7477bc9a,toll_station,google_name,Trạm thu phí số 03,tram thu phi so 03,0.80,Trạm thu phí số 03,10.660289,106.654482
+vn-toll-results-7c4a93dd56bb9f,toll_station,current_name,Trạm thu phí số 3,tram thu phi so 3,0.90,Trạm thu phí số 3,11.031479,106.7755
+vn-toll-results-7c4a93dd56bb9f,toll_station,google_name,Trạm thu phí số 3,tram thu phi so 3,0.80,Trạm thu phí số 3,11.031479,106.7755
+vn-toll-results-329cb8981a939e,toll_station,current_name,Trạm thu phí tuyến tránh TX Cai Lậy,tram thu phi tuyen tranh tx cai lay,0.90,Trạm thu phí tuyến tránh TX Cai Lậy,10.393306,106.143552
+vn-toll-results-329cb8981a939e,toll_station,google_name,Trạm thu phí tuyến tránh TX Cai Lậy,tram thu phi tuyen tranh tx cai lay,0.80,Trạm thu phí tuyến tránh TX Cai Lậy,10.393306,106.143552
+vn-toll-results-6539ebfe9288e9,toll_station,current_name,Trạm thu phí Đèo Ngang,tram thu phi deo ngang,0.90,Trạm thu phí Đèo Ngang,17.939489,106.477189
+vn-toll-results-6539ebfe9288e9,toll_station,google_name,Trạm thu phí Đèo Ngang,tram thu phi deo ngang,0.68,Trạm thu phí Đèo Ngang,17.939489,106.477189
+vn-toll-results-70491e7c25f059,toll_station,current_name,Trạm thu phí Đường chuyên dùng vận chuyển VLXD Phước Tân (Trạm Phước Tân),tram thu phi duong chuyen dung van chuyen vlxd phuoc tan tram phuoc tan,0.90,Trạm thu phí Đường chuyên dùng vận chuyển VLXD Phước Tân (Trạm Phước Tân),10.879647,106.911861
+vn-toll-results-70491e7c25f059,toll_station,google_name,Trạm thu phí Đường chuyên dùng vận chuyển VLXD Phước Tân (Trạm Phước Tân),tram thu phi duong chuyen dung van chuyen vlxd phuoc tan tram phuoc tan,0.80,Trạm thu phí Đường chuyên dùng vận chuyển VLXD Phước Tân (Trạm Phước Tân),10.879647,106.911861
+vn-toll-results-c86839a8da086c,toll_station,current_name,Trạm thu phí Đồng Giao,tram thu phi dong giao,0.90,Trạm thu phí Đồng Giao,20.169081,105.870207
+vn-toll-results-c86839a8da086c,toll_station,google_name,Trạm thu phí Đồng Giao,tram thu phi dong giao,0.80,Trạm thu phí Đồng Giao,20.169081,105.870207
+vn-toll-results-60cc0884d97283,toll_station,current_name,Trạm thu phí đường bộ số 1 DT743,tram thu phi duong bo so 1 dt743,0.90,Trạm thu phí đường bộ số 1 DT743,10.977884,106.744844
+vn-toll-results-60cc0884d97283,toll_station,google_name,Trạm thu phí đường bộ số 1 DT743,tram thu phi duong bo so 1 dt743,0.80,Trạm thu phí đường bộ số 1 DT743,10.977884,106.744844
+vn-toll-results-3a4913bba49761,toll_station,current_name,plaza toll tam ky,plaza toll tam ky,0.90,plaza toll tam ky,15.538297,108.453753
+vn-toll-results-3a4913bba49761,toll_station,google_name,plaza toll tam ky,plaza toll tam ky,0.80,plaza toll tam ky,15.538297,108.453753
+vn-toll-results-0809040f917db9,toll_station,current_name,Điểm Thu Phí Bến Hải,diem thu phi ben hai,0.90,Điểm Thu Phí Bến Hải,10.384581,107.064495
+vn-toll-results-0809040f917db9,toll_station,google_name,Điểm Thu Phí Bến Hải,diem thu phi ben hai,0.80,Điểm Thu Phí Bến Hải,10.384581,107.064495
+vn-toll-results-18d929834244af,toll_station,current_name,Trạm thu phí,tram thu phi,0.90,Trạm thu phí,10.888675,106.700936
+vn-toll-results-18d929834244af,toll_station,google_name,Trạm thu phí,tram thu phi,0.75,Trạm thu phí,10.888675,106.700936
+vn-toll-results-389322d4f5b691,toll_station,current_name,Trạm thu phí,tram thu phi,0.90,Trạm thu phí,10.430492,106.316667
+vn-toll-results-389322d4f5b691,toll_station,google_name,Trạm thu phí,tram thu phi,0.75,Trạm thu phí,10.430492,106.316667

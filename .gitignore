@@ -1,0 +1,61 @@
+# Secrets / local environment
+.env
+*.env
+!.env.example
+toll-station-pipeline/.env
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+toll-station-pipeline/.venv/
+
+# Node / frontend tooling
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Docker / runtime data
+postgres_data/
+redis_data/
+
+# Generated map binaries and heavy geodata
+data/base/*.mbtiles
+data/base/*.sqlite
+data/versions/*.osm.pbf
+data/versions/*.pbf
+data/toll/*.osm.pbf
+data/output/
+*.mbtiles
+*.osm.pbf
+*.pbf
+
+# Local databases and caches
+*.db
+*.sqlite
+*.sqlite3
+toll-station-pipeline/db/
+toll-station-pipeline/data/geocache.json
+
+# Heavy/raw crawl outputs
+toll-station-pipeline/data/final/results.csv
+toll-station-pipeline/gmaps-tool/data/raw/
+toll-station-pipeline/gmaps-tool/data/output/
+toll-station-pipeline/gmaps-tool/google-maps-scraper/
+toll-station-pipeline/toll-crawler/data/raw/
+
+# Temporary/review scratch files
+toll-station-pipeline/data/final/1.csv
+toll-station-pipeline/data/final/results_review_resolved.csv
+toll-station-pipeline/data/name-normalization/_tmp_*.csv
+
+# Logs
+*.log
+data/base/*.log
+worker/*.log

@@ -1,0 +1,3 @@
+trạm thu phí không dừng {province}
+trạm thu phí VETC {province}
+trạm thu phí ePass {province}

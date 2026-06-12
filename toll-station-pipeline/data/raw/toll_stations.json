@@ -1,0 +1,32 @@
+[
+  {
+    "id": "vn-toll-001",
+    "name": "Trạm thu phí Pháp Vân - Cầu Giẽ",
+    "province": "Hà Nội",
+    "road": "QL1A",
+    "km_marker": "Km 183+700",
+    "type": "etc",
+    "operator": "VETC",
+    "status": "active"
+  },
+  {
+    "id": "vn-toll-002",
+    "name": "Trạm thu phí Cầu Giẽ - Ninh Bình",
+    "province": "Hà Nam",
+    "road": "CT01",
+    "km_marker": "Km 65+000",
+    "type": "etc",
+    "operator": "VETC",
+    "status": "active"
+  },
+  {
+    "id": "vn-toll-003",
+    "name": "Trạm thu phí Bến Thủy",
+    "province": "Nghệ An",
+    "road": "QL1A",
+    "km_marker": "Km 461+900",
+    "type": "toll_booth",
+    "operator": "BOT",
+    "status": "active"
+  }
+]

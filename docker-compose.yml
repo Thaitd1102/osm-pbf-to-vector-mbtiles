@@ -1,0 +1,61 @@
+services:
+  postgres:
+    image: postgis/postgis:16-3.4-alpine
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: "110204"
+      POSTGRES_DB: maps_vietnam
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "15432:5432"
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+
+  api:
+    build: ./api
+    environment:
+      DATA_DIR: /data
+      BASE_MBTILES: /data/base/vietnam-260101-with-tolls-navigation.mbtiles
+      REDIS_URL: redis://redis:6379/0
+      DATABASE_URL: postgresql://postgres:110204@postgres:5432/maps_vietnam
+      TOLL_DATA_DIR: /toll-data
+      STATUS_TTL_SECONDS: 86400
+    volumes:
+      - ./data:/data
+      - ./toll-station-pipeline/data:/toll-data:ro
+    ports:
+      - "8000:8000"
+    depends_on:
+      - postgres
+      - redis
+
+  worker:
+    build: ./worker
+    environment:
+      DATA_DIR: /data
+      REDIS_URL: redis://redis:6379/0
+      DATABASE_URL: postgresql://postgres:110204@postgres:5432/maps_vietnam
+      STATUS_TTL_SECONDS: 86400
+    volumes:
+      - ./data:/data
+    depends_on:
+      - postgres
+      - redis
+
+  nginx:
+    image: nginx:1.27-alpine
+    volumes:
+      - ./frontend:/usr/share/nginx/html:ro
+      - ./data/output:/srv/output:ro
+      - ./nginx/default.conf:/etc/nginx/conf.d/default.conf:ro
+    ports:
+      - "8080:80"
+    depends_on:
+      - api
+
+volumes:
+  postgres_data:

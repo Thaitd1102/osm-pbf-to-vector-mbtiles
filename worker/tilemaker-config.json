@@ -1,0 +1,68 @@
+{
+  "layers": {
+    "water": {
+      "minzoom": 6,
+      "maxzoom": 14,
+      "simplify_below": 12,
+      "simplify_level": 0.0002,
+      "simplify_ratio": 2.0
+    },
+    "landuse": {
+      "minzoom": 8,
+      "maxzoom": 14,
+      "simplify_below": 12,
+      "simplify_level": 0.0002,
+      "simplify_ratio": 2.0
+    },
+    "landcover": {
+      "minzoom": 8,
+      "maxzoom": 14,
+      "simplify_below": 12,
+      "simplify_level": 0.0002,
+      "simplify_ratio": 2.0
+    },
+    "waterway": {
+      "minzoom": 8,
+      "maxzoom": 14,
+      "simplify_below": 12,
+      "simplify_level": 0.0001,
+      "simplify_ratio": 2.0
+    },
+    "boundary": {
+      "minzoom": 9,
+      "maxzoom": 14,
+      "simplify_below": 12,
+      "simplify_level": 0.0001
+    },
+    "place": {
+      "minzoom": 8,
+      "maxzoom": 14
+    },
+    "transportation": {
+      "minzoom": 6,
+      "maxzoom": 14,
+      "simplify_below": 12,
+      "simplify_level": 0.0001,
+      "simplify_ratio": 2.0
+    },
+    "toll_gantry": {
+      "minzoom": 6,
+      "maxzoom": 14
+    },
+    "pois": {
+      "minzoom": 13,
+      "maxzoom": 14
+    }
+  },
+  "settings": {
+    "minzoom": 6,
+    "maxzoom": 14,
+    "basezoom": 14,
+    "include_ids": false,
+    "compress": "gzip",
+    "high_resolution": true,
+    "name": "Vietnam navigation internal map",
+    "version": "260101",
+    "description": "Navigation-focused vector tiles generated from vietnam-260101.osm.pbf"
+  }
+}
