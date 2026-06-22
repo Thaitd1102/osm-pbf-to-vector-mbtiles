@@ -1,1533 +1,578 @@
 <?xml version='1.0' encoding='utf-8'?>
 <osmChange version="0.6" generator="epass-fare-osc-crawler">
   <modify>
-    <node id="9754127696" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chiju33vcouzdterplbzmsffqdo" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="BOT 319" />
-    </node>
-    <node id="8436783101" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chij29z21fwxbzersldvctwexyc" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="An Dân (Thạch Bàn)" />
-    </node>
-    <node id="10198601713" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-clean-089" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Sóc Trăng" />
-    </node>
-    <node id="13594609049" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijzau1-ogfcjer9vtfj6wdmti" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="An Thái Trung" />
-    </node>
-    <node id="1483838042" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijuy91ddkjnterofqatacxwy8" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="QL 10" />
-    </node>
-    <node id="1101467778" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-clean-077" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="An Sương - An Lạc" />
-    </node>
-    <node id="11946078822" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijcvemggcxnterpqgmbpxjwbc" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao tỉnh lộ 392" />
-    </node>
-    <node id="6970456533" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijg7oddgr7nderqntflucdusi" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="IC3" />
-    </node>
-    <node id="1172933249" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-clean-082" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Trạm Bù Nho" />
-    </node>
-    <node id="10198627130" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijz0jdhhggoteru0rs7axzots" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Bạc Liêu" />
-    </node>
-    <node id="8432045544" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijiredpchpaderzawuyfy43mo" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Bắc Bình Định" />
-    </node>
-    <node id="12723387255" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijjz33lwwtaterpqndaejlzy4" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Bắc Quảng Ngãi" />
-    </node>
-    <node id="12369764927" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijbqk091h9nder80iyuxu9ckq" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Bắc Thăng Long - Nội Bài" />
-    </node>
-    <node id="2214428847" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-8912940a55179a" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Bến Lức" />
-    </node>
-    <node id="10198878792" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijny0tnjdmoterqgz5mdb3vqu" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Bến Thủy 1" />
-    </node>
-    <node id="1410065457" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-clean-080" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Cai Chanh" />
-    </node>
-    <node id="1017066822" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chij2q5hfmqqcjervjb8vivxgqm" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Cai Lậy - QL1" />
-    </node>
-    <node id="1482474233" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-clean-071" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Cam Lâm" />
-    </node>
-    <node id="4086614472" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-clean-007" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Cam Thịnh" />
-    </node>
-    <node id="1288554747" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-clean-095" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="QL51" />
-    </node>
-    <node id="8544582973" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijsdfrx9pxsjershfnq83hhau" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao tỉnh lộ 353" />
-    </node>
-    <node id="1324667567" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijcwi7ozglnterebneqrz056u" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Đầu Tuyến" />
-    </node>
-    <node id="1316305913" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijl6j3blwfszer0pcyadvep-u" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Đoàn Kết" />
-    </node>
-    <node id="12725719649" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijasth-dlhater8cen2kfc4v0" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Chu Lai" />
-    </node>
-    <node id="6860674132" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijk-opbj4rdzerq0sya1sjjvs" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Cà Ná" />
-    </node>
-    <node id="1482412311" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-clean-085" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Cái Bè" />
-    </node>
-    <node id="9381034607" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijpxj0cngjodercd6xh4c4v6g" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Cần Thơ - Phụng Hiệp" />
-    </node>
-    <node id="12323861336" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="final-ChIJYzm4pxZlSjEReNGpes7DV6c" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Cầu Bạch Đằng" />
-    </node>
-    <node id="10198877242" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chij1ta-oypmoterd0gbiy9q6u0" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Bến Thủy 2" />
-    </node>
-    <node id="1011243028" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-clean-079" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Cổ Chiên" />
-    </node>
-    <node id="1182173344" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijw3ese-vzndervabdck3egrk" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Hạc Trì" />
-    </node>
-    <node id="6862997895" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijbyvfm3qkntercjpalln1y8g" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Bắc Ninh Hải Dương" />
-    </node>
-    <node id="11183842756" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-clean-093" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Lào Cai - Sapa" />
-    </node>
-    <node id="1098418720" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijq6qqj7qldter5vynvzwfjvo" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Phú Mỹ" />
-    </node>
-    <node id="1025088286" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijtwtfrmkvcjerobgwturjbdk" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Cầu Rạch Miễu" />
-    </node>
-    <node id="6563222996" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijsdenahanndersdrkmfp5jxw" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Văn Lang" />
-    </node>
-    <node id="10198957829" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijpud-awdhnteraukymvq-3di" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Yên Lệnh" />
-    </node>
-    <node id="12786478148" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijuf95la0bszer7kkifo99l6e" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Cẩm Phả" />
-    </node>
-    <node id="11910194124" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-clean-090" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Diên Khánh" />
-    </node>
-    <node id="1329847084" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chij17nu3clusjerps6to2kbcuc" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="TL 353" />
-    </node>
-    <node id="1006324193" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijlwr0cgn8dderylvodvgjnrs" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Dầu Giây" />
-    </node>
-    <node id="668471135" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijgthijadfcterxe-rftdw2w4" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Ea Đar Đắk Lắk" />
-    </node>
-    <node id="6856306592" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-939faa49c400d0" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Hòa Phước" />
-    </node>
-    <node id="1183845008" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-clean-074" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Hoàng Mai" />
-    </node>
-    <node id="1095628565" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijxxxg8pghnterlacqozxsxpg" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Hà Nội - Bắc Giang" />
-    </node>
-    <node id="6554530141" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijs-uxldfhmzerhgmov8hzfq0" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="IC11" />
-    </node>
-    <node id="10997783392" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-clean-078" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Hải Hà" />
-    </node>
-    <node id="1156958867" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijzftdnjgtbzericsl5a4slsc" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Hầm Cù Mông" />
-    </node>
-    <node id="668605383" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijs3b9ocqnqjer6h3ourzbvps" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Trạm thu phí Bắc Hầm Hải Vân" />
-    </node>
-    <node id="1177157173" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijtemjolplbzery1nnypqv4gs" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Hầm Đèo Cả" />
-    </node>
-    <node id="6837952528" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chij55zu7qfdnter8-nw9wailhw" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Trạm 242" />
-    </node>
-    <node id="6837953448" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijz1erg79vnterj9wpxswipbo" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Trạm 104" />
-    </node>
-    <node id="13954067960" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="final-ChIJu231AQC7bjERSOZYXQYdEVY" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="KM124+720 Gia Lai" />
-    </node>
-    <node id="11619047243" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-clean-094" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Km237" />
-    </node>
-    <node id="1329842882" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijldcenyv9nderu0-djgbtfgm" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="KM6" />
-    </node>
-    <node id="6837952271" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijfrnwdlqrsjerj0lihlazqz8" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Trạm 45" />
-    </node>
-    <node id="13955413679" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="final-ChIJEUkHFIr-czERw4PbyAJb5bw" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Liên Đầm" />
-    </node>
-    <node id="631536968" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijaqaaz2mhdterythzp3-iy10" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Long Phước" />
-    </node>
-    <node id="1483440873" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chij67wnchrrszerybguj3zatii" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Móng Cái" />
-    </node>
-    <node id="2581153386" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijcw2-tmjdnteri9cqcxvfgqi" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Mỹ Lộc" />
-    </node>
-    <node id="6950227536" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijw7x4ly4vbzerqhxh-n6qozq" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nam Bình Định" />
-    </node>
-    <node id="1274537951" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijpylvtrvjnterwkgkbtun9cs" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Cầu Giẽ Hà Nam" />
-    </node>
-    <node id="6860612354" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijcyijxutacdera7cpbmuz5zu" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Ninh Lộc" />
-    </node>
-    <node id="1374419135" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijheu4jpyeqjer0ieju1yy09k" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Phong Thử" />
-    </node>
-    <node id="1330194837" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chij5uixooyznter1uou4imhe6q" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Pháp Vân" />
-    </node>
-    <node id="3992131737" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chij60njjc-tnderf1gktlbp6bm" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="IC8" />
-    </node>
-    <node id="6860166455" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chij-va6zqtergngvvjpq-fo" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Phú Bài" />
-    </node>
-    <node id="6877650786" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijg8s9mawqnderqdir-t0q-ia" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="IC9" />
-    </node>
-    <node id="13602049340" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chij-b1-qmp3nter5hrm1tmd6de" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Phả Lại" />
-    </node>
-    <node id="1175282468" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijvvxfgzltrzer3n0b0trghq8" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Quán Hàu" />
-    </node>
-    <node id="1374419109" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijcyh3uzmtater2xoyt6row9e" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Quảng Ngãi" />
-    </node>
-    <node id="2174037722" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-clean-087" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="BOT Quốc Lộ 17B" />
-    </node>
-    <node id="12788166743" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijmzdscgvgsjer8vf1a48ywny" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Đại Yên" />
-    </node>
-    <node id="6838027406" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-clean-022" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Trạm 279" />
-    </node>
-    <node id="6837953118" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-clean-092" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Trạm 37" />
-    </node>
-    <node id="5606336350" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-87b32e88b6f14c" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="NH51" />
-    </node>
-    <node id="12645469228" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijz9dylgbzcderyflmmd4qeom" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Suối Dầu" />
-    </node>
-    <node id="1012928174" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijmfpu1ijrdderilkoelft8ie" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Suối Giữa" />
-    </node>
-    <node id="1588276876" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijuyf92xusdderp1zo6r1ueqo" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Sông Phan" />
-    </node>
-    <node id="481837637" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijh4ypgmglnterffp5cs-xi3k" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Quốc Lộ 5 Trạm số 1 Hưng Yên" />
-    </node>
-    <node id="10185562123" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="final-ChIJ4dEMbuZ4SjERLJAkCqZ65Ac" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Quốc Lộ 5 Trạm số 2 Hải Phòng" />
-    </node>
-    <node id="6860284192" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijmzqjckncatervw-k6mqd6u8" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Tam Kỳ" />
-    </node>
-    <node id="1038124365" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-clean-076" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Tam Nông" />
-    </node>
-    <node id="668714123" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chij3whjiascoderoc1smos1xbs" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Tasco Quảng Bình" />
-    </node>
-    <node id="1012698037" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-clean-083" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Thanh Lương" />
-    </node>
-    <node id="1254808120" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-clean-081" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Thuận Phú" />
-    </node>
     <node id="10001978675" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijj9dxbz8nntery-h6eafxdse" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Thái Nguyên Chợ Mới" />
-    </node>
-    <node id="6864061670" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijq6qqvpajnterc3bdyznisgo" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Tiên Cựu" />
-    </node>
-    <node id="1483440868" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijn971o90jszer78zwgq8ytn0" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Tiên Yên" />
-    </node>
-    <node id="1093353487" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijoz7tsyhkdderuzx9tyaqzms" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Trảng Bom" />
-    </node>
-    <node id="176792793" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijcv-ebxcqddermzadhaixx-y" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Tân Khai" />
-    </node>
-    <node id="1020149679" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-clean-084" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Tân Lập" />
-    </node>
-    <node id="6888345522" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chiji0v06xubqjerrwh9hpq-lco" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Túy Loan" />
-    </node>
-    <node id="6860315448" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chij1umhywbvaderfo0oqudtkge" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Tư Nghĩa" />
-    </node>
-    <node id="4965039224" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chij180vwgctndertlpjgciqgh4" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="IC7" />
-    </node>
-    <node id="6554465773" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chij3dxy82ftnderbrdtq0yxuy8" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="IC6" />
-    </node>
-    <node id="1007900115" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-clean-073" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Vĩnh Phú" />
-    </node>
-    <node id="6425386072" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chij31y5uv-3nter2gdin-t5rck" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Vạn Điểm" />
-    </node>
-    <node id="2326748263" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijbzrtactinterbkvnikiwtao" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Vực Vòng" />
-    </node>
-    <node id="12452756354" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijq32qgjhfnderqfmgxjirylu" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Xuân Mai Hòa Bình" />
-    </node>
-    <node id="4686546644" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijy0pvdki7nterxrsufrtk7-0" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="QL 39" />
-    </node>
-    <node id="5003536551" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijizmkglgeoderl3wwuangeo8" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Thu phí T1 QL91" />
-    </node>
-    <node id="1096685801" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-clean-072" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="DT741" />
-    </node>
-    <node id="3516472469" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijt8y1wp3kqderg-llifzxxxm" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Đông Hà" />
-    </node>
-    <node id="10198933880" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijdad8b7lxnterbktsdn3mjei" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Đông Hưng" />
-    </node>
-    <node id="13603305910" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijw-epzqd3njeribu-dwg-pdu" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao Đồng Xuân" />
-    </node>
-    <node id="1105237556" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijosjouw5nnderljgn046zgi4" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Hòa Lạc Hòa Bình" />
-    </node>
-    <node id="1483440869" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-clean-091" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Đầm Hà" />
-    </node>
-    <node id="10826144165" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijg3byqa61czersgevsyvu4he" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Đắk Song" />
-    </node>
-    <node id="1403291202" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chij-wvfyuvcter5tonghianj4" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Định An" />
-    </node>
-    <node id="6427220541" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijockr2iv5sjerf0tgjwtc6zq" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Đồng Lá" />
-    </node>
-    <node id="1483324798" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijeeiioh71sjerasyk4vltfby" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Đồng Đăng" />
-    </node>
-    <node id="10196742008" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijashlt8jrcjerhd6eaivj-z4" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Đức Hòa" />
-    </node>
-    <node id="9697403773" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-osm-review-0123" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="QL1A" />
-    </node>
-    <node id="10198842784" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-7e5e7fa4176995" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Gia Lai 1" />
-    </node>
-    <node id="13603297974" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-48f39937c30d08" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao Gia Miêu" />
-    </node>
-    <node id="1482439056" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-b452ce137aea4d" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Bình Thuận" />
-    </node>
-    <node id="11304967566" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-41ca601e6c5f09" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao TL765" />
-    </node>
-    <node id="13551007072" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-osm-review-0098" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Trạm 102" />
-    </node>
-    <node id="1010875691" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-2548de6c7d62ae" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Bình Thung" />
-    </node>
-    <node id="1225570745" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-740a234f764bbb" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Cai Lậy" />
-    </node>
-    <node id="12725730599" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-99e95a3669a3f8" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Cao Bồ" />
-    </node>
-    <node id="9201724261" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-2494ccf7f28041" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Chơn Thành" />
-    </node>
-    <node id="9921799661" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-8ff6c50876e0b4" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Gia Lai 2" />
-    </node>
-    <node id="1173001123" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-01b795c3aac577" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Trạm Thu phí Cầu Mỹ Lợi" />
-    </node>
-    <node id="13148658999" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-ca56e8b14241e6" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Cầu Phú Cường" />
-    </node>
-    <node id="11829703711" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-8a1e5b19f33024" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Du Long" />
-    </node>
-    <node id="5930290765" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-022c2d4e049418" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="QL 38B" />
-    </node>
-    <node id="1374419129" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-de8a43dad059a1" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Hà Lam" />
-    </node>
-    <node id="6221325028" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-a7826df3ecbebc" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Cẩm Y" />
-    </node>
-    <node id="13594729844" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-3f24069383f14c" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Km133+770" />
-    </node>
-    <node id="13906136880" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-a521fbe8e35eee" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="KM430+500" />
-    </node>
-    <node id="8938682367" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-9dc19a42074b4a" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Trạm Thu phí Km 49+550 Quốc lộ 19" />
-    </node>
-    <node id="1288834243" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-f5b1c9ee7be221" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="TP HCM - Trung Lương" />
-    </node>
-    <node id="11938173243" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-266c1e08c589a2" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao Nghi Phương" />
-    </node>
-    <node id="1178115953" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-de8a81843b9749" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Ninh Xuân (Khánh Hòa)" />
-    </node>
-    <node id="1482468507" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-c52faf9b348b92" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Phan Rang" />
-    </node>
-    <node id="13955471075" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-d2c3a2fa53e365" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Phố Lu" />
-    </node>
-    <node id="12600009196" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-1c40652edb303e" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao QL8A" />
-    </node>
-    <node id="6554485169" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-852b9a6b761f54" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="IC10" />
-    </node>
-    <node id="9301612561" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-7d8a668438a5d0" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Genimex trạm số 2" />
-    </node>
-    <node id="1090402313" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-osm-review-0054" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Đường 768" />
+      <tag k="name" v="Trạm thu phí Thái Nguyên - Chợ Mới" />
     </node>
     <node id="10030773244" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-6e4533b3acd003" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Genimex trạm số 3" />
+      <tag k="name" v="Trạm thu phí Số 3 - ĐT 747A Km 9+120" />
     </node>
-    <node id="1308093769" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-osm-review-0087" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Km51" />
+    <node id="1006324193" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Dầu Giây" />
     </node>
-    <node id="1484967644" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-1a88faa5c34efa" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Thường Tín" />
+    <node id="1007900115" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Vĩnh Phú" />
+    </node>
+    <node id="1010875691" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bình Thung" />
+    </node>
+    <node id="1011243028" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Cổ Chiên" />
+    </node>
+    <node id="1012698037" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Thanh Lương" />
+    </node>
+    <node id="1012928174" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Suối Giữa" />
+    </node>
+    <node id="1017066822" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cai Lậy" />
+    </node>
+    <node id="10185562123" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Số 2 - Quốc lộ 5" />
+    </node>
+    <node id="10196742008" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đức Hoà" />
     </node>
     <node id="10198600410" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-832551acb9094e" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Toàn Mỹ (Đắk Nông)" />
+      <tag k="name" v="Trạm thu phí Toàn Mỹ 14 (Km 1807+500)" />
     </node>
-    <node id="6554703289" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-43cd4ceb51a555" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="IC16" />
+    <node id="10198601713" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí An Hiệp" />
     </node>
-    <node id="6775351396" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-b2d41027212383" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Trạm Xa Lộ - Hà Nội" />
+    <node id="10198627130" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bạc Liêu" />
     </node>
-    <node id="6554701337" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-bb6920af6c9fa1" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="IC17" />
+    <node id="10198842784" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Chư Sê" />
     </node>
-    <node id="6880975506" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-e3b23ff691ff97" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="IC12" />
+    <node id="10198877242" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Bến Thuỷ 2" />
     </node>
-    <node id="8579215378" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-4427bf100242b5" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Phan Thiết - Dầu Giây" />
+    <node id="10198878792" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bến Thủy" />
     </node>
-    <node id="8344470069" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-292365965dc6de" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Đại Xuyên" />
+    <node id="10198933880" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đông Hưng" />
     </node>
-    <node id="6876859120" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-48248f4a436b06" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="IC14" />
+    <node id="10198957829" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Yên Lệnh" />
     </node>
-    <node id="3008944938" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-4b51c698d91be4" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="IC4" />
-    </node>
-    <node id="1374421271" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-b81e9e3b43b716" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Liêm Tuyền" />
-    </node>
-    <node id="12103925344" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-cf024083593b52" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nguyễn Văn Tạo" />
-    </node>
-    <node id="12462757073" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-fe4d3c24e951ab" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao VĐ 3 - HLD (C)" />
-    </node>
-    <node id="13457949977" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-a77105c244cb59" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao QL56" />
-    </node>
-    <node id="13457949978" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-4e016e7a8a920c" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao QL1A" />
-    </node>
-    <node id="9369335528" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-70c775f8a4e694" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Phú Hữu" />
-    </node>
-    <node id="1508894331" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-44baec63600db9" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Thu phí số 2 QL14" />
-    </node>
-    <node id="13603297981" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-fa75fee205f2ec" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao Hà Lĩnh" />
-    </node>
-    <node id="11865554273" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-0e3b2adaf70013" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao Vĩnh Hảo" />
-    </node>
-    <node id="12866199543" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-50257b7477bc9a" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="QL50" />
-    </node>
-    <node id="1225571951" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-329cb8981a939e" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Cai Lậy - Tuyến tránh" />
-    </node>
-    <node id="10823778103" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-70491e7c25f059" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="An Thuận Phát (Phước Tân)" />
-    </node>
-    <node id="13603297970" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-c86839a8da086c" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao Đồng Giao" />
-    </node>
-    <node id="9322484528" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-60cc0884d97283" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Genimex trạm số 1" />
-    </node>
-    <node id="11596377024" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-epass-complete-11596377024" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Biên Hòa - Vũng Tàu" />
+    <node id="1020149679" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tân Lập" />
     </node>
     <node id="10236670094" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-epass-complete-10236670094" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Dung Quất" />
+      <tag k="name" v="Trạm thu phí Dung Quất" />
+    </node>
+    <node id="1025088286" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Rạch Miễu" />
+    </node>
+    <node id="1038124365" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tam Nông" />
+    </node>
+    <node id="10823778103" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đường chuyên dùng vận chuyển VLXD Phước Tân (Trạm Phước Tân)" />
+    </node>
+    <node id="10826144165" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đắk Song" />
     </node>
     <node id="10852800021" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-epass-complete-10852800021" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao Chợ Lầu" />
+      <tag k="name" v="Trạm thu phí Chợ Lầu" />
     </node>
-    <node id="11866479440" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-epass-complete-11866479440" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao Đại Ninh" />
+    <node id="1090402313" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Số 2A - ĐT768" />
     </node>
-    <node id="13603305927" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-epass-complete-13603305927" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao Diễn Cát" />
+    <node id="1093353487" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Trảng Bom" />
     </node>
-    <node id="13603305911" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-epass-complete-13603305911" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao Đồng Thắng" />
+    <node id="1095628565" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hà Nội - Bắc Giang" />
     </node>
-    <node id="13594711865" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-epass-complete-13594711865" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao Ma Lâm" />
+    <node id="1096685801" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí ĐT741" />
     </node>
-    <node id="13603297967" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-epass-complete-13603297967" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao Mai Sơn" />
+    <node id="1098418720" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Phú Mỹ" />
     </node>
-    <node id="13603305917" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-epass-complete-13603305917" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao Nghi Sơn" />
+    <node id="10997783392" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hải Hà" />
     </node>
-    <node id="12450564745" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-results-6ff2252e49786b" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao QL46B" />
+    <node id="1101467778" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí An Sương - An Lạc" />
+    </node>
+    <node id="1105237556" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí đường Hòa Lạc - Hòa Bình" />
+    </node>
+    <node id="11183842756" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Móng Sến" />
+    </node>
+    <node id="11304967566" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nút Giao TL765 Km 69+400" />
+    </node>
+    <node id="1156958867" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí hầm Cù Mông" />
+    </node>
+    <node id="11596377024" version="1" action="modify">
+      <tag k="name" v="Nút giao Long Thành cao tốc Biên Hòa – Vũng Tàu" />
+    </node>
+    <node id="11619047243" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Km 237 cao tốc Hà Nội - Lào Cai" />
+    </node>
+    <node id="1172933249" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bù Nho" />
+    </node>
+    <node id="1173001123" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Mỹ Lợi" />
+    </node>
+    <node id="1175282468" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Quán Hàu" />
+    </node>
+    <node id="1177157173" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hầm Đèo Cả" />
+    </node>
+    <node id="1178115953" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Ninh Xuân" />
     </node>
     <node id="11813154464" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-osm-review-0178" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao QL55" />
+      <tag k="name" v="Trạm Thu phí Quốc lộ 55" />
     </node>
-    <node id="13603305920" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-epass-complete-13603305920" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao Quỳnh Lưu" />
-    </node>
-    <node id="13603305924" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-epass-complete-13603305924" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao Quỳnh Vinh" />
-    </node>
-    <node id="13956682360" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-epass-complete-13956682360" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao Tân Vũ, Bạch Đằng, Đình Vũ" />
-    </node>
-    <node id="13603305908" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-epass-complete-13603305908" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao Thiệu Giang" />
-    </node>
-    <node id="13594672354" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-epass-complete-13594672354" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao TL720" />
-    </node>
-    <node id="12579076280" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-epass-complete-12579076280" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Nút giao Vạn Thiện" />
-    </node>
-    <node id="12600009197" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-epass-complete-12600009197" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="QL 38" />
-    </node>
-    <node id="6221327319" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-gmaps-chijzt0yfhjfsjere2wnmcahp3w" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Việt Hưng" />
-    </node>
-    <node id="13453097924" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-epass-complete-13453097924" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Phước An" />
-    </node>
-    <node id="6859613339" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-epass-complete-6859613339" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="Lái Thiêu" />
-    </node>
-    <node id="12768722574" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-epass-complete-12768722574" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_osm_id" />
-      <tag k="maps_vietnam:epass:name" v="KM5" />
+    <node id="1182173344" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Hạc Trì" />
     </node>
     <node id="11829703708" version="1" action="modify">
-      <tag k="fee:epass" v="yes" />
-      <tag k="fee:epass:source" v="giaothongso.com.vn" />
-      <tag k="fee:epass:updated" v="2026-06-22" />
-      <tag k="maps_vietnam:epass:clean_id" v="vn-toll-osm-raw-11829703708" />
-      <tag k="maps_vietnam:epass:match_status" v="matched_ticket_raw" />
-      <tag k="maps_vietnam:epass:name" v="Trạm Thu phí Cam Ranh" />
+      <tag k="name" v="Trạm Thu phí Cam Ranh" />
+    </node>
+    <node id="11829703711" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Du Long" />
+    </node>
+    <node id="1183845008" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hoàng Mai" />
+    </node>
+    <node id="11865554273" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Vĩnh Hảo" />
+    </node>
+    <node id="11866479440" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đại Ninh" />
+    </node>
+    <node id="11910194124" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Diên Thọ" />
+    </node>
+    <node id="11938173243" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nghi Phương" />
+    </node>
+    <node id="11946078822" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bình Giang" />
+    </node>
+    <node id="12103925344" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Long Thới" />
+    </node>
+    <node id="1225570745" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cai Lậy" />
+    </node>
+    <node id="1225571951" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí tuyến tránh TX Cai Lậy" />
+    </node>
+    <node id="12323861336" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Bạch Đằng" />
+    </node>
+    <node id="12369764927" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bắc Thăng Long - Nội Bài" />
+    </node>
+    <node id="12450564745" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí BOT Hưng Tây" />
+    </node>
+    <node id="12452756354" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Xuân Mai - Hòa Bình" />
+    </node>
+    <node id="12462757073" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Long Trường" />
+    </node>
+    <node id="1254808120" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Thuận Phú" />
+    </node>
+    <node id="12579076280" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Vạn Thiện (Nhánh 2)" />
+    </node>
+    <node id="12600009196" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Quốc lộ 8A" />
+    </node>
+    <node id="12600009197" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tân Phúc - Bãi Sậy" />
+    </node>
+    <node id="12645469228" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Suối Dầu" />
+    </node>
+    <node id="12723387255" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bắc Quảng Ngãi" />
+    </node>
+    <node id="12725719649" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Chu Lai" />
+    </node>
+    <node id="12725730599" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cao Bồ" />
+    </node>
+    <node id="1274537951" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nam Cầu Giẽ" />
+    </node>
+    <node id="12768722574" version="1" action="modify">
+      <tag k="name" v="Trạm Thu phí Km5+783" />
+    </node>
+    <node id="12786478148" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cẩm Phả" />
+    </node>
+    <node id="12788166743" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí quốc lộ 18 - Đại Yên" />
+    </node>
+    <node id="12866199543" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí số 03" />
+    </node>
+    <node id="1288554747" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí cao tốc bến lức - Long Thành (quốc lộ 51)" />
+    </node>
+    <node id="1288834243" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Mỹ Yên" />
+    </node>
+    <node id="1308093769" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Thân Cửu Nghĩa" />
+    </node>
+    <node id="13148658999" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Phú Cường" />
+    </node>
+    <node id="1316305913" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí cao tốc Hạ Long - Vân Đồn" />
+    </node>
+    <node id="1324667567" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí cao tốc Hà Nội - Hải Phòng - Văn Giang" />
+    </node>
+    <node id="1329842882" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Km 6 cao tốc Hà Nội - Lào Cai" />
+    </node>
+    <node id="1329847084" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Dương Kinh" />
+    </node>
+    <node id="1330194837" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Pháp Vân" />
+    </node>
+    <node id="13453097924" version="1" action="modify">
+      <tag k="name" v="Trạm BOT cảng Phước An" />
+    </node>
+    <node id="13457949977" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nút giao Cẩm Mỹ" />
+    </node>
+    <node id="13457949978" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nút giao Xuân Lộc" />
+    </node>
+    <node id="13551007072" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Thị Trấn Vôi" />
+    </node>
+    <node id="13594609049" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí An Hữu - cao tốc Mỹ Thuận - Cần Thơ" />
+    </node>
+    <node id="13594672354" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí TL720" />
+    </node>
+    <node id="13594711865" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Ma Lâm" />
+    </node>
+    <node id="13594729844" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Km 133+770" />
+    </node>
+    <node id="13602049340" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Phả Lại" />
+    </node>
+    <node id="13603297967" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nút giao Mai Sơn" />
+    </node>
+    <node id="13603297970" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đồng Giao" />
+    </node>
+    <node id="13603297974" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hà Trung" />
+    </node>
+    <node id="13603297981" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tống Sơn (Hà Lĩnh cũ)" />
+    </node>
+    <node id="13603305908" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Thiệu Giang" />
+    </node>
+    <node id="13603305910" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đông Xuân" />
+    </node>
+    <node id="13603305911" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nút giao Đồng Thắng" />
+    </node>
+    <node id="13603305917" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí BOT Nút giao Nghi Sơn" />
+    </node>
+    <node id="13603305920" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nút giao Quỳnh Lưu" />
+    </node>
+    <node id="13603305924" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nút giao Quỳnh Vinh" />
+    </node>
+    <node id="13603305927" version="1" action="modify">
+      <tag k="name" v="Nút giao Diễn Cát, Diễn Châu, Nghệ An" />
+    </node>
+    <node id="1374419109" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Quảng Ngãi" />
+    </node>
+    <node id="1374419129" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hà Lam" />
+    </node>
+    <node id="1374419135" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Phong Thử" />
+    </node>
+    <node id="1374421271" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Liêm Tuyền" />
+    </node>
+    <node id="13906136880" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Km 430+500" />
+    </node>
+    <node id="13954067960" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Km 124+720 Quốc lộ 19" />
+    </node>
+    <node id="13955413679" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Liên Đầm" />
+    </node>
+    <node id="13955471075" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Phố Lu (IC17)" />
+    </node>
+    <node id="13956682360" version="1" action="modify">
+      <tag k="name" v="Trạm cao tốc Hà Nội - Hải Phòng (Đình Vũ)" />
+    </node>
+    <node id="1403291202" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Định An" />
+    </node>
+    <node id="1410065457" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cai Chanh" />
+    </node>
+    <node id="1482412311" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cái Bè" />
+    </node>
+    <node id="1482439056" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nút Giao Ba Bàu" />
+    </node>
+    <node id="1482468507" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Phan Rang" />
+    </node>
+    <node id="1482474233" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cam Lâm" />
+    </node>
+    <node id="1483324798" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đồng Đăng" />
+    </node>
+    <node id="1483440868" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tiên Yên" />
+    </node>
+    <node id="1483440869" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đầm Hà" />
+    </node>
+    <node id="1483440873" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Móng Cái" />
+    </node>
+    <node id="1483838042" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí An Lão" />
+    </node>
+    <node id="1484967644" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Thường Tín" />
+    </node>
+    <node id="1508894331" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Quốc lộ 14 - BP" />
+    </node>
+    <node id="1588276876" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Sông Phan" />
+    </node>
+    <node id="176792793" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tân Khai" />
+    </node>
+    <node id="2174037722" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Quốc lộ 17B" />
+    </node>
+    <node id="2214428847" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bến Lức" />
+    </node>
+    <node id="2326748263" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Vực Vòng" />
+    </node>
+    <node id="2581153386" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Mỹ Lộc" />
+    </node>
+    <node id="3008944938" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tam Đảo (IC4)" />
+    </node>
+    <node id="3516472469" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đông Hà" />
+    </node>
+    <node id="3992131737" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Phù Ninh (IC8)" />
+    </node>
+    <node id="4086614472" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cam Thịnh" />
+    </node>
+    <node id="4686546644" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Yên Mỹ" />
+    </node>
+    <node id="481837637" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Số 1 - Quốc lộ 5" />
+    </node>
+    <node id="4965039224" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Việt Trì (IC7)" />
+    </node>
+    <node id="5003536551" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Ô Môn" />
+    </node>
+    <node id="5606336350" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Quốc lộ 51" />
+    </node>
+    <node id="5930290765" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Gia Lộc" />
+    </node>
+    <node id="6221325028" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí IC Cẩm Y" />
+    </node>
+    <node id="6221327319" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí cao tốc Hạ Long - Vân Đồn" />
+    </node>
+    <node id="631536968" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Long Phước" />
+    </node>
+    <node id="6425386072" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Vạn Điểm" />
+    </node>
+    <node id="6427220541" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đồng Lá" />
+    </node>
+    <node id="6554465773" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Văn Quán (IC6)" />
+    </node>
+    <node id="6554485169" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Sai Nga (IC10)" />
+    </node>
+    <node id="6554530141" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hạ Hoà (IC11)" />
+    </node>
+    <node id="6554701337" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Xuân Giao (IC18)" />
+    </node>
+    <node id="6554703289" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Văn Bàn (IC16)" />
+    </node>
+    <node id="6563222996" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Văn Lang" />
+    </node>
+    <node id="668471135" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Ea Đar" />
+    </node>
+    <node id="668605383" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí hầm Hải Vân" />
+    </node>
+    <node id="668714123" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí TASCO Quảng Bình" />
+    </node>
+    <node id="6775351396" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Xa Lộ Hà Nội" />
+    </node>
+    <node id="6837952271" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Km 45 - cao tốc Bắc - Nam phía Đông (Bắc Giang - Lạng Sơn)" />
+    </node>
+    <node id="6837952528" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hồ Sơn" />
+    </node>
+    <node id="6837953118" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Quốc lộ 37" />
+    </node>
+    <node id="6837953448" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Km 104 cao tốc Bắc Giang - Lạng Sơn" />
+    </node>
+    <node id="6838027406" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Quốc lộ 279" />
+    </node>
+    <node id="6856306592" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hoà Phước" />
+    </node>
+    <node id="6859613339" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Lái Thiêu" />
+    </node>
+    <node id="6860166455" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Phú Bài" />
+    </node>
+    <node id="6860284192" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tam Kỳ" />
+    </node>
+    <node id="6860315448" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tư Nghĩa" />
+    </node>
+    <node id="6860612354" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Ninh Lộc" />
+    </node>
+    <node id="6860674132" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cà Ná" />
+    </node>
+    <node id="6862997895" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Hồ" />
+    </node>
+    <node id="6864061670" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tiên Cựu" />
+    </node>
+    <node id="6876859120" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí IC14" />
+    </node>
+    <node id="6877650786" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Phú Thọ (IC9)" />
+    </node>
+    <node id="6880975506" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Yên Bái (IC12)" />
+    </node>
+    <node id="6888345522" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Túy Loan" />
+    </node>
+    <node id="6950227536" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nam Bình Định" />
+    </node>
+    <node id="6970456533" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bình Xuyên (IC3)" />
+    </node>
+    <node id="8344470069" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đại Xuyên 2" />
+    </node>
+    <node id="8432045544" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bắc Bình Định" />
+    </node>
+    <node id="8436783101" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí An Dân" />
+    </node>
+    <node id="8544582973" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí cao tốc Hà Nội - Hải Phòng - Dương Kính" />
+    </node>
+    <node id="8579215378" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đường cao tốc Phan Thiết - Dầu Giây" />
+    </node>
+    <node id="8938682367" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Km 49+550 Quốc lộ 19" />
+    </node>
+    <node id="9201724261" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Chơn Thành" />
+    </node>
+    <node id="9301612561" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Số 2 - ĐT747A Km 1+670" />
+    </node>
+    <node id="9322484528" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí đường bộ số 1 DT743" />
+    </node>
+    <node id="9369335528" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Phú Hữu" />
+    </node>
+    <node id="9381034607" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cần Thơ - Phụng Hiệp" />
+    </node>
+    <node id="9697403773" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bình Chánh" />
+    </node>
+    <node id="9754127696" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí 319 HLD" />
+    </node>
+    <node id="9921799661" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu 110" />
     </node>
   </modify>
 </osmChange>
