@@ -1,578 +1,1284 @@
 <?xml version='1.0' encoding='utf-8'?>
 <osmChange version="0.6" generator="epass-fare-osc-crawler">
   <modify>
-    <node id="10001978675" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Thái Nguyên - Chợ Mới" />
+    <node id="13603305926" version="1" action="modify">
+      <tag k="name" v="Nút giao Diễn Cát, Diễn Châu, Nghệ An" />
     </node>
-    <node id="10030773244" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Số 3 - ĐT 747A Km 9+120" />
-    </node>
-    <node id="1006324193" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Dầu Giây" />
-    </node>
-    <node id="1007900115" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Vĩnh Phú" />
-    </node>
-    <node id="1010875691" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Bình Thung" />
-    </node>
-    <node id="1011243028" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Cầu Cổ Chiên" />
-    </node>
-    <node id="1012698037" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Thanh Lương" />
-    </node>
-    <node id="1012928174" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Suối Giữa" />
-    </node>
-    <node id="1017066822" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Cai Lậy" />
-    </node>
-    <node id="10185562123" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Số 2 - Quốc lộ 5" />
-    </node>
-    <node id="10196742008" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Đức Hoà" />
-    </node>
-    <node id="10198600410" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Toàn Mỹ 14 (Km 1807+500)" />
-    </node>
-    <node id="10198601713" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí An Hiệp" />
-    </node>
-    <node id="10198627130" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Bạc Liêu" />
-    </node>
-    <node id="10198842784" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Chư Sê" />
-    </node>
-    <node id="10198877242" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Cầu Bến Thuỷ 2" />
-    </node>
-    <node id="10198878792" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Bến Thủy" />
-    </node>
-    <node id="10198933880" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Đông Hưng" />
-    </node>
-    <node id="10198957829" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Cầu Yên Lệnh" />
-    </node>
-    <node id="1020149679" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Tân Lập" />
-    </node>
-    <node id="10236670094" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Dung Quất" />
-    </node>
-    <node id="1025088286" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Cầu Rạch Miễu" />
-    </node>
-    <node id="1038124365" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Tam Nông" />
-    </node>
-    <node id="10823778103" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Đường chuyên dùng vận chuyển VLXD Phước Tân (Trạm Phước Tân)" />
-    </node>
-    <node id="10826144165" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Đắk Song" />
-    </node>
-    <node id="10852800021" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Chợ Lầu" />
-    </node>
-    <node id="1090402313" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Số 2A - ĐT768" />
-    </node>
-    <node id="1093353487" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Trảng Bom" />
-    </node>
-    <node id="1095628565" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Hà Nội - Bắc Giang" />
-    </node>
-    <node id="1096685801" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí ĐT741" />
-    </node>
-    <node id="1098418720" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Cầu Phú Mỹ" />
-    </node>
-    <node id="10997783392" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Hải Hà" />
-    </node>
-    <node id="1101467778" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí An Sương - An Lạc" />
-    </node>
-    <node id="1105237556" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí đường Hòa Lạc - Hòa Bình" />
-    </node>
-    <node id="11183842756" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Cầu Móng Sến" />
-    </node>
-    <node id="11304967566" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Nút Giao TL765 Km 69+400" />
-    </node>
-    <node id="1156958867" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí hầm Cù Mông" />
+    <node id="13603305927" version="1" action="modify">
+      <tag k="name" v="Nút giao Diễn Cát, Diễn Châu, Nghệ An" />
     </node>
     <node id="11596377024" version="1" action="modify">
       <tag k="name" v="Nút giao Long Thành cao tốc Biên Hòa – Vũng Tàu" />
     </node>
-    <node id="11619047243" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Km 237 cao tốc Hà Nội - Lào Cai" />
+    <node id="10779240467" version="1" action="modify">
+      <tag k="name" v="Trạm Thu phí Bến Lức" />
     </node>
-    <node id="1172933249" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Bù Nho" />
+    <node id="10779240469" version="1" action="modify">
+      <tag k="name" v="Trạm Thu phí Bến Lức" />
     </node>
-    <node id="1173001123" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Cầu Mỹ Lợi" />
-    </node>
-    <node id="1175282468" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Quán Hàu" />
-    </node>
-    <node id="1177157173" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Hầm Đèo Cả" />
-    </node>
-    <node id="1178115953" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Ninh Xuân" />
-    </node>
-    <node id="11813154464" version="1" action="modify">
-      <tag k="name" v="Trạm Thu phí Quốc lộ 55" />
-    </node>
-    <node id="1182173344" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Cầu Hạc Trì" />
-    </node>
-    <node id="11829703708" version="1" action="modify">
-      <tag k="name" v="Trạm Thu phí Cam Ranh" />
-    </node>
-    <node id="11829703711" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Du Long" />
-    </node>
-    <node id="1183845008" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Hoàng Mai" />
-    </node>
-    <node id="11865554273" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Vĩnh Hảo" />
-    </node>
-    <node id="11866479440" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Đại Ninh" />
-    </node>
-    <node id="11910194124" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Diên Thọ" />
-    </node>
-    <node id="11938173243" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Nghi Phương" />
-    </node>
-    <node id="11946078822" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Bình Giang" />
-    </node>
-    <node id="12103925344" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Long Thới" />
-    </node>
-    <node id="1225570745" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Cai Lậy" />
-    </node>
-    <node id="1225571951" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí tuyến tránh TX Cai Lậy" />
-    </node>
-    <node id="12323861336" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Cầu Bạch Đằng" />
-    </node>
-    <node id="12369764927" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Bắc Thăng Long - Nội Bài" />
-    </node>
-    <node id="12450564745" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí BOT Hưng Tây" />
-    </node>
-    <node id="12452756354" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Xuân Mai - Hòa Bình" />
-    </node>
-    <node id="12462757073" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Long Trường" />
-    </node>
-    <node id="1254808120" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Thuận Phú" />
-    </node>
-    <node id="12579076280" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Vạn Thiện (Nhánh 2)" />
-    </node>
-    <node id="12600009196" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Quốc lộ 8A" />
-    </node>
-    <node id="12600009197" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Tân Phúc - Bãi Sậy" />
-    </node>
-    <node id="12645469228" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Suối Dầu" />
-    </node>
-    <node id="12723387255" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Bắc Quảng Ngãi" />
-    </node>
-    <node id="12725719649" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Chu Lai" />
-    </node>
-    <node id="12725730599" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Cao Bồ" />
-    </node>
-    <node id="1274537951" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Nam Cầu Giẽ" />
-    </node>
-    <node id="12768722574" version="1" action="modify">
-      <tag k="name" v="Trạm Thu phí Km5+783" />
-    </node>
-    <node id="12786478148" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Cẩm Phả" />
-    </node>
-    <node id="12788166743" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí quốc lộ 18 - Đại Yên" />
-    </node>
-    <node id="12866199543" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí số 03" />
-    </node>
-    <node id="1288554747" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí cao tốc bến lức - Long Thành (quốc lộ 51)" />
-    </node>
-    <node id="1288834243" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Mỹ Yên" />
-    </node>
-    <node id="1308093769" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Thân Cửu Nghĩa" />
-    </node>
-    <node id="13148658999" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Cầu Phú Cường" />
-    </node>
-    <node id="1316305913" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí cao tốc Hạ Long - Vân Đồn" />
-    </node>
-    <node id="1324667567" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí cao tốc Hà Nội - Hải Phòng - Văn Giang" />
-    </node>
-    <node id="1329842882" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Km 6 cao tốc Hà Nội - Lào Cai" />
-    </node>
-    <node id="1329847084" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Dương Kinh" />
-    </node>
-    <node id="1330194837" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Pháp Vân" />
+    <node id="9945302974" version="1" action="modify">
+      <tag k="name" v="Trạm Thu Phí Số 2A-ĐT768" />
     </node>
     <node id="13453097924" version="1" action="modify">
       <tag k="name" v="Trạm BOT cảng Phước An" />
     </node>
-    <node id="13457949977" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Nút giao Cẩm Mỹ" />
+    <node id="13956682360" version="1" action="modify">
+      <tag k="name" v="Trạm cao tốc Hà Nội - Hải Phòng (Đình Vũ)" />
     </node>
-    <node id="13457949978" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Nút giao Xuân Lộc" />
+    <node id="9865004499" version="1" action="modify">
+      <tag k="name" v="Trạm Thu phí 2B" />
     </node>
-    <node id="13551007072" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Thị Trấn Vôi" />
+    <node id="9865004504" version="1" action="modify">
+      <tag k="name" v="Trạm Thu phí 2B" />
+    </node>
+    <node id="9754127695" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí 319 HLD" />
+    </node>
+    <node id="9754127696" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí 319 HLD" />
+    </node>
+    <node id="8436783100" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí An Dân" />
+    </node>
+    <node id="8436783101" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí An Dân" />
+    </node>
+    <node id="10198601713" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí An Hiệp" />
+    </node>
+    <node id="8675816002" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí An Hiệp" />
+    </node>
+    <node id="13594609044" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí An Hữu - cao tốc Mỹ Thuận - Cần Thơ" />
     </node>
     <node id="13594609049" version="1" action="modify">
       <tag k="name" v="Trạm thu phí An Hữu - cao tốc Mỹ Thuận - Cần Thơ" />
     </node>
-    <node id="13594672354" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí TL720" />
+    <node id="3878471036" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí An Lão" />
     </node>
-    <node id="13594711865" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Ma Lâm" />
+    <node id="3878471037" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí An Lão" />
     </node>
-    <node id="13594729844" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Km 133+770" />
+    <node id="2241417025" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí An Sương - An Lạc" />
     </node>
-    <node id="13602049340" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Phả Lại" />
+    <node id="2241417026" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí An Sương - An Lạc" />
     </node>
-    <node id="13603297967" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Nút giao Mai Sơn" />
+    <node id="12450564745" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí BOT Hưng Tây" />
     </node>
-    <node id="13603297970" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Đồng Giao" />
-    </node>
-    <node id="13603297974" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Hà Trung" />
-    </node>
-    <node id="13603297981" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Tống Sơn (Hà Lĩnh cũ)" />
-    </node>
-    <node id="13603305908" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Thiệu Giang" />
-    </node>
-    <node id="13603305910" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Đông Xuân" />
-    </node>
-    <node id="13603305911" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Nút giao Đồng Thắng" />
+    <node id="12450595927" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí BOT Hưng Tây" />
     </node>
     <node id="13603305917" version="1" action="modify">
       <tag k="name" v="Trạm thu phí BOT Nút giao Nghi Sơn" />
     </node>
+    <node id="11946078822" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bình Giang" />
+    </node>
+    <node id="9326222155" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bình Thung" />
+    </node>
+    <node id="9326222156" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bình Thung" />
+    </node>
+    <node id="6970456533" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bình Xuyên (IC3)" />
+    </node>
+    <node id="6970456534" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bình Xuyên (IC3)" />
+    </node>
+    <node id="1172933249" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bù Nho" />
+      <tag k="barrier" v="toll_booth" />
+    </node>
+    <node id="10198627129" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bạc Liêu" />
+    </node>
+    <node id="10198627130" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bạc Liêu" />
+    </node>
+    <node id="8432045543" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bắc Bình Định" />
+    </node>
+    <node id="8432045544" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bắc Bình Định" />
+    </node>
+    <node id="12723387254" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bắc Quảng Ngãi" />
+    </node>
+    <node id="12723387255" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bắc Quảng Ngãi" />
+    </node>
+    <node id="12369764927" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bắc Thăng Long - Nội Bài" />
+    </node>
+    <node id="439439986" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bắc Thăng Long - Nội Bài" />
+    </node>
+    <node id="2214428847" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bến Lức" />
+    </node>
+    <node id="2214428862" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bến Lức" />
+    </node>
+    <node id="10198878791" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bến Thủy" />
+    </node>
+    <node id="10198878792" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Bến Thủy" />
+    </node>
+    <node id="10208878397" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cai Chanh" />
+    </node>
+    <node id="10208878402" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cai Chanh" />
+    </node>
+    <node id="10828855520" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cai Lậy" />
+    </node>
+    <node id="10828855521" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cai Lậy" />
+    </node>
+    <node id="9196802342" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cai Lậy" />
+    </node>
+    <node id="9381053362" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cai Lậy" />
+    </node>
+    <node id="11829703716" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cam Lâm" />
+    </node>
+    <node id="11910227077" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cam Lâm" />
+    </node>
+    <node id="11829703708" version="1" action="modify">
+      <tag k="name" v="Trạm Thu phí Cam Ranh" />
+    </node>
+    <node id="11829703709" version="1" action="modify">
+      <tag k="name" v="Trạm Thu phí Cam Ranh" />
+    </node>
+    <node id="4086614472" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cam Thịnh" />
+    </node>
+    <node id="677353918" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cam Thịnh" />
+    </node>
+    <node id="12725730575" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cao Bồ" />
+    </node>
+    <node id="12725730599" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cao Bồ" />
+    </node>
+    <node id="12725730619" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cao Bồ" />
+    </node>
+    <node id="12725730624" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cao Bồ" />
+    </node>
+    <node id="12725730671" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cao Bồ" />
+    </node>
+    <node id="12725730679" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cao Bồ" />
+    </node>
+    <node id="11949138224" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí cao tốc bến lức - Long Thành (quốc lộ 51)" />
+    </node>
+    <node id="11949138225" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí cao tốc bến lức - Long Thành (quốc lộ 51)" />
+    </node>
+    <node id="8544582973" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí cao tốc Hà Nội - Hải Phòng - Dương Kính" />
+    </node>
+    <node id="5677851484" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí cao tốc Hà Nội - Hải Phòng - Văn Giang" />
+    </node>
+    <node id="5677851485" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí cao tốc Hà Nội - Hải Phòng - Văn Giang" />
+    </node>
+    <node id="5610214589" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí cao tốc Hạ Long - Vân Đồn" />
+    </node>
+    <node id="5610215373" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí cao tốc Hạ Long - Vân Đồn" />
+    </node>
+    <node id="12725719644" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Chu Lai" />
+    </node>
+    <node id="12725719649" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Chu Lai" />
+    </node>
+    <node id="9201724260" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Chơn Thành" />
+    </node>
+    <node id="9201724261" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Chơn Thành" />
+    </node>
+    <node id="10198842783" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Chư Sê" />
+    </node>
+    <node id="10198842784" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Chư Sê" />
+    </node>
+    <node id="10852800021" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Chợ Lầu" />
+    </node>
+    <node id="10852800032" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Chợ Lầu" />
+    </node>
+    <node id="13594729809" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Chợ Lầu" />
+    </node>
+    <node id="13594729820" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Chợ Lầu" />
+    </node>
+    <node id="6860674126" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cà Ná" />
+    </node>
+    <node id="6860674132" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cà Ná" />
+    </node>
+    <node id="10222717444" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cái Bè" />
+    </node>
+    <node id="10222717445" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cái Bè" />
+    </node>
+    <node id="9381034606" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cần Thơ - Phụng Hiệp" />
+    </node>
+    <node id="9381034607" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cần Thơ - Phụng Hiệp" />
+    </node>
+    <node id="9921799661" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu 110" />
+    </node>
+    <node id="12323861335" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Bạch Đằng" />
+    </node>
+    <node id="12323861336" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Bạch Đằng" />
+    </node>
+    <node id="12323861337" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Bạch Đằng" />
+    </node>
+    <node id="12323861345" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Bạch Đằng" />
+    </node>
+    <node id="12323861346" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Bạch Đằng" />
+    </node>
+    <node id="12323861347" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Bạch Đằng" />
+    </node>
+    <node id="9524153629" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Bạch Đằng" />
+    </node>
+    <node id="9524153630" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Bạch Đằng" />
+    </node>
+    <node id="10198877241" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Bến Thuỷ 2" />
+    </node>
+    <node id="10198877242" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Bến Thuỷ 2" />
+    </node>
+    <node id="9329719956" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Cổ Chiên" />
+    </node>
+    <node id="4910831731" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Hạc Trì" />
+    </node>
+    <node id="4910831754" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Hạc Trì" />
+    </node>
+    <node id="12288441185" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Hồ" />
+    </node>
+    <node id="12288441186" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Hồ" />
+    </node>
+    <node id="12309550425" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Hồ" />
+    </node>
+    <node id="12309550435" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Hồ" />
+    </node>
+    <node id="6862997895" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Hồ" />
+    </node>
+    <node id="6862997896" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Hồ" />
+    </node>
+    <node id="11141021752" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Móng Sến" />
+    </node>
+    <node id="11183842756" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Móng Sến" />
+    </node>
+    <node id="10898771282" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Mỹ Lợi" />
+    </node>
+    <node id="10898771287" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Mỹ Lợi" />
+    </node>
+    <node id="11115627566" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Phú Cường" />
+    </node>
+    <node id="11458540415" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Phú Cường" />
+    </node>
+    <node id="12712095479" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Phú Cường" />
+    </node>
+    <node id="13148658999" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Phú Cường" />
+    </node>
+    <way id="1098418720" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Phú Mỹ" />
+    </way>
+    <node id="4585001580" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Rạch Miễu" />
+    </node>
+    <node id="8819705000" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Rạch Miễu" />
+    </node>
+    <node id="11155182564" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Văn Lang" />
+    </node>
+    <node id="6563222996" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Văn Lang" />
+    </node>
+    <node id="10198957829" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Yên Lệnh" />
+    </node>
+    <node id="6611106749" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cầu Yên Lệnh" />
+    </node>
+    <node id="12786478146" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cẩm Phả" />
+    </node>
+    <node id="12786478147" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cẩm Phả" />
+    </node>
+    <node id="12786478148" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cẩm Phả" />
+    </node>
+    <node id="12786478149" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cẩm Phả" />
+    </node>
+    <node id="12786478150" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Cẩm Phả" />
+    </node>
+    <node id="11910194124" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Diên Thọ" />
+    </node>
+    <node id="11910194125" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Diên Thọ" />
+    </node>
+    <node id="11829703710" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Du Long" />
+    </node>
+    <node id="11829703711" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Du Long" />
+    </node>
+    <node id="10236670094" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Dung Quất" />
+    </node>
+    <node id="10236670095" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Dung Quất" />
+    </node>
+    <node id="10156874568" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Dương Kinh" />
+    </node>
+    <node id="10739323562" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Dương Kinh" />
+    </node>
+    <node id="6425303961" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Dầu Giây" />
+    </node>
+    <node id="6425303962" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Dầu Giây" />
+    </node>
+    <node id="668471135" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Ea Đar" />
+    </node>
+    <node id="5930290765" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Gia Lộc" />
+    </node>
+    <node id="6856306592" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hoà Phước" />
+    </node>
+    <node id="6856306593" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hoà Phước" />
+    </node>
+    <node id="9177681180" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hoàng Mai" />
+    </node>
+    <node id="9177681181" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hoàng Mai" />
+    </node>
+    <node id="12725719691" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hà Lam" />
+    </node>
+    <node id="12725719694" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hà Lam" />
+    </node>
+    <node id="12269366786" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hà Nội - Bắc Giang" />
+    </node>
+    <node id="12307394543" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hà Nội - Bắc Giang" />
+    </node>
+    <node id="8201927996" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hà Nội - Bắc Giang" />
+    </node>
+    <node id="13603297973" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hà Trung" />
+    </node>
+    <node id="13603297974" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hà Trung" />
+    </node>
+    <node id="6554530141" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hạ Hoà (IC11)" />
+    </node>
+    <node id="6876788609" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hạ Hoà (IC11)" />
+    </node>
+    <node id="10997783392" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hải Hà" />
+    </node>
+    <node id="11860353642" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hải Hà" />
+    </node>
+    <node id="11266480548" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí hầm Cù Mông" />
+    </node>
+    <node id="11266480549" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí hầm Cù Mông" />
+    </node>
+    <node id="668605383" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí hầm Hải Vân" />
+    </node>
+    <node id="6860231502" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí hầm Hải Vân" />
+    </node>
+    <node id="6602333959" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hầm Đèo Cả" />
+    </node>
+    <node id="6860620361" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hầm Đèo Cả" />
+    </node>
+    <node id="6837952502" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hồ Sơn" />
+    </node>
+    <node id="6837952528" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Hồ Sơn" />
+    </node>
+    <node id="6221325013" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí IC Cẩm Y" />
+    </node>
+    <node id="6221325028" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí IC Cẩm Y" />
+    </node>
+    <node id="6876859119" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí IC14" />
+    </node>
+    <node id="6876859120" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí IC14" />
+    </node>
+    <node id="6837953446" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Km 104 cao tốc Bắc Giang - Lạng Sơn" />
+    </node>
+    <node id="6837953448" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Km 104 cao tốc Bắc Giang - Lạng Sơn" />
+    </node>
+    <node id="13954067960" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Km 124+720 Quốc lộ 19" />
+    </node>
+    <node id="13594729844" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Km 133+770" />
+    </node>
+    <node id="13906102268" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Km 133+770" />
+    </node>
+    <node id="11619047243" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Km 237 cao tốc Hà Nội - Lào Cai" />
+    </node>
+    <node id="11619047244" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Km 237 cao tốc Hà Nội - Lào Cai" />
+    </node>
+    <node id="12304058931" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Km 237 cao tốc Hà Nội - Lào Cai" />
+    </node>
+    <node id="13906136880" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Km 430+500" />
+    </node>
+    <node id="13906136881" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Km 430+500" />
+    </node>
+    <node id="6837952271" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Km 45 - cao tốc Bắc - Nam phía Đông (Bắc Giang - Lạng Sơn)" />
+    </node>
+    <node id="6837952272" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Km 45 - cao tốc Bắc - Nam phía Đông (Bắc Giang - Lạng Sơn)" />
+    </node>
+    <node id="7698662805" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Km 49+550 Quốc lộ 19" />
+    </node>
+    <node id="7698662812" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Km 49+550 Quốc lộ 19" />
+    </node>
+    <node id="8938682367" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Km 49+550 Quốc lộ 19" />
+    </node>
+    <node id="4917239865" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Km 6 cao tốc Hà Nội - Lào Cai" />
+    </node>
+    <node id="6554443561" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Km 6 cao tốc Hà Nội - Lào Cai" />
+    </node>
+    <node id="12768722574" version="1" action="modify">
+      <tag k="name" v="Trạm Thu phí Km5+783" />
+    </node>
+    <node id="12725711251" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Liêm Tuyền" />
+    </node>
+    <node id="12725730687" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Liêm Tuyền" />
+    </node>
+    <node id="12725730708" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Liêm Tuyền" />
+    </node>
+    <node id="12725730710" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Liêm Tuyền" />
+    </node>
+    <node id="13955413679" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Liên Đầm" />
+    </node>
+    <node id="2592830364" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Long Phước" />
+    </node>
+    <node id="2592845362" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Long Phước" />
+    </node>
+    <node id="12103925331" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Long Thới" />
+    </node>
+    <node id="12103925344" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Long Thới" />
+    </node>
+    <node id="12462757073" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Long Trường" />
+    </node>
+    <node id="12462757074" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Long Trường" />
+    </node>
+    <node id="13594711865" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Ma Lâm" />
+    </node>
+    <node id="13594711866" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Ma Lâm" />
+    </node>
+    <node id="13594711877" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Ma Lâm" />
+    </node>
+    <node id="13594711878" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Ma Lâm" />
+    </node>
+    <node id="8069201958" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Móng Cái" />
+    </node>
+    <node id="8069202011" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Móng Cái" />
+    </node>
+    <node id="2581153384" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Mỹ Lộc" />
+    </node>
+    <node id="2581153386" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Mỹ Lộc" />
+    </node>
+    <node id="9865004497" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Mỹ Yên" />
+    </node>
+    <node id="9865004498" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Mỹ Yên" />
+    </node>
+    <node id="6950227536" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nam Bình Định" />
+    </node>
+    <node id="1274537951" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nam Cầu Giẽ" />
+    </node>
+    <node id="1785097877" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nam Cầu Giẽ" />
+    </node>
+    <node id="11938173242" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nghi Phương" />
+    </node>
+    <node id="11938173243" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nghi Phương" />
+    </node>
+    <node id="4083168857" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Ninh Lộc" />
+    </node>
+    <node id="6860612354" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Ninh Lộc" />
+    </node>
+    <node id="10944187635" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Ninh Xuân" />
+    </node>
+    <node id="7311724609" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Ninh Xuân" />
+    </node>
+    <node id="10931263005" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nút Giao Ba Bàu" />
+    </node>
+    <node id="13459444107" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nút Giao Ba Bàu" />
+    </node>
+    <node id="13594672376" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nút Giao Ba Bàu" />
+    </node>
+    <node id="13594672377" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nút Giao Ba Bàu" />
+    </node>
+    <node id="13457949977" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nút giao Cẩm Mỹ" />
+    </node>
+    <node id="13603297967" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nút giao Mai Sơn" />
+    </node>
     <node id="13603305920" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nút giao Quỳnh Lưu" />
+    </node>
+    <node id="13603305921" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Nút giao Quỳnh Lưu" />
     </node>
     <node id="13603305924" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Nút giao Quỳnh Vinh" />
     </node>
-    <node id="13603305927" version="1" action="modify">
-      <tag k="name" v="Nút giao Diễn Cát, Diễn Châu, Nghệ An" />
+    <node id="13603305925" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nút giao Quỳnh Vinh" />
     </node>
-    <node id="1374419109" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Quảng Ngãi" />
+    <node id="11304967563" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nút Giao TL765 Km 69+400" />
     </node>
-    <node id="1374419129" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Hà Lam" />
+    <node id="11304967566" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nút Giao TL765 Km 69+400" />
     </node>
-    <node id="1374419135" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Phong Thử" />
+    <node id="13457949978" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nút giao Xuân Lộc" />
+      <tag k="barrier" v="toll_booth" />
     </node>
-    <node id="1374421271" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Liêm Tuyền" />
+    <node id="13457949979" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nút giao Xuân Lộc" />
     </node>
-    <node id="13906136880" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Km 430+500" />
+    <node id="13603305911" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nút giao Đồng Thắng" />
     </node>
-    <node id="13954067960" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Km 124+720 Quốc lộ 19" />
+    <node id="13603305912" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nút giao Đồng Thắng" />
     </node>
-    <node id="13955413679" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Liên Đầm" />
-    </node>
-    <node id="13955471075" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Phố Lu (IC17)" />
-    </node>
-    <node id="13956682360" version="1" action="modify">
-      <tag k="name" v="Trạm cao tốc Hà Nội - Hải Phòng (Đình Vũ)" />
-    </node>
-    <node id="1403291202" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Định An" />
-    </node>
-    <node id="1410065457" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Cai Chanh" />
-    </node>
-    <node id="1482412311" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Cái Bè" />
-    </node>
-    <node id="1482439056" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Nút Giao Ba Bàu" />
-    </node>
-    <node id="1482468507" version="1" action="modify">
+    <node id="11829703712" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Phan Rang" />
     </node>
-    <node id="1482474233" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Cam Lâm" />
+    <node id="11829703713" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Phan Rang" />
     </node>
-    <node id="1483324798" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Đồng Đăng" />
+    <node id="11829703714" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Phan Rang" />
     </node>
-    <node id="1483440868" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Tiên Yên" />
+    <node id="11829703715" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Phan Rang" />
     </node>
-    <node id="1483440869" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Đầm Hà" />
+    <node id="12725730524" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Phong Thử" />
     </node>
-    <node id="1483440873" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Móng Cái" />
+    <node id="12725730529" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Phong Thử" />
     </node>
-    <node id="1483838042" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí An Lão" />
+    <node id="12307429052" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Pháp Vân" />
     </node>
-    <node id="1484967644" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Thường Tín" />
-    </node>
-    <node id="1508894331" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Quốc lộ 14 - BP" />
-    </node>
-    <node id="1588276876" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Sông Phan" />
-    </node>
-    <node id="176792793" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Tân Khai" />
-    </node>
-    <node id="2174037722" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Quốc lộ 17B" />
-    </node>
-    <node id="2214428847" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Bến Lức" />
-    </node>
-    <node id="2326748263" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Vực Vòng" />
-    </node>
-    <node id="2581153386" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Mỹ Lộc" />
-    </node>
-    <node id="3008944938" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Tam Đảo (IC4)" />
-    </node>
-    <node id="3516472469" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Đông Hà" />
+    <node id="6425378444" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Pháp Vân" />
     </node>
     <node id="3992131737" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Phù Ninh (IC8)" />
     </node>
-    <node id="4086614472" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Cam Thịnh" />
+    <node id="4911856190" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Phù Ninh (IC8)" />
     </node>
-    <node id="4686546644" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Yên Mỹ" />
-    </node>
-    <node id="481837637" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Số 1 - Quốc lộ 5" />
-    </node>
-    <node id="4965039224" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Việt Trì (IC7)" />
-    </node>
-    <node id="5003536551" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Ô Môn" />
-    </node>
-    <node id="5606336350" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Quốc lộ 51" />
-    </node>
-    <node id="5930290765" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Gia Lộc" />
-    </node>
-    <node id="6221325028" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí IC Cẩm Y" />
-    </node>
-    <node id="6221327319" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí cao tốc Hạ Long - Vân Đồn" />
-    </node>
-    <node id="631536968" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Long Phước" />
-    </node>
-    <node id="6425386072" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Vạn Điểm" />
-    </node>
-    <node id="6427220541" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Đồng Lá" />
-    </node>
-    <node id="6554465773" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Văn Quán (IC6)" />
-    </node>
-    <node id="6554485169" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Sai Nga (IC10)" />
-    </node>
-    <node id="6554530141" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Hạ Hoà (IC11)" />
-    </node>
-    <node id="6554701337" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Xuân Giao (IC18)" />
-    </node>
-    <node id="6554703289" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Văn Bàn (IC16)" />
-    </node>
-    <node id="6563222996" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Cầu Văn Lang" />
-    </node>
-    <node id="668471135" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Ea Đar" />
-    </node>
-    <node id="668605383" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí hầm Hải Vân" />
-    </node>
-    <node id="668714123" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí TASCO Quảng Bình" />
-    </node>
-    <node id="6775351396" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Xa Lộ Hà Nội" />
-    </node>
-    <node id="6837952271" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Km 45 - cao tốc Bắc - Nam phía Đông (Bắc Giang - Lạng Sơn)" />
-    </node>
-    <node id="6837952528" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Hồ Sơn" />
-    </node>
-    <node id="6837953118" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Quốc lộ 37" />
-    </node>
-    <node id="6837953448" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Km 104 cao tốc Bắc Giang - Lạng Sơn" />
-    </node>
-    <node id="6838027406" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Quốc lộ 279" />
-    </node>
-    <node id="6856306592" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Hoà Phước" />
-    </node>
-    <node id="6859613339" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Lái Thiêu" />
+    <node id="1025708650" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Phú Bài" />
     </node>
     <node id="6860166455" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Phú Bài" />
     </node>
-    <node id="6860284192" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Tam Kỳ" />
-    </node>
-    <node id="6860315448" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Tư Nghĩa" />
-    </node>
-    <node id="6860612354" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Ninh Lộc" />
-    </node>
-    <node id="6860674132" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Cà Ná" />
-    </node>
-    <node id="6862997895" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Cầu Hồ" />
-    </node>
-    <node id="6864061670" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Tiên Cựu" />
-    </node>
-    <node id="6876859120" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí IC14" />
-    </node>
-    <node id="6877650786" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Phú Thọ (IC9)" />
-    </node>
-    <node id="6880975506" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Yên Bái (IC12)" />
-    </node>
-    <node id="6888345522" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Túy Loan" />
-    </node>
-    <node id="6950227536" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Nam Bình Định" />
-    </node>
-    <node id="6970456533" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Bình Xuyên (IC3)" />
-    </node>
-    <node id="8344470069" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Đại Xuyên 2" />
-    </node>
-    <node id="8432045544" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Bắc Bình Định" />
-    </node>
-    <node id="8436783101" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí An Dân" />
-    </node>
-    <node id="8544582973" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí cao tốc Hà Nội - Hải Phòng - Dương Kính" />
-    </node>
-    <node id="8579215378" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Đường cao tốc Phan Thiết - Dầu Giây" />
-    </node>
-    <node id="8938682367" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Km 49+550 Quốc lộ 19" />
-    </node>
-    <node id="9201724261" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Chơn Thành" />
-    </node>
-    <node id="9301612561" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Số 2 - ĐT747A Km 1+670" />
-    </node>
-    <node id="9322484528" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí đường bộ số 1 DT743" />
+    <node id="9369335527" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Phú Hữu" />
     </node>
     <node id="9369335528" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Phú Hữu" />
     </node>
-    <node id="9381034607" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Cần Thơ - Phụng Hiệp" />
+    <node id="6877650786" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Phú Thọ (IC9)" />
     </node>
-    <node id="9697403773" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Bình Chánh" />
+    <node id="6877650787" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Phú Thọ (IC9)" />
     </node>
-    <node id="9754127696" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí 319 HLD" />
+    <node id="13602049336" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Phả Lại" />
     </node>
-    <node id="9921799661" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Cầu 110" />
+    <node id="13602049337" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Phả Lại" />
+    </node>
+    <node id="13602049338" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Phả Lại" />
+    </node>
+    <node id="13602049339" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Phả Lại" />
+    </node>
+    <node id="13602049340" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Phả Lại" />
+    </node>
+    <node id="13602049341" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Phả Lại" />
+    </node>
+    <node id="13955471075" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Phố Lu (IC17)" />
+    </node>
+    <node id="13955474531" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Phố Lu (IC17)" />
+    </node>
+    <node id="12508683078" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Quán Hàu" />
+    </node>
+    <node id="12508683081" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Quán Hàu" />
+    </node>
+    <node id="12452632185" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Quảng Ngãi" />
+    </node>
+    <node id="5952153100" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Quảng Ngãi" />
+    </node>
+    <node id="1508894331" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Quốc lộ 14 - BP" />
+    </node>
+    <node id="10206196266" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Quốc lộ 17B" />
+    </node>
+    <node id="2174037722" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Quốc lộ 17B" />
+    </node>
+    <node id="10206196463" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí quốc lộ 18 - Đại Yên" />
+    </node>
+    <node id="12788166736" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí quốc lộ 18 - Đại Yên" />
+    </node>
+    <node id="12788166737" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí quốc lộ 18 - Đại Yên" />
+    </node>
+    <node id="12788166738" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí quốc lộ 18 - Đại Yên" />
+    </node>
+    <node id="12788166739" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí quốc lộ 18 - Đại Yên" />
+    </node>
+    <node id="12788166740" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí quốc lộ 18 - Đại Yên" />
+    </node>
+    <node id="12788166741" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí quốc lộ 18 - Đại Yên" />
+    </node>
+    <node id="12788166742" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí quốc lộ 18 - Đại Yên" />
+    </node>
+    <node id="12788166743" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí quốc lộ 18 - Đại Yên" />
+    </node>
+    <node id="6347268130" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí quốc lộ 18 - Đại Yên" />
+    </node>
+    <node id="6838027391" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Quốc lộ 279" />
+    </node>
+    <node id="6838027406" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Quốc lộ 279" />
+    </node>
+    <node id="6837953118" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Quốc lộ 37" />
+    </node>
+    <node id="6837953137" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Quốc lộ 37" />
+    </node>
+    <node id="2976056988" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Quốc lộ 51" />
+    </node>
+    <node id="5606336350" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Quốc lộ 51" />
+    </node>
+    <node id="5964362021" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Quốc lộ 51" />
+    </node>
+    <node id="11813154461" version="1" action="modify">
+      <tag k="name" v="Trạm Thu phí Quốc lộ 55" />
+    </node>
+    <node id="11813154462" version="1" action="modify">
+      <tag k="name" v="Trạm Thu phí Quốc lộ 55" />
+    </node>
+    <node id="11813154463" version="1" action="modify">
+      <tag k="name" v="Trạm Thu phí Quốc lộ 55" />
+    </node>
+    <node id="11813154464" version="1" action="modify">
+      <tag k="name" v="Trạm Thu phí Quốc lộ 55" />
+    </node>
+    <node id="12600009195" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Quốc lộ 8A" />
+    </node>
+    <node id="12600009196" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Quốc lộ 8A" />
+    </node>
+    <node id="12645469227" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Suối Dầu" />
+    </node>
+    <node id="12645469228" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Suối Dầu" />
+    </node>
+    <node id="1410617877" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Suối Giữa" />
+    </node>
+    <node id="1410617983" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Suối Giữa" />
+    </node>
+    <node id="1588276876" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Sông Phan" />
+    </node>
+    <node id="7755579004" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Sông Phan" />
+    </node>
+    <node id="12866199542" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí số 03" />
+    </node>
+    <node id="12866199543" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí số 03" />
+    </node>
+    <node id="12309517555" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Số 1 - Quốc lộ 5" />
+    </node>
+    <node id="12309517556" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Số 1 - Quốc lộ 5" />
+    </node>
+    <node id="12309517557" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Số 1 - Quốc lộ 5" />
+    </node>
+    <node id="12309517558" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Số 1 - Quốc lộ 5" />
+    </node>
+    <node id="12309517563" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Số 1 - Quốc lộ 5" />
+    </node>
+    <node id="12309517564" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Số 1 - Quốc lộ 5" />
+    </node>
+    <node id="4780704122" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Số 1 - Quốc lộ 5" />
+    </node>
+    <node id="481837637" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Số 1 - Quốc lộ 5" />
+    </node>
+    <node id="10185562123" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Số 2 - Quốc lộ 5" />
+    </node>
+    <node id="9301612560" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Số 2 - ĐT747A Km 1+670" />
+    </node>
+    <node id="9301612561" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Số 2 - ĐT747A Km 1+670" />
+    </node>
+    <node id="10030773244" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Số 3 - ĐT 747A Km 9+120" />
+    </node>
+    <node id="10030773245" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Số 3 - ĐT 747A Km 9+120" />
+    </node>
+    <node id="6860284191" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tam Kỳ" />
+    </node>
+    <node id="6860284192" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tam Kỳ" />
+    </node>
+    <node id="9561565207" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tam Nông" />
+    </node>
+    <node id="9561565208" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tam Nông" />
+    </node>
+    <node id="3008931528" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tam Đảo (IC4)" />
+    </node>
+    <node id="3008944938" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tam Đảo (IC4)" />
+    </node>
+    <node id="668714123" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí TASCO Quảng Bình" />
+    </node>
+    <node id="9342995380" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Thanh Lương" />
+    </node>
+    <node id="9342995387" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Thanh Lương" />
+    </node>
+    <node id="13603305908" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Thiệu Giang" />
+    </node>
+    <node id="11664673965" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Thuận Phú" />
+    </node>
+    <node id="11664675878" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Thuận Phú" />
+    </node>
+    <node id="10001978672" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Thái Nguyên - Chợ Mới" />
+    </node>
+    <node id="10001978675" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Thái Nguyên - Chợ Mới" />
+    </node>
+    <node id="10997784001" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Thân Cửu Nghĩa" />
+    </node>
+    <node id="10997784002" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Thân Cửu Nghĩa" />
+    </node>
+    <node id="12511892749" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Thân Cửu Nghĩa" />
+    </node>
+    <node id="2664649961" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Thân Cửu Nghĩa" />
+    </node>
+    <node id="2664649964" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Thân Cửu Nghĩa" />
+    </node>
+    <node id="9329863073" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Thân Cửu Nghĩa" />
+    </node>
+    <node id="12511892748" version="1" action="modify">
+      <tag k="name" v="Trạm Thu phí Thân Cửu Nghĩa" />
+    </node>
+    <node id="6880381075" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Thường Tín" />
+    </node>
+    <node id="6880381082" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Thường Tín" />
+    </node>
+    <node id="6880410841" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Thường Tín" />
+    </node>
+    <node id="6880410845" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Thường Tín" />
+    </node>
+    <node id="6864061670" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tiên Cựu" />
+    </node>
+    <node id="10997726246" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tiên Yên" />
+    </node>
+    <node id="10997759811" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tiên Yên" />
+    </node>
+    <node id="13594672353" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí TL720" />
+    </node>
+    <node id="13594672354" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí TL720" />
+    </node>
+    <node id="10198600410" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Toàn Mỹ 14 (Km 1807+500)" />
+    </node>
+    <node id="6859528658" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Trảng Bom" />
+    </node>
+    <node id="6859528659" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Trảng Bom" />
+    </node>
+    <node id="11365543153" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí tuyến tránh TX Cai Lậy" />
+    </node>
+    <node id="11365543157" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí tuyến tránh TX Cai Lậy" />
+    </node>
+    <node id="9201409503" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tân Khai" />
+    </node>
+    <node id="9201409504" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tân Khai" />
+    </node>
+    <node id="3290081450" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tân Lập" />
+    </node>
+    <node id="3290081451" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tân Lập" />
+    </node>
+    <node id="12600009197" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tân Phúc - Bãi Sậy" />
+    </node>
+    <node id="12600009198" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tân Phúc - Bãi Sậy" />
+    </node>
+    <node id="6888345522" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Túy Loan" />
+    </node>
+    <node id="6888345523" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Túy Loan" />
+    </node>
+    <node id="6860315447" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tư Nghĩa" />
+    </node>
+    <node id="6860315448" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tư Nghĩa" />
+    </node>
+    <node id="13603297981" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tống Sơn (Hà Lĩnh cũ)" />
+    </node>
+    <node id="13603297982" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Tống Sơn (Hà Lĩnh cũ)" />
+    </node>
+    <node id="6221327319" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Việt Hưng" />
+    </node>
+    <node id="6221327320" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Việt Hưng" />
+    </node>
+    <node id="4917239874" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Việt Trì (IC7)" />
+    </node>
+    <node id="4965039224" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Việt Trì (IC7)" />
+    </node>
+    <node id="6554703289" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Văn Bàn (IC16)" />
+    </node>
+    <node id="6876877576" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Văn Bàn (IC16)" />
+    </node>
+    <node id="6554465772" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Văn Quán (IC6)" />
+    </node>
+    <node id="6554465773" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Văn Quán (IC6)" />
+    </node>
+    <node id="11865554272" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Vĩnh Hảo" />
+    </node>
+    <node id="11865554273" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Vĩnh Hảo" />
+    </node>
+    <!-- TODO [Trạm thu phí Vĩnh Phú]: cần xử lý tay 1 trạm ở chiều đối diện -->
+    <node id="11921627309" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Vĩnh Phú" />
+    </node>
+    <node id="6859613337" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Vĩnh Phú" />
+    </node>
+    <node id="6859613339" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Vĩnh Phú" />
+    </node>
+    <node id="12579076271" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Vạn Thiện (Nhánh 2)" />
+    </node>
+    <node id="12579076280" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Vạn Thiện (Nhánh 2)" />
+    </node>
+    <node id="6425386072" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Vạn Điểm" />
+    </node>
+    <node id="6425386073" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Vạn Điểm" />
+    </node>
+    <node id="6425386074" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Vạn Điểm" />
+    </node>
+    <node id="6425386075" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Vạn Điểm" />
+    </node>
+    <node id="2326748213" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Vực Vòng" />
+    </node>
+    <node id="2326748231" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Vực Vòng" />
+    </node>
+    <node id="2326748263" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Vực Vòng" />
+    </node>
+    <node id="4999564889" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Vực Vòng" />
+    </node>
+    <node id="6775351396" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Xa Lộ Hà Nội" />
+    </node>
+    <node id="6554701337" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Xuân Giao (IC18)" />
+    </node>
+    <node id="6554701338" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Xuân Giao (IC18)" />
+    </node>
+    <!-- TODO [Trạm thu phí Xuân Mai - Hòa Bình]: cẩn bổ sung logo trạm trên osm -->
+    <node id="12452756354" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Xuân Mai - Hòa Bình" />
+    </node>
+    <node id="13892995819" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Xuân Mai - Hòa Bình" />
+    </node>
+    <node id="12767896053" version="1" action="modify">
+      <tag k="name" v="Trạm Thu phí Xương Lâm - Thị trấn Vôi" />
+    </node>
+    <node id="12767896054" version="1" action="modify">
+      <tag k="name" v="Trạm Thu phí Xương Lâm - Thị trấn Vôi" />
+    </node>
+    <node id="12767896055" version="1" action="modify">
+      <tag k="name" v="Trạm Thu phí Xương Lâm - Thị trấn Vôi" />
+    </node>
+    <node id="13551007070" version="1" action="modify">
+      <tag k="name" v="Trạm Thu phí Xương Lâm - Thị trấn Vôi" />
+    </node>
+    <node id="13551007072" version="1" action="modify">
+      <tag k="name" v="Trạm Thu phí Xương Lâm - Thị trấn Vôi" />
+    </node>
+    <node id="13551007098" version="1" action="modify">
+      <tag k="name" v="Trạm Thu phí Xương Lâm - Thị trấn Vôi" />
+    </node>
+    <node id="6880975506" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Yên Bái (IC12)" />
+    </node>
+    <node id="4686546644" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Yên Mỹ" />
+    </node>
+    <node id="5003536551" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Ô Môn" />
+    </node>
+    <node id="4094748407" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí ĐT741" />
+    </node>
+    <node id="4094748408" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí ĐT741" />
+    </node>
+    <node id="3516472469" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đông Hà" />
+    </node>
+    <node id="3516472470" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đông Hà" />
+    </node>
+    <node id="10198933877" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đông Hưng" />
+    </node>
+    <node id="10198933880" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đông Hưng" />
+    </node>
+    <node id="13603305910" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đông Xuân" />
+    </node>
+    <node id="9290026136" version="1" action="modify">
+      <tag k="name" v="Trạm Thu Phí Đường 768" />
+    </node>
+    <node id="9301617876" version="1" action="modify">
+      <tag k="name" v="Trạm Thu Phí Đường 768" />
+    </node>
+    <node id="9322484527" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí đường bộ số 1 DT743" />
+    </node>
+    <node id="9322484528" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí đường bộ số 1 DT743" />
+    </node>
+    <node id="8579215313" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đường cao tốc Phan Thiết - Dầu Giây" />
+    </node>
+    <node id="8579215378" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đường cao tốc Phan Thiết - Dầu Giây" />
+    </node>
+    <node id="10823778102" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đường chuyên dùng vận chuyển VLXD Phước Tân (Trạm Phước Tân)" />
+    </node>
+    <node id="10823778103" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đường chuyên dùng vận chuyển VLXD Phước Tân (Trạm Phước Tân)" />
+    </node>
+    <node id="10114180887" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí đường Hòa Lạc - Hòa Bình" />
+    </node>
+    <node id="10114180888" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí đường Hòa Lạc - Hòa Bình" />
+    </node>
+    <node id="10852800099" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đại Ninh" />
+    </node>
+    <node id="11866479440" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đại Ninh" />
+    </node>
+    <node id="11866479447" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đại Ninh" />
+    </node>
+    <node id="13594711891" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đại Ninh" />
+    </node>
+    <node id="8344470069" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đại Xuyên 2" />
+    </node>
+    <node id="8344470071" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đại Xuyên 2" />
+    </node>
+    <node id="10997726248" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đầm Hà" />
+    </node>
+    <node id="10997726249" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đầm Hà" />
+    </node>
+    <node id="10826144162" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đắk Song" />
+    </node>
+    <node id="10826144165" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đắk Song" />
+    </node>
+    <node id="1403291172" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Định An" />
+    </node>
+    <node id="1403291202" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Định An" />
+    </node>
+    <node id="1403291272" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Định An" />
+    </node>
+    <node id="1403291300" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Định An" />
+    </node>
+    <node id="13603297969" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đồng Giao" />
+    </node>
+    <node id="13603297970" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đồng Giao" />
+    </node>
+    <node id="6427220541" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đồng Lá" />
+    </node>
+    <node id="6427220542" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đồng Lá" />
+    </node>
+    <node id="8878196305" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đồng Đăng" />
+    </node>
+    <node id="8878196306" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đồng Đăng" />
+    </node>
+    <node id="10196742008" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đức Hoà" />
+    </node>
+    <node id="10198817951" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Đức Hoà" />
     </node>
   </modify>
 </osmChange>
