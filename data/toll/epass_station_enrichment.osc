@@ -21,6 +21,10 @@
       <tag k="name" v="Nút giao Long Thành cao tốc Biên Hòa – Vũng Tàu" />
       <tag k="type" v="exit" />
     </node>
+    <node id="13906819840" version="1" action="modify">
+      <tag k="name" v="Nút giao Long Thành cao tốc Biên Hòa – Vũng Tàu" />
+      <tag k="type" v="entry" />
+    </node>
     <node id="10779240467" version="1" action="modify">
       <tag k="name" v="Trạm Thu phí Bến Lức" />
       <tag k="type" v="entry" />
@@ -116,6 +120,14 @@
     <node id="13603305917" version="1" action="modify">
       <tag k="name" v="Trạm thu phí BOT Nút giao Nghi Sơn" />
       <tag k="type" v="exit" />
+    </node>
+    <node id="13603305916" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí BOT Nút giao Nghi Sơn" />
+      <tag k="type" v="entry" />
+    </node>
+    <node id="13603305915" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí BOT Nút giao Nghi Sơn" />
+      <tag k="type" v="entry" />
     </node>
     <node id="11946078822" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Bình Giang" />
@@ -971,7 +983,7 @@
       <tag k="type" v="entry" />
     </node>
     <node id="13603305923" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Nút giao Quỳnh Vinh" />
+      <tag k="name" v="Trạm Thu Phí Nút giao Quỳnh Lưu" />
       <tag k="type" v="exit" />
     </node>
     <node id="13603305924" version="1" action="modify">
@@ -992,7 +1004,6 @@
     </node>
     <node id="13457949978" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Nút giao Xuân Lộc" />
-      <tag k="barrier" v="toll_booth" />
       <tag k="type" v="entry" />
     </node>
     <node id="13457949979" version="1" action="modify">
@@ -1008,7 +1019,7 @@
       <tag k="type" v="entry" />
     </node>
     <node id="4713812586" version="1" action="modify">
-      <tag k="name" v="Trạm thu phí Nút giao Đồng Thắng" />
+      <tag k="name" v="Trạm thu phí BOT Nút giao Nghi Sơn" />
       <tag k="type" v="exit" />
     </node>
     <node id="11829703712" version="1" action="modify">
