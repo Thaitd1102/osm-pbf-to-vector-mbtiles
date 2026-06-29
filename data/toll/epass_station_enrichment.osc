@@ -47,7 +47,7 @@
     </node>
     <node id="6385048398" version="1" action="modify">
       <tag k="name" v="Trạm cao tốc Hà Nội - Hải Phòng (Đình Vũ)" />
-      <tag k="type" v="exit" />
+      <tag k="type" v="entry" />
     </node>
     <node id="9865004499" version="1" action="modify">
       <tag k="name" v="Trạm Thu phí 2B" />
@@ -55,7 +55,7 @@
     </node>
     <node id="9865004504" version="1" action="modify">
       <tag k="name" v="Trạm Thu phí 2B" />
-      <tag k="type" v="entry" />
+      <tag k="type" v="exit" />
     </node>
     <node id="9754127695" version="1" action="modify">
       <tag k="name" v="Trạm thu phí 319 HLD" />
@@ -83,11 +83,11 @@
     </node>
     <node id="13594609044" version="1" action="modify">
       <tag k="name" v="Trạm thu phí An Hữu - cao tốc Mỹ Thuận - Cần Thơ" />
-      <tag k="type" v="entry" />
+      <tag k="type" v="exit" />
     </node>
     <node id="13594609049" version="1" action="modify">
       <tag k="name" v="Trạm thu phí An Hữu - cao tốc Mỹ Thuận - Cần Thơ" />
-      <tag k="type" v="exit" />
+      <tag k="type" v="entry" />
     </node>
     <node id="3878471036" version="1" action="modify">
       <tag k="name" v="Trạm thu phí An Lão" />
@@ -131,7 +131,7 @@
     </node>
     <node id="11946078822" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Bình Giang" />
-      <tag k="type" v="exit" />
+      <tag k="type" v="entry" />
     </node>
     <node id="11946078823" version="1" action="modify">
       <tag k="name" v="Trạm Thu phí Bình Giang" />
@@ -188,7 +188,7 @@
     </node>
     <node id="12723387255" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Bắc Quảng Ngãi" />
-      <tag k="type" v="exit" />
+      <tag k="type" v="entry" />
     </node>
     <node id="12369764927" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Bắc Thăng Long - Nội Bài" />
@@ -248,11 +248,11 @@
     </node>
     <node id="11829703708" version="1" action="modify">
       <tag k="name" v="Trạm Thu phí Cam Ranh" />
-      <tag k="type" v="entry" />
+      <tag k="type" v="exit" />
     </node>
     <node id="11829703709" version="1" action="modify">
       <tag k="name" v="Trạm Thu phí Cam Ranh" />
-      <tag k="type" v="exit" />
+      <tag k="type" v="entry" />
     </node>
     <node id="4086614472" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Cam Thịnh" />
@@ -360,7 +360,7 @@
     </node>
     <node id="10852800032" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Chợ Lầu" />
-      <tag k="type" v="entry" />
+      <tag k="type" v="exit" />
     </node>
     <node id="13594729809" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Chợ Lầu" />
@@ -368,7 +368,7 @@
     </node>
     <node id="13594729820" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Chợ Lầu" />
-      <tag k="type" v="exit" />
+      <tag k="type" v="entry" />
     </node>
     <node id="6860674126" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Cà Ná" />
@@ -632,11 +632,11 @@
     </node>
     <node id="12725719691" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Hà Lam" />
-      <tag k="type" v="entry" />
+      <tag k="type" v="exit" />
     </node>
     <node id="12725719694" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Hà Lam" />
-      <tag k="type" v="exit" />
+      <tag k="type" v="entry" />
     </node>
     <node id="12269366786" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Hà Nội - Bắc Giang" />
@@ -652,11 +652,11 @@
     </node>
     <node id="13603297973" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Hà Trung" />
-      <tag k="type" v="exit" />
+      <tag k="type" v="entry" />
     </node>
     <node id="13603297974" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Hà Trung" />
-      <tag k="type" v="entry" />
+      <tag k="type" v="exit" />
     </node>
     <node id="6554530141" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Hạ Hoà (IC11)" />
@@ -668,11 +668,11 @@
     </node>
     <node id="10997783392" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Hải Hà" />
-      <tag k="type" v="exit" />
+      <tag k="type" v="entry" />
     </node>
     <node id="11860353642" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Hải Hà" />
-      <tag k="type" v="entry" />
+      <tag k="type" v="exit" />
     </node>
     <node id="11266480548" version="1" action="modify">
       <tag k="name" v="Trạm thu phí hầm Cù Mông" />
@@ -744,7 +744,7 @@
     </node>
     <node id="11619047225" version="1" action="modify">
       <tag k="name" v="Trạm Thu phí Km 237 Cao tốc Hà Nội - Lào Cai" />
-      <tag k="type" v="entry" />
+      <tag k="type" v="exit" />
     </node>
     <node id="11619047243" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Km 237 cao tốc Hà Nội - Lào Cai" />
@@ -848,11 +848,11 @@
     </node>
     <node id="13594711865" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Ma Lâm" />
-      <tag k="type" v="entry" />
+      <tag k="type" v="exit" />
     </node>
     <node id="13594711866" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Ma Lâm" />
-      <tag k="type" v="exit" />
+      <tag k="type" v="entry" />
     </node>
     <node id="13594711877" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Ma Lâm" />
@@ -860,7 +860,7 @@
     </node>
     <node id="13594711878" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Ma Lâm" />
-      <tag k="type" v="entry" />
+      <tag k="type" v="exit" />
     </node>
     <node id="8069201958" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Móng Cái" />
@@ -880,7 +880,7 @@
     </node>
     <node id="13453097870" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Mỹ Yên" />
-      <tag k="type" v="exit" />
+      <tag k="type" v="entry" />
     </node>
     <node id="9697403773" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Mỹ Yên" />
@@ -892,7 +892,7 @@
     </node>
     <node id="9865004498" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Mỹ Yên" />
-      <tag k="type" v="exit" />
+      <tag k="type" v="entry" />
     </node>
     <node id="6950227536" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Nam Bình Định" />
@@ -968,11 +968,11 @@
     </node>
     <node id="13603297968" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Nút giao Mai Sơn" />
-      <tag k="type" v="exit" />
+      <tag k="type" v="entry" />
     </node>
     <node id="13603305920" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Nút giao Quỳnh Lưu" />
-      <tag k="type" v="entry" />
+      <tag k="type" v="exit" />
     </node>
     <node id="13603305921" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Nút giao Quỳnh Lưu" />
@@ -1056,7 +1056,7 @@
     </node>
     <node id="3992131737" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Phù Ninh (IC8)" />
-      <tag k="type" v="exit" />
+      <tag k="type" v="entry" />
     </node>
     <node id="4911856190" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Phù Ninh (IC8)" />
@@ -1112,7 +1112,7 @@
     </node>
     <node id="12304058928" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Phố Lu (IC17)" />
-      <tag k="type" v="exit" />
+      <tag k="type" v="entry" />
     </node>
     <node id="13955471075" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Phố Lu (IC17)" />
@@ -1232,7 +1232,7 @@
     </node>
     <node id="2976056988" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Quốc lộ 51" />
-      <tag k="type" v="entry" />
+      <tag k="type" v="exit" />
     </node>
     <node id="5606336350" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Quốc lộ 51" />
@@ -1248,11 +1248,11 @@
     </node>
     <node id="11813154461" version="1" action="modify">
       <tag k="name" v="Trạm Thu phí Quốc lộ 55" />
-      <tag k="type" v="exit" />
+      <tag k="type" v="entry" />
     </node>
     <node id="11813154462" version="1" action="modify">
       <tag k="name" v="Trạm Thu phí Quốc lộ 55" />
-      <tag k="type" v="entry" />
+      <tag k="type" v="exit" />
     </node>
     <node id="11813154463" version="1" action="modify">
       <tag k="name" v="Trạm Thu phí Quốc lộ 55" />
@@ -1460,15 +1460,15 @@
     </node>
     <node id="6880381075" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Thường Tín" />
-      <tag k="type" v="entry" />
+      <tag k="type" v="exit" />
     </node>
     <node id="6880381082" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Thường Tín" />
-      <tag k="type" v="exit" />
+      <tag k="type" v="entry" />
     </node>
     <node id="6880410841" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Thường Tín" />
-      <tag k="type" v="entry" />
+      <tag k="type" v="exit" />
     </node>
     <node id="6880410845" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Thường Tín" />
@@ -1633,7 +1633,7 @@
     </node>
     <node id="12579076271" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Vạn Thiện (Nhánh 2)" />
-      <tag k="type" v="exit" />
+      <tag k="type" v="entry" />
     </node>
     <node id="12579076280" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Vạn Thiện (Nhánh 2)" />
@@ -1818,7 +1818,7 @@
     </node>
     <node id="10852800099" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Đại Ninh" />
-      <tag k="type" v="entry" />
+      <tag k="type" v="exit" />
     </node>
     <node id="11866479440" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Đại Ninh" />
@@ -1826,7 +1826,7 @@
     </node>
     <node id="11866479447" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Đại Ninh" />
-      <tag k="type" v="exit" />
+      <tag k="type" v="entry" />
     </node>
     <node id="13594711891" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Đại Ninh" />
@@ -1874,7 +1874,7 @@
     </node>
     <node id="13603297969" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Đồng Giao" />
-      <tag k="type" v="exit" />
+      <tag k="type" v="entry" />
     </node>
     <node id="13603297970" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Đồng Giao" />
@@ -1886,7 +1886,7 @@
     </node>
     <node id="13603297972" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Đồng Giao" />
-      <tag k="type" v="entry" />
+      <tag k="type" v="exit" />
     </node>
     <node id="6427220541" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Đồng Lá" />
@@ -1902,11 +1902,11 @@
     </node>
     <node id="8878196305" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Đồng Đăng" />
-      <tag k="type" v="entry" />
+      <tag k="type" v="exit" />
     </node>
     <node id="8878196306" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Đồng Đăng" />
-      <tag k="type" v="exit" />
+      <tag k="type" v="entry" />
     </node>
     <node id="10196742008" version="1" action="modify">
       <tag k="name" v="Trạm thu phí Đức Hoà" />
@@ -1927,6 +1927,42 @@
     <node id="13594672355" version="1" action="modify">
       <tag k="name" v="Trạm Thu phí Đường tỉnh 720 Km37+800" />
       <tag k="type" v="entry" />
+    </node>
+    <node id="11938173244" version="1" action="modify">
+      <tag k="name" v="Trạm Thu phí Nghi Phương" />
+      <tag k="type" v="exit" />
+    </node>
+    <node id="11938173245" version="1" action="modify">
+      <tag k="name" v="Trạm Thu phí Nghi Phương" />
+      <tag k="type" v="entry" />
+    </node>
+    <node id="13453097872" version="1" action="modify">
+      <tag k="name" v="Trạm Thu Phí 06" />
+      <tag k="type" v="exit" />
+    </node>
+    <node id="13603297975" version="1" action="modify">
+      <tag k="name" v="Trạm Thu Phí Hà Trung" />
+      <tag k="type" v="exit" />
+    </node>
+    <node id="13603297976" version="1" action="modify">
+      <tag k="name" v="Trạm Thu Phí Hà Trung" />
+      <tag k="type" v="entry" />
+    </node>
+    <node id="13664135930" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nút giao Mai Sơn - nh 3" />
+      <tag k="type" v="entry" />
+    </node>
+    <node id="13664135931" version="1" action="modify">
+      <tag k="name" v="Trạm thu phí Nút giao Mai Sơn - nh 3" />
+      <tag k="type" v="exit" />
+    </node>
+    <node id="5606335895" version="1" action="modify">
+      <tag k="name" v="Trạm Thu phí Quốc lộ 51" />
+      <tag k="type" v="entry" />
+    </node>
+    <node id="9697403778" version="1" action="modify">
+      <tag k="name" v="Trạm Thu Phí 2A" />
+      <tag k="type" v="exit" />
     </node>
   </modify>
 </osmChange>
